@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "0.79",
+  "versionCode": 80,
+  "versionName": "0.80",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "bfa6d475cb5dfdeed766846c053b5c2e7961a7eb0a1dfb476ca9778f00514450",
-  "releaseNotes": "Deep Sleep wird jetzt als echte Android-Suspendzeit gemessen."
+  "sha256": "7d9c869f227d387a1ceea2bdceb43bbeea14406786d9fc9bb464b91d40d8f729",
+  "releaseNotes": "Kabelwechsel werden jetzt direkt über Androids Power-Broadcasts verarbeitet."
 }
