@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.76",
+  "versionCode": 77,
+  "versionName": "0.77",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "e49dbdb3862aa9bed4129b7df5ed19109b8908629a6ab841edb0b5b5cf29d76d",
-  "releaseNotes": "Die Entladestrom-Grafik zeigt lokale Entladewerte jetzt korrekt an."
+  "sha256": "41ec9f7b8f1fe1f969fc8426c822ec2a11f7b0aa9fdb70caeab8e1ae98fce696",
+  "releaseNotes": "Der Hintergrundmonitor startet nach App-Updates automatisch wieder."
 }
