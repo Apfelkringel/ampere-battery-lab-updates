@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "0.83",
+  "versionCode": 84,
+  "versionName": "0.84",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "c17f98a3adcf3bb9f8e99deb68544f92e18dec1f0721d0c91fada159f273aec8",
-  "releaseNotes": "Getrennte Ladegeschwindigkeit und Restlaufzeit für Bildschirm an/aus ergänzt."
+  "sha256": "20a47adcc75971b89f7cedb71b7a7d82318451f0ed022ba118e53aa9a18abc56",
+  "releaseNotes": "Ladegeschwindigkeitsbereich bereinigt und Darstellung weiter poliert."
 }
