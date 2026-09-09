@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "0.78",
+  "versionCode": 79,
+  "versionName": "0.79",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "d495d466bd8521605dd4331d09fd4096e3d45f69cc5a708c9ffa50a1c0c8ba89",
-  "releaseNotes": "Die automatische Ladeerkennung wird jetzt klar als Android-Status angezeigt."
+  "sha256": "bfa6d475cb5dfdeed766846c053b5c2e7961a7eb0a1dfb476ca9778f00514450",
+  "releaseNotes": "Deep Sleep wird jetzt als echte Android-Suspendzeit gemessen."
 }
