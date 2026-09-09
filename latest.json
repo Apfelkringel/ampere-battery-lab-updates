@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "0.77",
+  "versionCode": 78,
+  "versionName": "0.78",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "41ec9f7b8f1fe1f969fc8426c822ec2a11f7b0aa9fdb70caeab8e1ae98fce696",
-  "releaseNotes": "Der Hintergrundmonitor startet nach App-Updates automatisch wieder."
+  "sha256": "d495d466bd8521605dd4331d09fd4096e3d45f69cc5a708c9ffa50a1c0c8ba89",
+  "releaseNotes": "Die automatische Ladeerkennung wird jetzt klar als Android-Status angezeigt."
 }
