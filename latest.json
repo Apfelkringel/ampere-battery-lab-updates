@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.61",
+  "versionCode": 62,
+  "versionName": "0.62",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "3dab1fc0f75b0d93d529d9f7f7004c058db26d9a973f600d1dbbfbeb5547680a",
-  "releaseNotes": "Vollständigeres Backup für Schlafzeit-Statistiken."
+  "sha256": "da1dce17b39a4543e5951b25c8cf475653857db7847eec3b631559e51b1c730d",
+  "releaseNotes": "Fehlerbehebung für die Light-Theme-Auswahl."
 }
