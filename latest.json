@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "0.84",
+  "versionCode": 85,
+  "versionName": "0.85",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "20a47adcc75971b89f7cedb71b7a7d82318451f0ed022ba118e53aa9a18abc56",
-  "releaseNotes": "Ladegeschwindigkeitsbereich bereinigt und Darstellung weiter poliert."
+  "sha256": "fbe0d4b707fe5b6ea4c43ff27a1b7cdd92ffa352c96621d9ec716e7c1961face",
+  "releaseNotes": "Vollständig deutsche Oberfläche, deutsche Zeit-/Datumsformate und korrigierte Textüberläufe in Karten, Dialogen und Systemanzeigen."
 }
