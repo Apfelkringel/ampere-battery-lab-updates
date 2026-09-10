@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "0.114",
+  "versionCode": 115,
+  "versionName": "0.115",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "fd401c517faf6792afd24b29407ece9657dd295b6721c6e41ae20e5f8442e4c8",
-  "releaseNotes": "Der Einstellungsdialog schließt jetzt zuverlässig per X oder Tipp außerhalb. Schmale Ladeansichten bleiben innerhalb ihrer Spalten; fehlerhafte 0-%- und rückwärts laufende Sitzungen werden nicht gespeichert."
+  "sha256": "4fbaee470afcd403c4d9c404f9662783bcbff8f62f7e6babecebb021c290f787",
+  "releaseNotes": "Keine erfundene 4.500-mAh-Kapazität mehr: Wenn Android die Werkskapazität nicht liefert, bleibt sie korrekt nicht verfügbar. Zusätzlich: zuverlässiges Schließen der Einstellungen und robuste Sitzungs-/Webdaten."
 }
