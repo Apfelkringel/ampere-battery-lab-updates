@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "0.102",
+  "versionCode": 103,
+  "versionName": "0.103",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "45555991528ec22628c0d440ae01fb47c414a3faf870d7bc2743d2eb68cc700d",
-  "releaseNotes": "Einstellungen schließen jetzt per Tap außerhalb oder über das sichtbare ×. Update-Prüfung, Download und Installation sind gegen parallele Vorgänge geschützt."
+  "sha256": "e116c0a52168235f9c113cbc6f59665141fc414942ed3ff6a5bee2528785cc44",
+  "releaseNotes": "Dashboard-Texte, Werte und Einheiten bleiben jetzt innerhalb ihrer Karten und Spalten; die Darstellung ist stabiler auf schmalen, breiten und quer gehaltenen Bildschirmen."
 }
