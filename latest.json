@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "0.99",
+  "versionCode": 100,
+  "versionName": "1.00",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "df57c490b3962c950e2cce20a5bbfa3f8221f4b70b422d6f8857b3740cd45253",
-  "releaseNotes": "Das helle Theme ist kontrastreicher, Status- und Navigationsleiste passen sich dem Theme an, und die Kopfbuttons haben konsistente 48-dp-Touchflächen mit exakt ausgerichteten Hitboxen."
+  "sha256": "9b0db96df678f8cd7dd6e42eb4e0ff55cac0d4ddbf6276789f30da24da42ca61",
+  "releaseNotes": "Einstellungen schließen jetzt per Tap außerhalb oder über das sichtbare ×. Update-Prüfung, Download und Installation sind gegen parallele Vorgänge geschützt."
 }
