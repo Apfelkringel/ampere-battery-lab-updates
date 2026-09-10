@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "0.92",
+  "versionCode": 93,
+  "versionName": "0.93",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "737621654177818338244452c1a8e099f839bb86646ee29f8120f8db3c9d298d",
-  "releaseNotes": "Der Build zeigt die installierte Version direkt in der App an: LIVE-TELEMETRIE · v0.92. Dadurch lässt sich nach einem Update sofort prüfen, ob wirklich das neue APK geladen wurde."
+  "sha256": "8db0dc12871f70ce237134aa64cf2d611afc38980a38c977dca65d346a119d61",
+  "releaseNotes": "0-%-Sitzungen werden nicht mehr als Verlaufseinträge gespeichert; echte Ladeenergie bleibt in den Summen erhalten. Das Dashboard erhält eine deutlich neue Live-Oberfläche mit klarer Automatik- und Versionsanzeige."
 }
