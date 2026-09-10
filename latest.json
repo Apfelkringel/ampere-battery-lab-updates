@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "0.116",
+  "versionCode": 117,
+  "versionName": "0.117",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "83a4db2e89b4dc33f773e1b1a2b35f8f12b2d9a407eaea9d63bfff9d13620ff1",
-  "releaseNotes": "Aktive Lade-/Entladesitzungen werden jetzt auch in der sichtbaren Aktivität über Neustarts hinweg korrekt fortgeführt; Startzeit, Startstand und Energiebasis bleiben erhalten."
+  "sha256": "b064aaf4fce138d703b30faf38a8047da9478867a0a7c4184e0d08b4ae7d7ed6",
+  "releaseNotes": "Robustere Kapazitätserkennung über Batterie-/BMS-Treiber und Android-PowerProfile; fehlende Temperatur, Spannung und Kapazität werden nicht mehr als erfundene 0-Werte angezeigt."
 }
