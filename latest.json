@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "0.103",
+  "versionCode": 104,
+  "versionName": "0.104",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
   "sha256": "da73ffcc346cd8ef845cefa573ba3b0abd90bed84e5f7b8aba449b0df68d219d",
   "releaseNotes": "Navigation richtet Icon und Beschriftung jetzt als gemeinsamen, exakt zentrierten Block aus; das bleibt auf schmalen, breiten und quer gehaltenen Bildschirmen stabil."
