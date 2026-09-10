@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "0.90",
+  "versionCode": 91,
+  "versionName": "0.91",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "71eb61ea8b70ee796c1ccce3c59eb732e3077e28eb9029da48b6490cb2c98651",
-  "releaseNotes": "Sitzungserkennung stabilisiert: keine 0-%-Sitzungen durch Statusflackern, automatische Kabelerkennung mit korrekter Quelle. In-App-Updates prüfen zusätzlich Release-Signatur, Hash, Paketname und Version; Cache-Busting verhindert alte Manifest-/APK-Stände."
+  "sha256": "f94c6117b5426c6371365317e3e3c29f2a9789e4801477bd71e73f18a4a0c9ac",
+  "releaseNotes": "Bereinigt alte 0-%-Sitzungen automatisch aus der Historie. Neue Sitzungen werden gegen Statusflackern stabilisiert; Updates prüfen zusätzlich Release-Signatur, Hash, Paketname und Version und umgehen alte Cache-Stände."
 }
