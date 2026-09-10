@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "0.106",
+  "versionCode": 110,
+  "versionName": "0.110",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "124886fb10e52920883c27d7730327e8c6e65d63031ee6bba89e43d0240ac797",
-  "releaseNotes": "Die Telefonansicht nutzt jetzt eine einheitliche adaptive Fensterklasse; der Akku-Kreis bleibt mit Abstand zu Chip, Text und Statuszeile."
+  "sha256": "f10e756dfb8b958dbbafff4892a1d81dc94a684ac602896c4d110c5b7aa37c53",
+  "releaseNotes": "Kopf-Buttons und Navigation sind jetzt geometrisch einheitlich; Landscape nutzt den sichtbaren Fensterrahmen und bleibt über der Systemnavigation."
 }
