@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "0.97",
+  "versionCode": 98,
+  "versionName": "0.98",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "d4a1c9fe08ca7d71abcc39b44da1dce7bf0fe2c4fcc025395d1c5625a4997a89",
-  "releaseNotes": "Kurze Querformatfenster erhalten eine eigene kompakte Startseite: Die Live-Karte bleibt vollständig im sicheren sichtbaren Bereich, Kennzahlen folgen scrollbar. Breite Queransichten, Portrait, Aussparungs-Insets und Textbegrenzungen bleiben adaptiv."
+  "sha256": "28f3855457c4e3c8d0d0332c74d77751e2cc5e675bcfb61db2955431f87be644",
+  "releaseNotes": "Die Einstellungs- und Hell/Dunkel-Buttons reagieren jetzt exakt an ihren sichtbaren Positionen, auch bei kompakten 320/360-dp-Handyfenstern. Die adaptive Landscape-/Portrait-Darstellung bleibt erhalten."
 }
