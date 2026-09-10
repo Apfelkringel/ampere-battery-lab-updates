@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "0.101",
+  "versionCode": 102,
+  "versionName": "0.102",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "8be55732c022f20cc0ae434c984d6b1df2c784362698666117af1f7a6a660264",
+  "sha256": "45555991528ec22628c0d440ae01fb47c414a3faf870d7bc2743d2eb68cc700d",
   "releaseNotes": "Einstellungen schließen jetzt per Tap außerhalb oder über das sichtbare ×. Update-Prüfung, Download und Installation sind gegen parallele Vorgänge geschützt."
 }
