@@ -1,7 +1,7 @@
 {
-  "versionCode": 96,
-  "versionName": "0.96",
+  "versionCode": 97,
+  "versionName": "0.97",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "cbe5cc2abe3899d1492333a976a35408bf38439db71633c8d06ec48407171648",
-  "releaseNotes": "Breite Querformatfenster erhalten jetzt eine kompakte Zwei-Spalten-Startseite: Live-Karte und vier Kernwerte sind gemeinsam sichtbar, der Verlauf bleibt darunter scrollbar. Portrait, schmale Displays, Insets und Textbegrenzungen bleiben adaptiv."
+  "sha256": "d4a1c9fe08ca7d71abcc39b44da1dce7bf0fe2c4fcc025395d1c5625a4997a89",
+  "releaseNotes": "Kurze Querformatfenster erhalten eine eigene kompakte Startseite: Die Live-Karte bleibt vollständig im sicheren sichtbaren Bereich, Kennzahlen folgen scrollbar. Breite Queransichten, Portrait, Aussparungs-Insets und Textbegrenzungen bleiben adaptiv."
 }
