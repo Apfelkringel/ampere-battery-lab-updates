@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "0.110",
+  "versionCode": 111,
+  "versionName": "0.111",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "f10e756dfb8b958dbbafff4892a1d81dc94a684ac602896c4d110c5b7aa37c53",
-  "releaseNotes": "Kopf-Buttons und Navigation sind jetzt geometrisch einheitlich; Landscape nutzt den sichtbaren Fensterrahmen und bleibt über der Systemnavigation."
+  "sha256": "fdd33016668e66ae8a4c011105dbfe0ae1eca1823fbc2a716ebda4fd95ceb9da",
+  "releaseNotes": "Die oberen Aktionen sind jetzt eine gemeinsame Toolbar-Kapsel; Navigation und aktive Zustände bleiben sauber zentriert."
 }
