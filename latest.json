@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "0.112",
+  "versionCode": 114,
+  "versionName": "0.114",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "b4bbbe906b5c11b83e1cc789d563a1f53b61c9c21cb2ae0fc0b092e4d41ec7ee",
-  "releaseNotes": "Schmale Ladeansichten bleiben jetzt innerhalb ihrer Spalten; fehlerhafte 0-%- und rückwärts laufende Sitzungen werden nicht mehr gespeichert. Der Web-Prototyp nutzt echte Browserdaten statt Demo-Werten."
+  "sha256": "fd401c517faf6792afd24b29407ece9657dd295b6721c6e41ae20e5f8442e4c8",
+  "releaseNotes": "Der Einstellungsdialog schließt jetzt zuverlässig per X oder Tipp außerhalb. Schmale Ladeansichten bleiben innerhalb ihrer Spalten; fehlerhafte 0-%- und rückwärts laufende Sitzungen werden nicht gespeichert."
 }
