@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "0.87",
+  "versionCode": 89,
+  "versionName": "0.89",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "25e296cef6f4e6440ba93158f9fb703434d5f549bfb9b7f03f2d1031ffba0140",
-  "releaseNotes": "Responsive UI für alle Handygrößen: keine überstehenden Texte, Balken oder Buttons; kompakte Navigation und gestapelte Karten auf schmalen Geräten."
+  "sha256": "d8cf49d408389b58c287d8280a7af54bd3d6fa187bd4f2b0606f7c079ef930c1",
+  "releaseNotes": "Responsive UI für schmale und breite Displays: keine überstehenden Texte, Balken oder Buttons; kompakte Navigation, gestapelte Karten und zentrierte Inhaltsbreite auf Tablets und Foldables."
 }
