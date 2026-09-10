@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "0.94",
+  "versionCode": 95,
+  "versionName": "0.95",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "9982186fd96fa58423ba5683c9d20fee2a818e8dbdb3d5ed08f92dd4feacb716",
-  "releaseNotes": "0-%-Sitzungen werden nicht mehr als Verlaufseinträge gespeichert; echte Ladeenergie bleibt in den Summen erhalten. Das Dashboard erhält eine deutlich neue Live-Oberfläche. Die Update-Prüfung nutzt jetzt den GitHub-API-Manifestpfad, damit CDN-Caches keine veralteten Updates liefern."
+  "sha256": "383674ff7eadbf38e8bdea12662cf508afc0700188e6da467d3ac9ce1c270409",
+  "releaseNotes": "Startseite für 240–800 dp und Querformat angepasst: kein Überlauf durch zentrierte Inhaltsbreite, sichere Insets, adaptive Header-Controls und größere, aber begrenzte Live-Karte. Die Update-Prüfung bleibt cache-sicher über den GitHub-API-Manifestpfad."
 }
