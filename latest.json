@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "0.172",
+  "versionCode": 173,
+  "versionName": "0.173",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "d504aa70987a67f1c5982f658671b2578f03f81fad9dae7bef6d0593afcc1188",
-  "releaseNotes": "Die ungenutzte Ausnahme von der Android-Akkuoptimierung wurde entfernt; benötigte Monitor- und Updatefunktionen bleiben erhalten."
+  "sha256": "8dd9b1ad8e73bc7d622c429053fee7c3a9479a32cfb8089d2804262893398e12",
+  "releaseNotes": "Die Entladen-Ansicht erfindet ohne abgeschlossene Entladung keine Historie mehr und zeigt stattdessen einen ehrlichen Leerzustand."
 }
