@@ -1,7 +1,7 @@
 {
-  "versionCode": 225,
-  "versionName": "0.225",
+  "versionCode": 260,
+  "versionName": "0.260",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "a5b1163b20a7920d42de2f7395da4a0eb308a88660cfd146645505dcc0340ce8",
-  "releaseNotes": "Android 14–17: Das Ladeziel ist jetzt als echter 50–100-%-Regler für TalkBack und Accessibility-Services bedienbar."
+  "sha256": "f24a77501db88c2c7604fd13a5198c29d68efa0c19583237d124968c1f2a76d3",
+  "releaseNotes": "0.260: Androids optionale Restenergie (ENERGY_COUNTER) wird separat vom Ladungszähler angezeigt und im Research-Export ausgegeben; unplausible Gerätewerte werden verworfen."
 }
