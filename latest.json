@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "0.149",
+  "versionCode": 150,
+  "versionName": "0.150",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "4b06f66c8ddc5c5383e68ae1d8a4699e7da44682aaa5a668c5d7561b4c058ed4",
-  "releaseNotes": "Android 16/17: Qualitatives Kapazitätsniveau wird getrennt von Akkugesundheit angezeigt; Gesundheit bleibt auf 100 % begrenzt."
+  "sha256": "2a2111f2b69451a1141f78d145b0c6347f08402f3279bfc082e9bf71d5856cd2",
+  "releaseNotes": "Laufzeitprognose: lokale 7-Tage-Daten bleiben bevorzugt; auf Android 12+ wird bei fehlender Historie die Systemprognose verwendet und als solche gekennzeichnet."
 }
