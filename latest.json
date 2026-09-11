@@ -1,7 +1,7 @@
 {
-  "versionCode": 188,
-  "versionName": "0.188",
+  "versionCode": 189,
+  "versionName": "0.189",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "13c376269905834eb83717a80d39d28377aadd4a52bd874dc70904092f712d8e",
-  "releaseNotes": "Ladeziele aus Backups und alten Einstellungen werden jetzt sicher auf 50 bis 100 Prozent normalisiert, bevor Regler, Fortschrittsbalken oder Ladealarm sie verwenden."
+  "sha256": "1623c795f7453fe6b3938a50749c18b09840c1be5c72e07a92ee14f4a6c4ae80",
+  "releaseNotes": "Unmögliche Gesundheitswerte wie 110 Prozent werden verworfen. Telemetrie wird nach Restore oder Migration sofort bereinigt, damit ungültige Messzeilen nicht gespeichert oder angezeigt bleiben."
 }
