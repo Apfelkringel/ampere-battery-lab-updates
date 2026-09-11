@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "0.148",
+  "versionCode": 149,
+  "versionName": "0.149",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "eebdfdb8fc678d5a84d93b924d3e46e825a18aa1d0fc0f32bdd1329e65402144",
-  "releaseNotes": "Ladesitzungen: Bei verrauschten Akkustandwerten wird die gemessene Ladeenergie berücksichtigt, ohne 0-%-Sitzungen zu erzeugen."
+  "sha256": "4b06f66c8ddc5c5383e68ae1d8a4699e7da44682aaa5a668c5d7561b4c058ed4",
+  "releaseNotes": "Android 16/17: Qualitatives Kapazitätsniveau wird getrennt von Akkugesundheit angezeigt; Gesundheit bleibt auf 100 % begrenzt."
 }
