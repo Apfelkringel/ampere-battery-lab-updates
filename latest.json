@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "0.128",
+  "versionCode": 129,
+  "versionName": "0.129",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "f2aeee413eb44d481850b4797ea1171d1f39771ff5ac3234b1b0b738609d184a",
-  "releaseNotes": "Alte 0-%-Sitzungen werden bereinigt; Android-Batteriezustand und Kapazitätsschätzung werden getrennt angezeigt."
+  "sha256": "96ba77318a290ed603c12f3cbf3ae64909feb7399aaf3c40f0b44cd6176d4b90",
+  "releaseNotes": "Android-16/17-Batteriezustände werden vollständig erkannt; alte 0-%-Sitzungen bleiben bereinigt."
 }
