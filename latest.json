@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "0.129",
+  "versionCode": 130,
+  "versionName": "0.130",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "96ba77318a290ed603c12f3cbf3ae64909feb7399aaf3c40f0b44cd6176d4b90",
-  "releaseNotes": "Android-16/17-Batteriezustände werden vollständig erkannt; alte 0-%-Sitzungen bleiben bereinigt."
+  "sha256": "a30a73fe8939c471d75e5e95e4eac8576312d66d84ae41930cc34109a4df1c21",
+  "releaseNotes": "Die Health-Seite zeigt jetzt messbare Vollzyklen (EFC) statt einer irreführenden Ladeeffizienz-Prozentzahl."
 }
