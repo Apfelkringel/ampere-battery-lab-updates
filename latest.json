@@ -1,7 +1,7 @@
 {
-  "versionCode": 167,
-  "versionName": "0.167",
+  "versionCode": 168,
+  "versionName": "0.168",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "dab268de2f908f08d81d83ee2ce78df7b5eccd825095910adddfb3c8da9b0fb6",
-  "releaseNotes": "Schmale Hochkant-Karten verwenden vollständige Kapazitätslabels ohne abgeschnittene Beschriftungen."
+  "sha256": "c64daf21d06f6a8d0d274d280cf6aa3d1a8ae06e99da2e16ad22fa061eef8eae",
+  "releaseNotes": "Der strukturierte Akku-Export überspringt beschädigte Altzeilen sicher, statt komplett abzubrechen."
 }
