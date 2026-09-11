@@ -1,7 +1,7 @@
 {
-  "versionCode": 206,
-  "versionName": "0.206",
+  "versionCode": 207,
+  "versionName": "0.207",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "da958d7eb8e73f9bd5f6d023538c1b846c578ec3c80a19d183417fcfe2181291",
-  "releaseNotes": "Android 14–17: Das Startbildschirm-Widget wählt bei kleinen Breiten automatisch eine kompakte, nicht überlappende Variante und aktualisiert sich beim Resize."
+  "sha256": "ed3f8b855e9e180899b35bacf5331c290ef23ce2f1f150b050447bdeb7cc3b03",
+  "releaseNotes": "Android 14–17: Akku-Gesundheit und zugehörige Kapazität werden aus derselben validierten Quelle gelesen; ungültige Werte wie 110 % werden vor der Anzeige verworfen."
 }
