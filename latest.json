@@ -1,7 +1,7 @@
 {
-  "versionCode": 193,
-  "versionName": "0.193",
+  "versionCode": 194,
+  "versionName": "0.194",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "0eaab01ec4d10b54ce6d7009d2588cdde31114a9142a2560a40c14d0eb258117",
-  "releaseNotes": "Verlauf und Sitzungszeiten bleiben auch nach einer Geräte-Uhrkorrektur chronologisch; keine rückwärts laufenden Sitzungen oder falschen Raten."
+  "sha256": "3d035ef3a7972583d8649770befc0772097af633b8176b874c638095a8784a3d",
+  "releaseNotes": "Nach einer rückwärts korrigierten Geräteuhr setzt Ampere seine Vordergrund- und Hintergrund-Abtastung korrekt neu. Verlauf und Sitzungen bleiben erhalten."
 }
