@@ -1,7 +1,7 @@
 {
-  "versionCode": 264,
-  "versionName": "0.264",
+  "versionCode": 265,
+  "versionName": "0.265",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "77b971128bb821789329b9dc3b85d23a7d12c457fab453c13f4df86edb02ed16",
-  "releaseNotes": "0.264: schützt realistische Tiefschlaf-Ströme unter 10 mA davor, durch die OEM-Skalenheuristik künstlich vervielfacht zu werden; Regressionstest ergänzt."
+  "sha256": "6b8c957d1d0cbebd46e9b420a4a325dbba5bc0d37dccff8b124c0a847cdb84ba",
+  "releaseNotes": "0.265: App-Verbrauchsschätzungen bleiben bei fehlender Entladeenergie leer, exakte Kurzsitzungen werden nicht durch Tages-Buckets ersetzt und veraltete Telemetrie wird nur innerhalb der Accounting-Grenze zugerechnet."
 }
