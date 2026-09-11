@@ -1,7 +1,7 @@
 {
-  "versionCode": 181,
-  "versionName": "0.181",
+  "versionCode": 182,
+  "versionName": "0.182",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c264040c8882e7812d4e06470dea7ba14d65ca723c4abfca0c712deaf7e6dbd6",
-  "releaseNotes": "Gesundheits-Prozent und mAh-Kapazität verwenden jetzt dieselbe gültige Android-SoH-Quelle."
+  "sha256": "3f06b7fe5d12470b1a5cff3909bd13f1c93ac8f5698e9df783f95ac5b2de3e6a",
+  "releaseNotes": "Automatische Gesundheitsmessungen werden nur noch nach nahezu voller und stabiler Ladung übernommen."
 }
