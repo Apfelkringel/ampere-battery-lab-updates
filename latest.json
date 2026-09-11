@@ -1,7 +1,7 @@
 {
-  "versionCode": 277,
-  "versionName": "0.277",
+  "versionCode": 278,
+  "versionName": "0.278",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "63ffc04bb5f55baaaf70c85e9fe5ac3520a5f0328c6dd4688a35215e935a56e2",
-  "releaseNotes": "0.277: Sekundäre Telemetrie nutzt jetzt durchgehend einen gedämpften Eukalyptus-Ton; die letzten violetten Hardcodes aus Entladen, Ladezyklen und Tiefschlaf sind entfernt."
+  "sha256": "37e1d63c984cb797c51e0e1291e6c434da7122f7b394776ca7d79b86c9783df7",
+  "releaseNotes": "0.278: Der aktuelle bekannte Android-Akku-Status hat im Dashboard Vorrang vor alten Monitor-Samples; ein gespeicherter Zustand wird nur noch bei unbekanntem Status als Fallback verwendet."
 }
