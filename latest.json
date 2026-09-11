@@ -1,7 +1,7 @@
 {
-  "versionCode": 266,
-  "versionName": "0.266",
+  "versionCode": 267,
+  "versionName": "0.267",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ce9688ba40c072a47ca63853e78874479caf1030d1dea04bb25523e204f952f3",
-  "releaseNotes": "0.266: Activity-Wechsel innerhalb derselben App bleiben durch die Android-Event-Kollision zwischen MOVE_TO_BACKGROUND und ACTIVITY_PAUSED korrekt als zusammenhängende Vordergrundzeit erhalten."
+  "sha256": "11bcaf3b083c81f1ab7f2eea0bb1470477f0e84c8161378679b784ca78869f9a",
+  "releaseNotes": "0.267: direkte App-Verbrauchsanteile werden vor der zeitbasierten Restverteilung reserviert, damit die angezeigten App-Schätzungen zusammen nie über die beobachtete Entladung hinausgehen."
 }
