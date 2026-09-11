@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "0.133",
+  "versionCode": 134,
+  "versionName": "0.134",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "2a14de43373601a3aea9b260f9026a1b95672f7f385ae0072437df7774878b86",
-  "releaseNotes": "Lokale Vollzyklen zählen Pegelabfälle am Ladekabel nicht mehr als Akkuverbrauch."
+  "sha256": "f35a7a16d6d4b9406e8453445d3de58de12e8e1f5b571392fa4a426c832b49bf",
+  "releaseNotes": "Vorsichtige lokale Vollzyklus-Schätzung aus Androids Charge Counter; Rücksprünge und Resets werden ignoriert."
 }
