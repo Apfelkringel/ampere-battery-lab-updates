@@ -1,7 +1,7 @@
 {
-  "versionCode": 219,
-  "versionName": "0.219",
+  "versionCode": 220,
+  "versionName": "0.220",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6d6cfb7f2509597c13d27b735feaa40cf14c3f0513336a289b3ee11b9a12426e",
-  "releaseNotes": "Android 14–17: Samsung-ASOC wird als zusätzlicher geprüfter Akkugesundheits-Fallback erkannt; qualitative oder unmögliche Werte bleiben ausgeschlossen."
+  "sha256": "ab82dbc44973de2056740ebb3ab173ce3e8e33b97bc936eac49e68a64dfc2af2",
+  "releaseNotes": "Android 14–17: Akkugesundheitswerte und ihre Quellen bleiben jetzt in allen Ansichten konsistent; Samsung-ASOC wird ausdrücklich bezeichnet."
 }
