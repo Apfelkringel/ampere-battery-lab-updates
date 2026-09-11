@@ -1,7 +1,7 @@
 {
-  "versionCode": 162,
-  "versionName": "0.162",
+  "versionCode": 163,
+  "versionName": "0.163",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "cd8792d9683d451cc0cdb087bd47913b3a0bb93d73a8e4034d213f06cc21fdbe",
-  "releaseNotes": "Der Charge-Counter wird vor Sitzungs- und EFC-Berechnungen zentral validiert."
+  "sha256": "8c771e104a7921b14cce8c63f32aa46a2ec3686ad6952d3a87fb20eb66b78559",
+  "releaseNotes": "Unmögliche Sitzungsänderungen über 100 % werden verworfen; verrauschte Werte werden aus gültiger Energie abgeleitet."
 }
