@@ -1,7 +1,7 @@
 {
-  "versionCode": 183,
-  "versionName": "0.183",
+  "versionCode": 184,
+  "versionName": "0.184",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7353cec1032f05864db63aa517d1182261a88d8e258f008582d188c1bff5a79f",
-  "releaseNotes": "Für die Gesundheitsmessung zählt jetzt der letzte gültige Ladestrom statt eines zufälligen frühen Minimalwerts."
+  "sha256": "b7077026a4b5b03f3ba314ef3c9380300b2b3ddc01ae91c6ea6e9ab9b103b93b",
+  "releaseNotes": "Kabel-Status-Hinweise laufen nach fünf Sekunden ab, damit Lade- und Entladesitzungen nicht dauerhaft falsch erkannt werden."
 }
