@@ -1,7 +1,7 @@
 {
-  "versionCode": 177,
-  "versionName": "0.177",
+  "versionCode": 178,
+  "versionName": "0.178",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9e2b4eb4cd2c5b5e4ae9d05024f573e54aed7784ba909008b4473f6697a35f4e",
-  "releaseNotes": "Ungültige Start-/End-Akkustände und Bildschirmwerte in alten Sitzungen werden nicht mehr angezeigt oder exportiert."
+  "sha256": "2ea119b08e64b7dfc6e37d70f13b1c8149919a87bb5a94aa3acf829aa9ad0801",
+  "releaseNotes": "Ungültige Sitzungsdauern und rückwärts laufende Start-/Endzeiten werden nicht mehr angezeigt oder exportiert."
 }
