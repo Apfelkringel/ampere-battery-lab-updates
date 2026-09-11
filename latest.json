@@ -1,7 +1,7 @@
 {
-  "versionCode": 176,
-  "versionName": "0.176",
+  "versionCode": 177,
+  "versionName": "0.177",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8eadcd548f9be5ed6e6e16897e2a6a29bb5a29f7346499661b5866c7f873bf21",
-  "releaseNotes": "Ungültige EFC-Werte in alten Sitzungen beschädigen die Verschleißgrafik nicht mehr."
+  "sha256": "9e2b4eb4cd2c5b5e4ae9d05024f573e54aed7784ba909008b4473f6697a35f4e",
+  "releaseNotes": "Ungültige Start-/End-Akkustände und Bildschirmwerte in alten Sitzungen werden nicht mehr angezeigt oder exportiert."
 }
