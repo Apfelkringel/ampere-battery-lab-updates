@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "0.160",
+  "versionCode": 161,
+  "versionName": "0.161",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ea20a90d511307614812a132ceafedf71134f7f42335463bfc07683b433de136",
-  "releaseNotes": "Temperaturwerte werden in Dashboard, Dienst, Widget, Overlay, Kachel und Alarm zentral validiert."
+  "sha256": "062e0d129c66e9cf6d4f6929823558396ece8a430545239692b859ab33f48988",
+  "releaseNotes": "Batteriespannung wird vor Anzeige und Akku-Leistungsberechnung zentral validiert."
 }
