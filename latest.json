@@ -1,7 +1,7 @@
 {
-  "versionCode": 185,
-  "versionName": "0.185",
+  "versionCode": 186,
+  "versionName": "0.186",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ce26bc786dca25f2d6a80112076e033146926ed850a0790cfd1753e48c8f44a0",
-  "releaseNotes": "CSV- und JSON-Exporte verwenden jetzt dieselbe strenge Telemetrieprüfung; ungültige und widersprüchliche Altzeilen werden nicht mehr exportiert."
+  "sha256": "204d888a15805dd803124f37d982c31e3bb2ff95ba64f31d9d75a650576f4641",
+  "releaseNotes": "Alle Live-Raten, App-Verbrauchswerte und Diagramme verwenden jetzt dieselbe strenge Telemetrieprüfung wie die Exporte; ungültige Altzeilen werden beim nächsten Speichern bereinigt."
 }
