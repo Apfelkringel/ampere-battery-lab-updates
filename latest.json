@@ -1,7 +1,7 @@
 {
-  "versionCode": 204,
-  "versionName": "0.204",
+  "versionCode": 205,
+  "versionName": "0.205",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3d2a457ca52046f02475363c23641fb3a788d7fe595408d7cb126d7f135b7a18",
-  "releaseNotes": "Android 14–17: Einstellungen, Hell/Dunkel und Live-Status sind jetzt als gleich große, getrennte Toolbar-Buttons sauber ausgerichtet."
+  "sha256": "3773111ef541991db64c62697023478473d2e93b7efca9f788c444cf6c8413e6",
+  "releaseNotes": "Android 14–17: Batterie-, BMS-, Fuel-Gauge- und USB-Quellen werden nach deklarierter Quelle priorisiert; irreführende USB-Knoten werden ausgeschlossen."
 }
