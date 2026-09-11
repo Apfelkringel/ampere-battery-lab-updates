@@ -1,7 +1,7 @@
 {
-  "versionCode": 270,
-  "versionName": "0.270",
+  "versionCode": 271,
+  "versionName": "0.271",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9710370284d1bb97ea04f638d0d9085e2ac959e26ea2c401745663c427d254e1",
-  "releaseNotes": "0.270: Der Ladezustand bleibt auch bei fehlendem OEM-EXTRA_PLUGGED korrekt; ein explizites plugged=0 wird weiterhin als Akkubetrieb behandelt."
+  "sha256": "450ea7831198e79342cb8d06c9de12f787776cb074f4d40ebb840d5265fb26b9",
+  "releaseNotes": "0.271: Widget, Quick Settings, Overlay und Ladescreensaver zeigen Strom und Leistung jetzt mit einheitlicher Lade-/Entladerichtung; fehlende Messwerte bleiben klar nicht verfügbar."
 }
