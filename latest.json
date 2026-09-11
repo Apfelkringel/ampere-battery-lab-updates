@@ -1,7 +1,7 @@
 {
-  "versionCode": 213,
-  "versionName": "0.213",
+  "versionCode": 214,
+  "versionName": "0.214",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "bc830a595be21fba20036ccabf3e3bd737ea207ff829393cafd1457e18495520",
-  "releaseNotes": "Android 14–17: Das Live-Overlay nutzt stabile Textbeschriftungen statt geräteabhängiger Emoji-Glyphen."
+  "sha256": "5275f4da1e3e2ea8748b88b419456ac6c3f8a08b480a47a133c7fbb86eb67cb6",
+  "releaseNotes": "Android 14–17: Schmale Kennzahlenkarten stapeln Icon, Label und Wert sauber; abgeschnittene Labels auf 320-dp-Geräten werden vermieden."
 }
