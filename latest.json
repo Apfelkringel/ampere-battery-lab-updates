@@ -1,7 +1,7 @@
 {
-  "versionCode": 173,
-  "versionName": "0.173",
+  "versionCode": 174,
+  "versionName": "0.174",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8dd9b1ad8e73bc7d622c429053fee7c3a9479a32cfb8089d2804262893398e12",
-  "releaseNotes": "Die Entladen-Ansicht erfindet ohne abgeschlossene Entladung keine Historie mehr und zeigt stattdessen einen ehrlichen Leerzustand."
+  "sha256": "e83c3e51e1790b515144fd29e86a4629e4be7b0ddcf170a19a9921a94db1daf9",
+  "releaseNotes": "Ungültige gespeicherte Prozentwerte wie 110 % werden verworfen; Akkugesundheit und Lade-/Entladeanzeigen zeigen nur noch valide Werte."
 }
