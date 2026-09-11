@@ -1,7 +1,7 @@
 {
-  "versionCode": 214,
-  "versionName": "0.214",
+  "versionCode": 215,
+  "versionName": "0.215",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5275f4da1e3e2ea8748b88b419456ac6c3f8a08b480a47a133c7fbb86eb67cb6",
-  "releaseNotes": "Android 14–17: Schmale Kennzahlenkarten stapeln Icon, Label und Wert sauber; abgeschnittene Labels auf 320-dp-Geräten werden vermieden."
+  "sha256": "947978efbc8c80b1fd4c23a344627ab2b65a59d06a8ea5ce5773943a6d2df2db",
+  "releaseNotes": "Android 14–17: Widersprüchliche alte Lade-/Entladesitzungen werden automatisch aus Verlauf und Export entfernt."
 }
