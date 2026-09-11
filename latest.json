@@ -1,7 +1,7 @@
 {
-  "versionCode": 269,
-  "versionName": "0.269",
+  "versionCode": 270,
+  "versionName": "0.270",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f7202e27df4f629ec1d104f18e4e099bd85206b47a18214ea6abfe9ea6400b84",
-  "releaseNotes": "0.269: Ladezeitprofile werden nach Netzteil, Wireless, USB und Dock getrennt; Quellenwechsel übertragen keine falsche Rate in die nächste Schätzung."
+  "sha256": "9710370284d1bb97ea04f638d0d9085e2ac959e26ea2c401745663c427d254e1",
+  "releaseNotes": "0.270: Der Ladezustand bleibt auch bei fehlendem OEM-EXTRA_PLUGGED korrekt; ein explizites plugged=0 wird weiterhin als Akkubetrieb behandelt."
 }
