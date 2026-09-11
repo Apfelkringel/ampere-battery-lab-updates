@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "0.137",
+  "versionCode": 138,
+  "versionName": "0.138",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f4cfcdc83a1ad168bb00462d9a5ac270c9deae1e67e189a4e0134d6ee6cffdf8",
-  "releaseNotes": "Hintergrundmessungen und Broadcasts laufen jetzt unabhängig vom UI auf einem eigenen Monitor-Thread."
+  "sha256": "911c18fad7afefba2795c592b16d7dd9b17548d4cd5394fd2176a82a9f7fde5f",
+  "releaseNotes": "Querformat kompakt: Die Übersichtskarte bleibt vollständig oberhalb der Systemnavigation und passt sich an kurze Fenster an."
 }
