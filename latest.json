@@ -1,7 +1,7 @@
 {
-  "versionCode": 189,
-  "versionName": "0.189",
+  "versionCode": 190,
+  "versionName": "0.190",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1623c795f7453fe6b3938a50749c18b09840c1be5c72e07a92ee14f4a6c4ae80",
-  "releaseNotes": "Unmögliche Gesundheitswerte wie 110 Prozent werden verworfen. Telemetrie wird nach Restore oder Migration sofort bereinigt, damit ungültige Messzeilen nicht gespeichert oder angezeigt bleiben."
+  "sha256": "12e51173d4c969623f9f76a6943e166448dbfa583acdf6f87791121c1b9b7d9f",
+  "releaseNotes": "Im breiten Querformat hat die Live-Karte jetzt zusätzlichen unteren Innenabstand, damit Statuszeile, Blitzsymbol und abgerundete Kontur sauber getrennt bleiben."
 }
