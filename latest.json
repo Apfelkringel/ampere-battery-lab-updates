@@ -1,7 +1,7 @@
 {
-  "versionCode": 265,
-  "versionName": "0.265",
+  "versionCode": 266,
+  "versionName": "0.266",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "6b8c957d1d0cbebd46e9b420a4a325dbba5bc0d37dccff8b124c0a847cdb84ba",
-  "releaseNotes": "0.265: App-Verbrauchsschätzungen bleiben bei fehlender Entladeenergie leer, exakte Kurzsitzungen werden nicht durch Tages-Buckets ersetzt und veraltete Telemetrie wird nur innerhalb der Accounting-Grenze zugerechnet."
+  "sha256": "ce9688ba40c072a47ca63853e78874479caf1030d1dea04bb25523e204f952f3",
+  "releaseNotes": "0.266: Activity-Wechsel innerhalb derselben App bleiben durch die Android-Event-Kollision zwischen MOVE_TO_BACKGROUND und ACTIVITY_PAUSED korrekt als zusammenhängende Vordergrundzeit erhalten."
 }

@@ -3,7 +3,7 @@
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
 The application source code and user data are not stored here.
 
-The current manifest points to release 0.265. Release 0.221 uses Android 12+
+The current manifest points to release 0.266. Release 0.221 uses Android 12+
 responsive `RemoteViews` cutoffs for short, compact and wide widget sizes,
 while older launchers keep the measured-size fallback.
 
