@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "0.166",
+  "versionCode": 167,
+  "versionName": "0.167",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "a69da5c026dd09394ffb7b56de0e4533f21a137ae4d133ccc11ca2e1f770b4c6",
-  "releaseNotes": "Breite Landscape-Ansichten geben dem Akku-Ring Abstand zur Überschrift und Statuszeile."
+  "sha256": "dab268de2f908f08d81d83ee2ce78df7b5eccd825095910adddfb3c8da9b0fb6",
+  "releaseNotes": "Schmale Hochkant-Karten verwenden vollständige Kapazitätslabels ohne abgeschnittene Beschriftungen."
 }
