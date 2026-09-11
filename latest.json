@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "0.159",
+  "versionCode": 160,
+  "versionName": "0.160",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5ba232c310a96642633c42c69f316c092801055eabda1581969db7b998514956",
-  "releaseNotes": "Gesundheitswerte zeigen jetzt korrekt, ob sie vom Android-System, lokalen Messungen, Benchmark oder BMS stammen."
+  "sha256": "ea20a90d511307614812a132ceafedf71134f7f42335463bfc07683b433de136",
+  "releaseNotes": "Temperaturwerte werden in Dashboard, Dienst, Widget, Overlay, Kachel und Alarm zentral validiert."
 }
