@@ -1,7 +1,7 @@
 {
-  "versionCode": 281,
-  "versionName": "0.281",
+  "versionCode": 282,
+  "versionName": "0.282",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8a3a1f9dcbc0f94fdd4ae351246975411c132d652d524bc1453118cac0193ce5",
-  "releaseNotes": "0.281: Die neue blau-türkise Designsprache ist jetzt im Dashboard durchgängig; Navigation, Buttons, Flächen und aktive Zustände folgen einer kühlen Instrumentenpalette."
+  "sha256": "1efae63adcee9a4c24a5a600f3f5ea1bdf536d4da7f392e20d8af1f0d30b4d8c",
+  "releaseNotes": "0.282: Die Referenz-Designsprache ist jetzt strukturell umgesetzt: gefüllte Türkis-Aktionen, ruhige neutrale Buttons, flache Flächen und eine klare obere Farbleiste."
 }
