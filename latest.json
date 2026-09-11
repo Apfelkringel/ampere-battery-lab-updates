@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "0.142",
+  "versionCode": 143,
+  "versionName": "0.143",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f17247a04d07686cf85887d46979e3ba5c3f205249226d911a384c6107369e79",
-  "releaseNotes": "Akkugesundheit: Unplausible Kapazitätsproben werden verworfen; die Anzeige bleibt zuverlässig auf maximal 100 Prozent begrenzt."
+  "sha256": "f203e9d706be3c0613d98de3ebb4f330eed264185108672995b2d6dd4cc9e27a",
+  "releaseNotes": "Akkugesundheit: Dashboard, Gesundheitsseite und Hintergrundbenachrichtigung verwenden jetzt dieselbe geprüfte Messwertquelle."
 }
