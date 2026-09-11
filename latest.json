@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "0.158",
+  "versionCode": 159,
+  "versionName": "0.159",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6da9d32f3e8f7da9b741ed3ce8f55759927fd146ed8d09aac25a6fde9edc0bdf",
-  "releaseNotes": "Unmögliche OEM-Akku-Gesundheitswerte über 100 % werden verworfen statt als 100 % angezeigt."
+  "sha256": "5ba232c310a96642633c42c69f316c092801055eabda1581969db7b998514956",
+  "releaseNotes": "Gesundheitswerte zeigen jetzt korrekt, ob sie vom Android-System, lokalen Messungen, Benchmark oder BMS stammen."
 }
