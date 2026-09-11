@@ -1,7 +1,7 @@
 {
-  "versionCode": 174,
-  "versionName": "0.174",
+  "versionCode": 175,
+  "versionName": "0.175",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e83c3e51e1790b515144fd29e86a4629e4be7b0ddcf170a19a9921a94db1daf9",
-  "releaseNotes": "Ungültige gespeicherte Prozentwerte wie 110 % werden verworfen; Akkugesundheit und Lade-/Entladeanzeigen zeigen nur noch valide Werte."
+  "sha256": "4913342114b755d2d88a8f46286006077cb5f524bbded7b4bb055357c47b713c",
+  "releaseNotes": "Beschädigte EFC-Zwischenstände wie NaN oder künstlich große Werte erzeugen keine falschen Akkuzyklen mehr."
 }
