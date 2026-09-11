@@ -1,7 +1,7 @@
 {
-  "versionCode": 200,
-  "versionName": "0.200",
+  "versionCode": 201,
+  "versionName": "0.201",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ce18f21a521e1566046993a3946512d7493ed2df1ab5f9ad6885494f8a40b3bf",
-  "releaseNotes": "Update-Stabilität: Kritische Download- und Installationsdaten werden vor Prozessverlust sicher gespeichert."
+  "sha256": "5bad75e4287bc33bd25b7e81f74e9d99345d7ffcbc2d182b678a997c21b3166c",
+  "releaseNotes": "Android 14–17: Akkustand- und Stromdiagramme zeigen echte Überwachungslücken jetzt als Lücken statt als erfundene Übergänge."
 }
