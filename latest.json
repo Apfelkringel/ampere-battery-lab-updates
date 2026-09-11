@@ -1,7 +1,7 @@
 {
-  "versionCode": 275,
-  "versionName": "0.275",
+  "versionCode": 277,
+  "versionName": "0.277",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "a721d960c959e5391d6aeb77bda94b63910744487ffc5b89bea6b52938b5cdd1",
-  "releaseNotes": "0.275: Wenn ein OEM EXTRA_PLUGGED weglässt, bleibt ein als Laden/Voll erkanntes Gerät auch in der Ladebaseline als verbunden gewertet; gültige Ladezyklen werden nicht mehr fälschlich als Absteckpunkt behandelt."
+  "sha256": "63ffc04bb5f55baaaf70c85e9fe5ac3520a5f0328c6dd4688a35215e935a56e2",
+  "releaseNotes": "0.277: Sekundäre Telemetrie nutzt jetzt durchgehend einen gedämpften Eukalyptus-Ton; die letzten violetten Hardcodes aus Entladen, Ladezyklen und Tiefschlaf sind entfernt."
 }
