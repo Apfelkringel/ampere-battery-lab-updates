@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "0.156",
+  "versionCode": 157,
+  "versionName": "0.157",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3ca3719e57f90c070092e352f03366297357f44922c0aaa9e8cd064f6c4fabe8",
-  "releaseNotes": "Die Temperaturwarnungs-Auswahl ist auf Android jetzt sichtbar und direkt konfigurierbar."
+  "sha256": "1fa92438562faf6978b571abf82812e1884e574552a65f5bb4122eb420379c28",
+  "releaseNotes": "Android-Stromwerte werden in Dashboard, Dienst, Widget, Overlay und Kachel zentral validiert."
 }
