@@ -1,7 +1,7 @@
 {
-  "versionCode": 282,
-  "versionName": "0.282",
+  "versionCode": 283,
+  "versionName": "0.283",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1efae63adcee9a4c24a5a600f3f5ea1bdf536d4da7f392e20d8af1f0d30b4d8c",
-  "releaseNotes": "0.282: Die Referenz-Designsprache ist jetzt strukturell umgesetzt: gefüllte Türkis-Aktionen, ruhige neutrale Buttons, flache Flächen und eine klare obere Farbleiste."
+  "sha256": "b093b9720c31d33a3a25a6248407ad29810bfc7350e29ca61b9013fcc5bc3411",
+  "releaseNotes": "0.283: Vollständiges Ampere-Redesign mit charmanter türkiser Bildsprache, neuer Akku-Illustration und klar gegliederten technischen Detailansichten für Laden, Entladen, Gesundheit und Verlauf. Messwerte kennzeichnen ihre Herkunft als Systemwert, Live-Wert, Berechnung oder Schätzung; Einheiten, Texte und deutsche Zahlenformate wurden bereinigt."
 }
