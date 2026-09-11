@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "0.170",
+  "versionCode": 171,
+  "versionName": "0.171",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9e3b990b5f5e885e548df24e01456d5d093f0bac1942ed878abdf303f27bb172",
-  "releaseNotes": "Ungültige Gesundheitswerte wie 110 % werden verworfen; das Dashboard speichert beim Start keinen vorläufigen 0-%-Wert."
+  "sha256": "c927fa56dcca7d522c69712ec945562f97a8cd12c3ba5154143371440b10e32e",
+  "releaseNotes": "Der anfängliche Nicht-verfügbar-Zustand bleibt jetzt auch in Status-Chip und Statuszeile konsistent."
 }
