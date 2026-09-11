@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "0.151",
+  "versionCode": 152,
+  "versionName": "0.152",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "b38396b34bde39031d242ecd7503d7c3aabf91de6e94ae8118f45ec57d8bfd7c",
-  "releaseNotes": "Android 14+: Ladeprofile wie akkuschonend, adaptiv, zu heiß oder zu kalt werden getrennt vom Kabelstatus angezeigt."
+  "sha256": "735c69ce9037879a14c03b139c52b0b7585ca49d1cecba0566b849d9cec37bae",
+  "releaseNotes": "Ladegerät-Maximalleistung wird aus Androids Strom-/Spannungspaar validiert und getrennt vom aktuellen Akkustrom angezeigt."
 }
