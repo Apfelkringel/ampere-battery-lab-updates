@@ -1,7 +1,7 @@
 {
-  "versionCode": 198,
-  "versionName": "0.198",
+  "versionCode": 199,
+  "versionName": "0.199",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6e3ffca0998f2199c5373b96e3a9ab29c62999b2addbb7a751d27975105918e7",
-  "releaseNotes": "Android 14–17: Gesundheitswerte werden jetzt auf allen Anzeigen zentral validiert; unmögliche Werte wie 110 % werden nicht mehr angezeigt."
+  "sha256": "79eabf2f43d18470f5c513572777e2c50eb434db73923f1c10d75105de40ab38",
+  "releaseNotes": "Android 14–17: Die Kapazitätskurve verwendet jetzt durchgehend die echte 0–100-%-Skala; die alte 110-%-Kopfhöhe ist entfernt."
 }
