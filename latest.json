@@ -1,7 +1,7 @@
 {
-  "versionCode": 195,
-  "versionName": "0.195",
+  "versionCode": 196,
+  "versionName": "0.196",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3952c0c73ad41cba6be06090a5a354e76d84bf4c9a74e5998612af0dc4b8ea16",
-  "releaseNotes": "Android 14–17: OEM-/BMS-SoH wird zusätzlich über den standardisierten state_of_health-Knoten erkannt; Werte außerhalb 1–100 % werden verworfen."
+  "sha256": "e48eb6a58a93e4dfe26a9863d16582fc3bd12c652240a3fdac24ba589cc81ee2",
+  "releaseNotes": "Android 14–17: Wenn BatteryManager keinen Live-Strom liefert, nutzt Ampere zusätzlich current_now/current_avg des Batterie-/BMS-Treibers; USB-Eingang wird nicht als Akku-Strom verwendet."
 }
