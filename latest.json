@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "0.146",
+  "versionCode": 147,
+  "versionName": "0.147",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7f6c583469c60da5af3fe3b25736be07b572aecac97720e5f3d4d087c907b223",
-  "releaseNotes": "Akkukapazität: Dynamische Full-Charge-Werte werden regelmäßig neu gelesen und veralten nicht mehr im laufenden Monitor."
+  "sha256": "826b82c9863c0af2db9f177911faf97ce4a8165c02f8803391ad99502088faa6",
+  "releaseNotes": "Datenqualität: Alte ungültige Gesundheitsmessungen werden automatisch aus Graph und Messliste bereinigt."
 }
