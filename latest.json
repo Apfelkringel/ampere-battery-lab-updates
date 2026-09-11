@@ -1,7 +1,7 @@
 {
-  "versionCode": 278,
-  "versionName": "0.278",
+  "versionCode": 279,
+  "versionName": "0.279",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "37e1d63c984cb797c51e0e1291e6c434da7122f7b394776ca7d79b86c9783df7",
-  "releaseNotes": "0.278: Der aktuelle bekannte Android-Akku-Status hat im Dashboard Vorrang vor alten Monitor-Samples; ein gespeicherter Zustand wird nur noch bei unbekanntem Status als Fallback verwendet."
+  "sha256": "5bc831532e8db414951e69bd25a11d830d482aa136bcb614bfe027b52542176e",
+  "releaseNotes": "0.279: Spekulative Einzelmessungs-Skalierung entfernt; echte kleine Lade- und Entladeströme werden nicht mehr automatisch mit 10, 100 oder 1000 multipliziert."
 }
