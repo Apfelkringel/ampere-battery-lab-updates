@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "0.154",
+  "versionCode": 155,
+  "versionName": "0.155",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "06e622d4e31bbef4db3d8a8982b6eb304e7efe94b5cdc385886715cbc4673dfa",
-  "releaseNotes": "Die kompakte Ladeansicht hält die neue Akku-Leistungsanzeige auf schmalen Geräten vollständig lesbar."
+  "sha256": "14156ca504fe1c9b9bfea17e5dea125ccaa165972d3abe5084e05413b37f840d",
+  "releaseNotes": "Konfigurierbare Temperaturwarnung ab 40/45/50/55 °C mit Hysterese informiert einmalig pro Hitzephase."
 }
