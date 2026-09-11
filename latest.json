@@ -1,7 +1,7 @@
 {
-  "versionCode": 222,
-  "versionName": "0.222",
+  "versionCode": 223,
+  "versionName": "0.223",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9eb5219d1b9efa12ba0770e4348970d331442717af16b0aca5d1b62215eee0d3",
-  "releaseNotes": "Android 14–17: Header-Aktionen und Navigation sind jetzt für TalkBack einzeln fokussier- und auslösbar; die sichtbare Bedienung bleibt unverändert."
+  "sha256": "391c15d9ba540a1dc59bfbb46b04da5fd1edd0da2ef25f1a008d191c1136644f",
+  "releaseNotes": "Android 14–17: TalkBack erhält für Header und Navigation jetzt korrekte Bildschirmgrenzen, auch bei gescrollten Ansichten."
 }
