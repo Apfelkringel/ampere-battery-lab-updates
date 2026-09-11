@@ -1,7 +1,7 @@
 {
-  "versionCode": 192,
-  "versionName": "0.192",
+  "versionCode": 193,
+  "versionName": "0.193",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "64cd1b30d1b1df6fe1a0e4912f63ba0e2ef5faf99d0beac448c1becb1df70f0d",
-  "releaseNotes": "Android 14–17: Gesundheitsmessung nutzt verfügbare BatteryManager-SoH-Werte sicher; ungültige Werte wie 110 % werden verworfen und nie angezeigt."
+  "sha256": "0eaab01ec4d10b54ce6d7009d2588cdde31114a9142a2560a40c14d0eb258117",
+  "releaseNotes": "Verlauf und Sitzungszeiten bleiben auch nach einer Geräte-Uhrkorrektur chronologisch; keine rückwärts laufenden Sitzungen oder falschen Raten."
 }
