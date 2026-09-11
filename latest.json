@@ -1,7 +1,7 @@
 {
-  "versionCode": 217,
-  "versionName": "0.217",
+  "versionCode": 218,
+  "versionName": "0.218",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6858d84ee589af0bb463fd49cd7fbc9f8951c24aa06aeb2d644b9f6a97745f65",
-  "releaseNotes": "Android 14–17: Nach langen unbeobachteten Sampling-Lücken werden keine ungemessenen Zeiträume mehr als eine Sitzung angezeigt."
+  "sha256": "168cbe286e2bc6b1b76cdb45842a1710c3e06c5c98bb6d23a0c4a0348f028b6f",
+  "releaseNotes": "Android 14–17: Das Startbildschirm-Widget passt sich jetzt an Breite und Höhe an; niedrige Querformat-Größen verwenden eine saubere Einzeilenansicht."
 }
