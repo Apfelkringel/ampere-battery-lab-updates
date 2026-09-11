@@ -1,7 +1,7 @@
 {
-  "versionCode": 271,
-  "versionName": "0.271",
+  "versionCode": 272,
+  "versionName": "0.272",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "450ea7831198e79342cb8d06c9de12f787776cb074f4d40ebb840d5265fb26b9",
-  "releaseNotes": "0.271: Widget, Quick Settings, Overlay und Ladescreensaver zeigen Strom und Leistung jetzt mit einheitlicher Lade-/Entladerichtung; fehlende Messwerte bleiben klar nicht verfügbar."
+  "sha256": "318129fcc36abeee05f9f3871e7ad1b8fc53827a73454a0e8fd32b692ec33d0a",
+  "releaseNotes": "0.272: Auch die dauerhafte Überwachungsbenachrichtigung zeigt Ladestrom und Entladestrom jetzt mit einheitlicher Richtung; fehlende Messwerte bleiben klar nicht verfügbar."
 }
