@@ -1,7 +1,7 @@
 {
-  "versionCode": 205,
-  "versionName": "0.205",
+  "versionCode": 206,
+  "versionName": "0.206",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3773111ef541991db64c62697023478473d2e93b7efca9f788c444cf6c8413e6",
-  "releaseNotes": "Android 14–17: Batterie-, BMS-, Fuel-Gauge- und USB-Quellen werden nach deklarierter Quelle priorisiert; irreführende USB-Knoten werden ausgeschlossen."
+  "sha256": "da958d7eb8e73f9bd5f6d023538c1b846c578ec3c80a19d183417fcfe2181291",
+  "releaseNotes": "Android 14–17: Das Startbildschirm-Widget wählt bei kleinen Breiten automatisch eine kompakte, nicht überlappende Variante und aktualisiert sich beim Resize."
 }
