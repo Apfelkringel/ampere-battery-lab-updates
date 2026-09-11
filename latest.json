@@ -1,7 +1,7 @@
 {
-  "versionCode": 268,
-  "versionName": "0.268",
+  "versionCode": 269,
+  "versionName": "0.269",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e3199dfb5bef0d1d1863ec9854c00f881b9d5a4da59f4e6ab12a53f356a53f65",
-  "releaseNotes": "0.268: Monitoring- und Bildschirmzeit werden nach einem Dienst-Aussetzer nicht über die gemeinsame Accounting-Grenze fortgeschrieben; der separat gemessene Tiefschlaf wird nicht doppelt gezählt."
+  "sha256": "f7202e27df4f629ec1d104f18e4e099bd85206b47a18214ea6abfe9ea6400b84",
+  "releaseNotes": "0.269: Ladezeitprofile werden nach Netzteil, Wireless, USB und Dock getrennt; Quellenwechsel übertragen keine falsche Rate in die nächste Schätzung."
 }
