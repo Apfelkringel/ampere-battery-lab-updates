@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "0.147",
+  "versionCode": 148,
+  "versionName": "0.148",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "826b82c9863c0af2db9f177911faf97ce4a8165c02f8803391ad99502088faa6",
-  "releaseNotes": "Datenqualität: Alte ungültige Gesundheitsmessungen werden automatisch aus Graph und Messliste bereinigt."
+  "sha256": "eebdfdb8fc678d5a84d93b924d3e46e825a18aa1d0fc0f32bdd1329e65402144",
+  "releaseNotes": "Ladesitzungen: Bei verrauschten Akkustandwerten wird die gemessene Ladeenergie berücksichtigt, ohne 0-%-Sitzungen zu erzeugen."
 }
