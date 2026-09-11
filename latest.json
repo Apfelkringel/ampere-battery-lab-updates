@@ -1,7 +1,7 @@
 {
-  "versionCode": 186,
-  "versionName": "0.186",
+  "versionCode": 187,
+  "versionName": "0.187",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "204d888a15805dd803124f37d982c31e3bb2ff95ba64f31d9d75a650576f4641",
-  "releaseNotes": "Alle Live-Raten, App-Verbrauchswerte und Diagramme verwenden jetzt dieselbe strenge Telemetrieprüfung wie die Exporte; ungültige Altzeilen werden beim nächsten Speichern bereinigt."
+  "sha256": "4820c4f603f95634ee7ba69aecebecced192e2e2afe3d59dfdeb8e609f37b928",
+  "releaseNotes": "Kurze einzelne 1-Prozent-Kabel- oder Statusblips ohne Energiebeleg werden nicht mehr als echte Ladesitzung gespeichert; echte langsame Sitzungen bleiben erhalten."
 }
