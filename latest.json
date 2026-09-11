@@ -1,7 +1,7 @@
 {
-  "versionCode": 187,
-  "versionName": "0.187",
+  "versionCode": 188,
+  "versionName": "0.188",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "4820c4f603f95634ee7ba69aecebecced192e2e2afe3d59dfdeb8e609f37b928",
-  "releaseNotes": "Kurze einzelne 1-Prozent-Kabel- oder Statusblips ohne Energiebeleg werden nicht mehr als echte Ladesitzung gespeichert; echte langsame Sitzungen bleiben erhalten."
+  "sha256": "13c376269905834eb83717a80d39d28377aadd4a52bd874dc70904092f712d8e",
+  "releaseNotes": "Ladeziele aus Backups und alten Einstellungen werden jetzt sicher auf 50 bis 100 Prozent normalisiert, bevor Regler, Fortschrittsbalken oder Ladealarm sie verwenden."
 }
