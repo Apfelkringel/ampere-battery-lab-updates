@@ -1,7 +1,7 @@
 {
-  "versionCode": 274,
-  "versionName": "0.274",
+  "versionCode": 275,
+  "versionName": "0.275",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1f25b67a5cbf8435c442d43899d7ee0f0c284d5d02789c2ed5d2243ae8f19889",
-  "releaseNotes": "0.274: Accessibility meldet Canvas-Controls nur noch als sichtbar, wenn ihre echten Bildschirmgrenzen im sichtbaren Dashboard liegen; offscreen Controls werden nicht mehr fälschlich bei [0,0] angekündigt."
+  "sha256": "a721d960c959e5391d6aeb77bda94b63910744487ffc5b89bea6b52938b5cdd1",
+  "releaseNotes": "0.275: Wenn ein OEM EXTRA_PLUGGED weglässt, bleibt ein als Laden/Voll erkanntes Gerät auch in der Ladebaseline als verbunden gewertet; gültige Ladezyklen werden nicht mehr fälschlich als Absteckpunkt behandelt."
 }
