@@ -1,7 +1,7 @@
 {
-  "versionCode": 208,
-  "versionName": "0.208",
+  "versionCode": 209,
+  "versionName": "0.209",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "165fe0815727a79b8dd245df64b74fcf21728fce532a160e8023b6702ec92754",
-  "releaseNotes": "Android 14–17: Übersicht, Gesundheit, Laden und Verlauf verwenden jetzt denselben nachgeladenen Gesundheits-Snapshot; Quellen und Kapazität bleiben konsistent."
+  "sha256": "2295ddb1595e3bfa2a5e09f780a7074ecdfc3f6ef7e7d05be672d4346afedaf5",
+  "releaseNotes": "Android 14–17: Ungültige Gesundheitswerte wie 110 % werden verworfen; Ersatzwerte bleiben mit der korrekten Quelle verbunden."
 }
