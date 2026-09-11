@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "0.130",
-  "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "a30a73fe8939c471d75e5e95e4eac8576312d66d84ae41930cc34109a4df1c21",
-  "releaseNotes": "Die Health-Seite zeigt jetzt messbare Vollzyklen (EFC) statt einer irreführenden Ladeeffizienz-Prozentzahl."
+  "versionCode": 131,
+  "versionName": "0.131",
+  "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
+  "sha256": "d4336a87ec77501a47daffc7ff6454a74f1459586a904ad9419075529cebea98",
+  "releaseNotes": "Der APK-Download nutzt jetzt den GitHub-Contents-Endpunkt, damit kein veraltetes CDN-APK installiert wird."
 }
