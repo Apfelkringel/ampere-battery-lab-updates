@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "0.150",
+  "versionCode": 151,
+  "versionName": "0.151",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "2a2111f2b69451a1141f78d145b0c6347f08402f3279bfc082e9bf71d5856cd2",
-  "releaseNotes": "Laufzeitprognose: lokale 7-Tage-Daten bleiben bevorzugt; auf Android 12+ wird bei fehlender Historie die Systemprognose verwendet und als solche gekennzeichnet."
+  "sha256": "b38396b34bde39031d242ecd7503d7c3aabf91de6e94ae8118f45ec57d8bfd7c",
+  "releaseNotes": "Android 14+: Ladeprofile wie akkuschonend, adaptiv, zu heiß oder zu kalt werden getrennt vom Kabelstatus angezeigt."
 }
