@@ -1,7 +1,7 @@
 {
-  "versionCode": 279,
-  "versionName": "0.279",
+  "versionCode": 280,
+  "versionName": "0.280",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5bc831532e8db414951e69bd25a11d830d482aa136bcb614bfe027b52542176e",
-  "releaseNotes": "0.279: Spekulative Einzelmessungs-Skalierung entfernt; echte kleine Lade- und Entladeströme werden nicht mehr automatisch mit 10, 100 oder 1000 multipliziert."
+  "sha256": "332f88eab1c7533b9a813b5be05064ba9b003aa44cda2c71859b89e4f3d46ee1",
+  "releaseNotes": "0.280: Die Lade-Kopfzeile bleibt auch unter 270 dp lesbar; der aktuelle Stromwert wird nicht mehr zwischen Zeitspalte und Kartenrand abgeschnitten."
 }
