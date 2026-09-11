@@ -1,7 +1,7 @@
 {
-  "versionCode": 179,
-  "versionName": "0.179",
+  "versionCode": 180,
+  "versionName": "0.180",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "58cbbdc648e58c1ad0d528d61e9521a3d65572350e544789af4ba36fa75d0824",
-  "releaseNotes": "Widersprüchliche Lade-/Entladerichtungen in alten Telemetrie-Exporten werden nicht mehr ausgegeben."
+  "sha256": "d684a54b5678d9a719dbd2f2e98838138a907d045610fc9ac2baed343a52aeb1",
+  "releaseNotes": "Die Gesundheitsmessung wird robust gegen einzelne fehlerhafte Ladevorgänge ausgewertet."
 }
