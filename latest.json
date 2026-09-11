@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "0.131",
+  "versionCode": 132,
+  "versionName": "0.132",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "d4336a87ec77501a47daffc7ff6454a74f1459586a904ad9419075529cebea98",
-  "releaseNotes": "Der APK-Download nutzt jetzt den GitHub-Contents-Endpunkt, damit kein veraltetes CDN-APK installiert wird."
+  "sha256": "4097a9e05425895b62fea9ce5f280e8d8eeae2c6026bd6201bee8b86f32a6233",
+  "releaseNotes": "Hersteller-Full-Charge-Kapazität wird als validierte Fallbackquelle für die Gesundheitsanzeige genutzt."
 }
