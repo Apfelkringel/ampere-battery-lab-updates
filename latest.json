@@ -1,7 +1,7 @@
 {
-  "versionCode": 272,
-  "versionName": "0.272",
+  "versionCode": 273,
+  "versionName": "0.273",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "318129fcc36abeee05f9f3871e7ad1b8fc53827a73454a0e8fd32b692ec33d0a",
-  "releaseNotes": "0.272: Auch die dauerhafte Überwachungsbenachrichtigung zeigt Ladestrom und Entladestrom jetzt mit einheitlicher Richtung; fehlende Messwerte bleiben klar nicht verfügbar."
+  "sha256": "d1276e1d5a7fd0421f95247f04636cb04facbaaf33b0c104d3284610c913a0ec",
+  "releaseNotes": "0.273: Erfolgreiche Dashboard-Buttons geben dezentes systemkonformes Haptikfeedback; Header-Aktionen werden beim Loslassen außerhalb ihrer eigenen Fläche sicher abgebrochen."
 }
