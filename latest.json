@@ -1,7 +1,7 @@
 {
-  "versionCode": 267,
-  "versionName": "0.267",
+  "versionCode": 268,
+  "versionName": "0.268",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "11bcaf3b083c81f1ab7f2eea0bb1470477f0e84c8161378679b784ca78869f9a",
-  "releaseNotes": "0.267: direkte App-Verbrauchsanteile werden vor der zeitbasierten Restverteilung reserviert, damit die angezeigten App-Schätzungen zusammen nie über die beobachtete Entladung hinausgehen."
+  "sha256": "e3199dfb5bef0d1d1863ec9854c00f881b9d5a4da59f4e6ab12a53f356a53f65",
+  "releaseNotes": "0.268: Monitoring- und Bildschirmzeit werden nach einem Dienst-Aussetzer nicht über die gemeinsame Accounting-Grenze fortgeschrieben; der separat gemessene Tiefschlaf wird nicht doppelt gezählt."
 }
