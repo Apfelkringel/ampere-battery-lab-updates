@@ -1,7 +1,7 @@
 {
-  "versionCode": 203,
-  "versionName": "0.203",
+  "versionCode": 204,
+  "versionName": "0.204",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "99ba1c2fa792d38259d40aeec0d7af9c626a9e4bc440ea4de1feba4ca2ff0219",
-  "releaseNotes": "Android 14–17: zusätzliche read-only OPlus/ColorOS-Erkennung für battery_fcc und battery_soh; ungültige OEM-Werte bleiben nicht verfügbar."
+  "sha256": "3d2a457ca52046f02475363c23641fb3a788d7fe595408d7cb126d7f135b7a18",
+  "releaseNotes": "Android 14–17: Einstellungen, Hell/Dunkel und Live-Status sind jetzt als gleich große, getrennte Toolbar-Buttons sauber ausgerichtet."
 }
