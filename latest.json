@@ -1,7 +1,7 @@
 {
-  "versionCode": 168,
-  "versionName": "0.168",
+  "versionCode": 169,
+  "versionName": "0.169",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c64daf21d06f6a8d0d274d280cf6aa3d1a8ae06e99da2e16ad22fa061eef8eae",
-  "releaseNotes": "Der strukturierte Akku-Export überspringt beschädigte Altzeilen sicher, statt komplett abzubrechen."
+  "sha256": "636be8c89ad9a82c40ccb24deb955f6243ecab9ae21956f2b22905720440e7d9",
+  "releaseNotes": "Ungültige Prozentwerte aus alten Verlaufspunkten werden nicht mehr als 100 % im Chart weitergeführt."
 }
