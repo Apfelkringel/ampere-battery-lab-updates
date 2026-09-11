@@ -1,7 +1,7 @@
 {
-  "versionCode": 263,
-  "versionName": "0.263",
+  "versionCode": 264,
+  "versionName": "0.264",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "7dcd807719a44ed87f22907f132d300724a205845d14622d45c5735bd1a4f9db",
-  "releaseNotes": "0.263: komplett neue Energy-Rail-Button-Sprache mit ruhiger Materialtiefe, klaren aktiven Zuständen, responsiven Textgrenzen und exakt getrennten Touch-/TalkBack-Flächen; Light- und Dark-Mode geprüft."
+  "sha256": "77b971128bb821789329b9dc3b85d23a7d12c457fab453c13f4df86edb02ed16",
+  "releaseNotes": "0.264: schützt realistische Tiefschlaf-Ströme unter 10 mA davor, durch die OEM-Skalenheuristik künstlich vervielfacht zu werden; Regressionstest ergänzt."
 }
