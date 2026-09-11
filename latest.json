@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "0.144",
+  "versionCode": 145,
+  "versionName": "0.145",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e075f8a0462d7c90ef2d6b0fa1fb99605fa566bfc8aed94f32620bc31164c2b9",
-  "releaseNotes": "Android 16/17: Wenn verfügbar, nutzt die App den offiziellen Systemwert für Akkugesundheit; ansonsten bleibt die geprüfte lokale Schätzung aktiv."
+  "sha256": "a65f7d41e4248165ae5e1fb7f7d43443685c34dcdb58b002d0dddf439c200729",
+  "releaseNotes": "Akkugesundheit: Unmögliche OEM-Werte wie 110 % werden jetzt sicher auf maximal 100 % begrenzt."
 }
