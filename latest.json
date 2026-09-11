@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "0.139",
+  "versionCode": 140,
+  "versionName": "0.140",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "d9da0b0157495d9b870bb91500a9a62bdcd62da7a7c12ef872221b0cafe0ed23",
-  "releaseNotes": "Querformat: Die App erkennt die tatsächliche Canvas-Größe nach Rotation und wählt die kompakte Übersichtskarte zuverlässig."
+  "sha256": "8f221a370fc17de98b8f56add9d53f2acb587ef0a43f30086208f000f0096486",
+  "releaseNotes": "Kompaktes Querformat: Status, Ladezustandsring und Gesundheitszeile liegen in getrennten, sicheren Bereichen."
 }
