@@ -1,7 +1,7 @@
 {
-  "versionCode": 221,
-  "versionName": "0.221",
+  "versionCode": 222,
+  "versionName": "0.222",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "b7c80d31b65c775d5c614f919aabadd9e0d601596d98f738ff9e6246501743a5",
-  "releaseNotes": "Android 14–17: Das Startbildschirm-Widget nutzt responsive Größenlayouts für kurze, kompakte und breite Platzierungen; ältere Launcher behalten den sicheren Größen-Fallback."
+  "sha256": "9eb5219d1b9efa12ba0770e4348970d331442717af16b0aca5d1b62215eee0d3",
+  "releaseNotes": "Android 14–17: Header-Aktionen und Navigation sind jetzt für TalkBack einzeln fokussier- und auslösbar; die sichtbare Bedienung bleibt unverändert."
 }
