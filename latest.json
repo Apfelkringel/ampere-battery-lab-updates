@@ -1,7 +1,7 @@
 {
-  "versionCode": 157,
-  "versionName": "0.157",
+  "versionCode": 158,
+  "versionName": "0.158",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1fa92438562faf6978b571abf82812e1884e574552a65f5bb4122eb420379c28",
-  "releaseNotes": "Android-Stromwerte werden in Dashboard, Dienst, Widget, Overlay und Kachel zentral validiert."
+  "sha256": "6da9d32f3e8f7da9b741ed3ce8f55759927fd146ed8d09aac25a6fde9edc0bdf",
+  "releaseNotes": "Unmögliche OEM-Akku-Gesundheitswerte über 100 % werden verworfen statt als 100 % angezeigt."
 }
