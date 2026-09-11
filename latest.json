@@ -1,7 +1,7 @@
 {
-  "versionCode": 182,
-  "versionName": "0.182",
+  "versionCode": 183,
+  "versionName": "0.183",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3f06b7fe5d12470b1a5cff3909bd13f1c93ac8f5698e9df783f95ac5b2de3e6a",
-  "releaseNotes": "Automatische Gesundheitsmessungen werden nur noch nach nahezu voller und stabiler Ladung übernommen."
+  "sha256": "7353cec1032f05864db63aa517d1182261a88d8e258f008582d188c1bff5a79f",
+  "releaseNotes": "Für die Gesundheitsmessung zählt jetzt der letzte gültige Ladestrom statt eines zufälligen frühen Minimalwerts."
 }
