@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "0.155",
+  "versionCode": 156,
+  "versionName": "0.156",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "14156ca504fe1c9b9bfea17e5dea125ccaa165972d3abe5084e05413b37f840d",
-  "releaseNotes": "Konfigurierbare Temperaturwarnung ab 40/45/50/55 °C mit Hysterese informiert einmalig pro Hitzephase."
+  "sha256": "3ca3719e57f90c070092e352f03366297357f44922c0aaa9e8cd064f6c4fabe8",
+  "releaseNotes": "Die Temperaturwarnungs-Auswahl ist auf Android jetzt sichtbar und direkt konfigurierbar."
 }
