@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "0.135",
+  "versionCode": 136,
+  "versionName": "0.136",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7efff4392cecc34cf46d2d9ddd6585054ec1dc9e935fc19e42110576327b4dca",
-  "releaseNotes": "Exakte Vordergrundzeiten aus Android-UsageEvents; Tages-Buckets bleiben nur der Kompatibilitätsfallback."
+  "sha256": "c21b3cc172018cae68138831aac057a70820849aafa9685bd0305449141de40d",
+  "releaseNotes": "Oberfläche und Sitzungslogik verwenden jetzt denselben stabilisierten Ladezustand."
 }
