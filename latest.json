@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "0.163",
+  "versionCode": 164,
+  "versionName": "0.164",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8c771e104a7921b14cce8c63f32aa46a2ec3686ad6952d3a87fb20eb66b78559",
-  "releaseNotes": "Unmögliche Sitzungsänderungen über 100 % werden verworfen; verrauschte Werte werden aus gültiger Energie abgeleitet."
+  "sha256": "53185523883a4a2c0b219cbd28c8f14ccfa6e4f71182c198ae710dbfed124969",
+  "releaseNotes": "Unmögliche Akku-Level/Skalierungswerte werden verworfen; falsche 100-%-Anzeigen durch OEM-Rohdaten werden verhindert."
 }
