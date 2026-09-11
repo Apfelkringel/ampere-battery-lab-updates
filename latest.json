@@ -1,7 +1,7 @@
 {
-  "versionCode": 145,
-  "versionName": "0.145",
+  "versionCode": 146,
+  "versionName": "0.146",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "a65f7d41e4248165ae5e1fb7f7d43443685c34dcdb58b002d0dddf439c200729",
-  "releaseNotes": "Akkugesundheit: Unmögliche OEM-Werte wie 110 % werden jetzt sicher auf maximal 100 % begrenzt."
+  "sha256": "7f6c583469c60da5af3fe3b25736be07b572aecac97720e5f3d4d087c907b223",
+  "releaseNotes": "Akkukapazität: Dynamische Full-Charge-Werte werden regelmäßig neu gelesen und veralten nicht mehr im laufenden Monitor."
 }
