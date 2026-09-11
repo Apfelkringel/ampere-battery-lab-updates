@@ -1,7 +1,7 @@
 {
-  "versionCode": 190,
-  "versionName": "0.190",
+  "versionCode": 191,
+  "versionName": "0.191",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "12e51173d4c969623f9f76a6943e166448dbfa583acdf6f87791121c1b9b7d9f",
-  "releaseNotes": "Im breiten Querformat hat die Live-Karte jetzt zusätzlichen unteren Innenabstand, damit Statuszeile, Blitzsymbol und abgerundete Kontur sauber getrennt bleiben."
+  "sha256": "d55aa30ebd6ecbc0e196f5713352cbbe17cd92420cd0fc47ee96d98c9fb687c3",
+  "releaseNotes": "Gespeicherte Prozentverläufe und Sitzungen werden beim Laden und vor Hintergrund-Updates kanonisiert. Ungültige Altzeilen werden dauerhaft aus der lokalen Datenbasis entfernt."
 }
