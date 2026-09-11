@@ -1,7 +1,7 @@
 {
-  "versionCode": 223,
-  "versionName": "0.223",
+  "versionCode": 224,
+  "versionName": "0.224",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "391c15d9ba540a1dc59bfbb46b04da5fd1edd0da2ef25f1a008d191c1136644f",
-  "releaseNotes": "Android 14–17: TalkBack erhält für Header und Navigation jetzt korrekte Bildschirmgrenzen, auch bei gescrollten Ansichten."
+  "sha256": "c12b56b6b8275c83e27e5901bafbe6ca59e30db00e86e8b37df02c5eda748c5c",
+  "releaseNotes": "Android 14–17: TalkBack bedient jetzt auch Diagrammfilter, Ladealarm, Live-Anzeige, Benchmark, Kapazität, Nutzungsdetails und CSV-Export."
 }
