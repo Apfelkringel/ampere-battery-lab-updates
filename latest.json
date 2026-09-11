@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "0.141",
+  "versionCode": 142,
+  "versionName": "0.142",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "bd59083bfbba5c78e2edd388f8f2ccf49efdc07c6cc6db59ef2c380a403e5d2e",
-  "releaseNotes": "Querformat: Die sichtbare ScrollView-Höhe wird nach Rotation korrekt erkannt; die kompakte Übersicht bleibt vollständig und sauber angeordnet."
+  "sha256": "f17247a04d07686cf85887d46979e3ba5c3f205249226d911a384c6107369e79",
+  "releaseNotes": "Akkugesundheit: Unplausible Kapazitätsproben werden verworfen; die Anzeige bleibt zuverlässig auf maximal 100 Prozent begrenzt."
 }
