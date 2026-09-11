@@ -1,7 +1,7 @@
 {
-  "versionCode": 178,
-  "versionName": "0.178",
+  "versionCode": 179,
+  "versionName": "0.179",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "2ea119b08e64b7dfc6e37d70f13b1c8149919a87bb5a94aa3acf829aa9ad0801",
-  "releaseNotes": "Ungültige Sitzungsdauern und rückwärts laufende Start-/Endzeiten werden nicht mehr angezeigt oder exportiert."
+  "sha256": "58cbbdc648e58c1ad0d528d61e9521a3d65572350e544789af4ba36fa75d0824",
+  "releaseNotes": "Widersprüchliche Lade-/Entladerichtungen in alten Telemetrie-Exporten werden nicht mehr ausgegeben."
 }
