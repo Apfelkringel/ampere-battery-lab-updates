@@ -1,7 +1,7 @@
 {
-  "versionCode": 175,
-  "versionName": "0.175",
+  "versionCode": 176,
+  "versionName": "0.176",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "4913342114b755d2d88a8f46286006077cb5f524bbded7b4bb055357c47b713c",
-  "releaseNotes": "Beschädigte EFC-Zwischenstände wie NaN oder künstlich große Werte erzeugen keine falschen Akkuzyklen mehr."
+  "sha256": "8eadcd548f9be5ed6e6e16897e2a6a29bb5a29f7346499661b5866c7f873bf21",
+  "releaseNotes": "Ungültige EFC-Werte in alten Sitzungen beschädigen die Verschleißgrafik nicht mehr."
 }
