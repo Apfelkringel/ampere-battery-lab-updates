@@ -3,7 +3,9 @@
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
 The application source code and user data are not stored here.
 
-The current manifest points to release 0.116.
+The current manifest points to release 0.221. Release 0.221 uses Android 12+
+responsive `RemoteViews` cutoffs for short, compact and wide widget sizes,
+while older launchers keep the measured-size fallback.
 
 Release 0.100 adds outside-tap and visible-X dismissal for Settings and blocks overlapping update checks, downloads and installer launches. Release 0.101 keeps the colored card rails inside the same rounded shape as their cards and keeps live mA values inside their status surface. Release 0.102 centers every navigation button on its cell with symmetric insets and centers icon/label groups on wide layouts as well. Release 0.103 constrains dashboard text and units to their owning cards and columns so long values cannot cross borders on narrow, wide or landscape layouts. Release 0.104 defines the standard navigation layout, release 0.105 publishes it in the signed APK with a normalized 24-dp icon language, release 0.106 unifies phone layouts using the adaptive 600dp window class and separates the wide gauge from neighboring status content, release 0.107 aligns header control bounds, release 0.108 keeps the live card above system navigation in short landscape windows, release 0.109 uses window orientation for landscape selection, release 0.110 measures the visible display frame for reliable responsive breakpoints, release 0.111 consolidates the top actions into one toolbar rail and removes the redundant navigation divider, and release 0.112 bounds the narrow charging metrics, filters directional session noise and removes web demo data/placeholders.
 
