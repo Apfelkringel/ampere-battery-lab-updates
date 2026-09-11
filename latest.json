@@ -1,7 +1,7 @@
 {
-  "versionCode": 211,
-  "versionName": "0.211",
+  "versionCode": 212,
+  "versionName": "0.212",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c1b15fe86516da38c963a541908e5bae3bc391903c0ebb5a244bcf667c677898",
-  "releaseNotes": "Android 14–17: Zeitwerte in kompakten Kennzahlenkarten werden vollständig und ohne abgeschnittene Ellipsen dargestellt."
+  "sha256": "87c2423973fccdcdcaa1d06b4cf6583b03ce83a25904068ad68654f524611392",
+  "releaseNotes": "Android 14–17: Der LIVE-Schalter aktualisiert die aktuellen Akkuwerte sofort; die responsive Header-Touch-Geometrie ist zentral synchronisiert."
 }
