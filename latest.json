@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "0.153",
+  "versionCode": 154,
+  "versionName": "0.154",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7977657c430de8c244b18bcca8aebc9ebda8d2f3c11e09dee3a8082dcb5031ff",
-  "releaseNotes": "Momentane Akku-Leistung wird aus geprüftem Akkustrom und Akkuspannung berechnet und getrennt von der Netzteil-Maximalleistung angezeigt."
+  "sha256": "06e622d4e31bbef4db3d8a8982b6eb304e7efe94b5cdc385886715cbc4673dfa",
+  "releaseNotes": "Die kompakte Ladeansicht hält die neue Akku-Leistungsanzeige auf schmalen Geräten vollständig lesbar."
 }
