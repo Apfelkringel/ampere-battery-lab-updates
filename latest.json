@@ -1,7 +1,7 @@
 {
-  "versionCode": 291,
-  "versionName": "0.291",
+  "versionCode": 292,
+  "versionName": "0.292",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5db256f6d1ed24e69f939bbe5c4b98b1481b99cbe5a22ddad924f19f43be6595",
-  "releaseNotes": "0.291: Verlauf auf kleinen Handys neu gesetzt. Sitzungen stehen in zwei klaren Zeilen statt vier zu engen Spalten; Diagnose und CSV-Export sind vollständig getrennt, sodass der Button nicht mehr von Text überlagert wird."
+  "sha256": "0db54a308fbc0d5a6325729664bcbb11f819ce8e3d7e60064d405147656a64bc",
+  "releaseNotes": "0.292: Der CSV-Export nutzt auf kleinen Handys jetzt das kompakte Buttonbild. Icon und Beschriftung bleiben gut lesbar und werden nicht mehr zusammengedrückt."
 }
