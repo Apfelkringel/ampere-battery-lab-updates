@@ -1,7 +1,7 @@
 {
-  "versionCode": 312,
-  "versionName": "0.312",
+  "versionCode": 313,
+  "versionName": "0.313",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "bb4bb410d4c26192cd46c99cedaf19dfce63a588c764cdd3fe6f10359c231902",
-  "releaseNotes": "0.312: Widget-Texte bleiben in allen Größen mittig zur Widgetfläche. Zusätzliche Font-Innenabstände und fehlerhafte Baseline-Ausrichtung entfernt."
+  "sha256": "ff14cd932c037b4b5cad35268ef731b82c2df8f76462e4d0c6f09c1756ed2297",
+  "releaseNotes": "0.313: Kompakte Akkugesundheitskarte nach unten verlängert, damit die letzte Datenzeile vollständig innerhalb der Fläche bleibt. Zusätzlich kleine Text-, Icon- und Abstandsfehler bereinigt."
 }
