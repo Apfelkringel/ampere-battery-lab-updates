@@ -1,7 +1,7 @@
 {
-  "versionCode": 296,
-  "versionName": "0.296",
+  "versionCode": 297,
+  "versionName": "0.297",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9a3fdc5c5ebb7dacbace6eebcaa7222fcf58ab4e1ad79ac50d59c37e28196785",
-  "releaseNotes": "0.296: Leere Verlaufshinweise und Gesundheitsbeschreibung sind auf kleinen Handys sauber umgebrochen. Der Zeitachsen-Hinweis liegt nicht mehr unter dem Hinweisbutton; Illustrationen und Text bleiben getrennt."
+  "sha256": "5075722f53872cc1059a480ad89ff77b9031410dc13b881e7b2bc1c52dcb80a6",
+  "releaseNotes": "0.297: Mobile Hinweis- und Hilfetexte bleiben jetzt vollständig innerhalb der Illustrationszone lesbar; Entlade-, Gesundheits- und Verlaufskarten zeigen keine abgeschnittenen Ellipsen mehr."
 }
