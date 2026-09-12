@@ -1,7 +1,7 @@
 {
-  "versionCode": 308,
-  "versionName": "0.308",
+  "versionCode": 310,
+  "versionName": "0.310",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "1e90a47a3752781081019ece3cba118196838eb7de9ffee49bf9277dbfd73427",
-  "releaseNotes": "0.308: Die kompakte Akkugesundheitsbox wurde strukturell überarbeitet. Klare Hierarchie, ausgeglichene Innenabstände und vollständig lesbare Ladequelle ohne abgeschnittene Kurztexte."
+  "sha256": "d9742b9a30a30d571d9351cf00930ba59739f44bbd230de707955008029e52e5",
+  "releaseNotes": "0.310: Akkugesundheit auf der Startseite klar getrennt dargestellt. Echte Kapazitäts- und Verschleißwerte, mittiger Messungsbutton und kompakte mobile Abstände ohne abgeschnittene Inhalte."
 }
