@@ -1,7 +1,7 @@
 {
-  "versionCode": 301,
-  "versionName": "0.301",
+  "versionCode": 302,
+  "versionName": "0.302",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "0564bf02b0f6c8020a80204e2fad439ef80523981e115ecce7489fe33c397668",
-  "releaseNotes": "0.301: Die generischen vertikalen Akzentstreifen an den Karten sind entfernt. Karten wirken jetzt ruhiger und bewusst gestaltet statt wie ein KI-Template."
+  "sha256": "e096f7a7c163d8d3b1818f5dca556428949bc5ff26b82a022e92f681c839cc42",
+  "releaseNotes": "0.302: Auch Toggle-Boxen sind von den letzten vertikalen Akzentstreifen befreit. Der Kartenstil ist jetzt durchgehend ruhig und bewusst gestaltet."
 }
