@@ -1,7 +1,7 @@
 {
-  "versionCode": 292,
-  "versionName": "0.292",
+  "versionCode": 293,
+  "versionName": "0.293",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "0db54a308fbc0d5a6325729664bcbb11f819ce8e3d7e60064d405147656a64bc",
-  "releaseNotes": "0.292: Der CSV-Export nutzt auf kleinen Handys jetzt das kompakte Buttonbild. Icon und Beschriftung bleiben gut lesbar und werden nicht mehr zusammengedrückt."
+  "sha256": "6ada956db2de74a210027cea4c18a4d964cc6062f9a6df2dfdaa52cb0d13088f",
+  "releaseNotes": "0.293: Der Tiefschlaf-Wert im Verlauf bleibt jetzt innerhalb der Karte. Auch lange Minutenangaben werden sauber am rechten Rand ausgerichtet und laufen nicht mehr aus dem Bildschirm."
 }
