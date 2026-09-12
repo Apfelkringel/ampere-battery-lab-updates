@@ -1,7 +1,7 @@
 {
-  "versionCode": 288,
-  "versionName": "0.288",
+  "versionCode": 289,
+  "versionName": "0.289",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "78a2b07097427bae1735159924375c6190ae926e315791e1978342ac9b94f9f3",
-  "releaseNotes": "0.288: Sichtbare Bedienelemente und ihre Tippflächen sind nun exakt ausgerichtet. Der Benchmark reagiert nicht mehr im Bereich der Nennkapazität; Ladeziel sowie Ladealarm und Live-Anzeige folgen ihren tatsächlich sichtbaren Flächen."
+  "sha256": "51ea2bab4f0620720058f6c670d4eefbb73174dfa7b299790a57df39118a18b3",
+  "releaseNotes": "0.289: Die Kopf-Buttons reagieren ausschließlich auf ihre sichtbaren Bildflächen. Zwischenräume lösen keine Aktion mehr aus; Touch- und Screenreader-Grenzen sind exakt an die Buttons angeglichen."
 }
