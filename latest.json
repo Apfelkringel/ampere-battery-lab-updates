@@ -1,7 +1,7 @@
 {
-  "versionCode": 285,
-  "versionName": "0.285",
+  "versionCode": 286,
+  "versionName": "0.286",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5f28903a73b4605fa70e621b4cdc99acd862d03e0b8be6bd1b0f6c4d73f35926",
-  "releaseNotes": "0.285: Die gelieferten BatteryHub-SVGs sind jetzt als vollständige Bild-Buttons mit fest eingebetteten Symbolen und Beschriftungen integriert. Abstände, Zentrierung und Lesbarkeit wurden speziell für die schmale Mobilansicht korrigiert; Navigation, Kopfzeile, Benchmark, CSV-Export und Zeitraumwahl folgen durchgängig der türkisen Bildsprache."
+  "sha256": "1dfb5dd045687d6fac2fdd78fc861ccaf4e6f171313db212f240b1fb7d5b137a",
+  "releaseNotes": "0.286: Symbole und Beschriftungen der fünf aktiven Navigationstasten liegen jetzt in getrennten vertikalen Bereichen innerhalb ihrer Bild-Assets. Dadurch bleiben besonders der mittlere Entladen-Button und seine Schrift vollständig sichtbar; die Abstände wurden auf 320 × 640 geprüft."
 }
