@@ -1,7 +1,7 @@
 {
-  "versionCode": 297,
-  "versionName": "0.297",
+  "versionCode": 298,
+  "versionName": "0.298",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5075722f53872cc1059a480ad89ff77b9031410dc13b881e7b2bc1c52dcb80a6",
-  "releaseNotes": "0.297: Mobile Hinweis- und Hilfetexte bleiben jetzt vollständig innerhalb der Illustrationszone lesbar; Entlade-, Gesundheits- und Verlaufskarten zeigen keine abgeschnittenen Ellipsen mehr."
+  "sha256": "012575d63129f69f355400cd754dd5194c88b819a1bd521a5cb055507b785942",
+  "releaseNotes": "0.298: Der Hinweis „Noch keine Messreihe“ sitzt im Verlauf jetzt zwischen den Rasterlinien statt direkt auf der 50%-Linie."
 }
