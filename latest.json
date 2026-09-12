@@ -1,7 +1,7 @@
 {
-  "versionCode": 294,
-  "versionName": "0.294",
+  "versionCode": 295,
+  "versionName": "0.295",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e69ff039f81b392fb439d6719532916d19f165ad26c1008e00d2eb40bdf5f6c4",
-  "releaseNotes": "0.294: Diagnosewerte im Verlauf werden jetzt in einem lesbaren, mehrzeiligen Block angezeigt. Lange Minuten-/Stundenangaben bleiben innerhalb der Kartenkante und wirken nicht mehr nach rechts verschoben."
+  "sha256": "fd7a22f873bdb4598b63f324913cc421cccf8584f15805fcc1482189f30472a7",
+  "releaseNotes": "0.295: Der White-Modus wurde vollständig entfernt. Ampere bleibt jetzt konsequent im dunklen türkisfarbenen Design; optional ist nur noch AMOLED-Schwarz verfügbar."
 }
