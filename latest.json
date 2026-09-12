@@ -1,7 +1,7 @@
 {
-  "versionCode": 303,
-  "versionName": "0.303",
+  "versionCode": 306,
+  "versionName": "0.306",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "810b0b0f3a4b848fe31a5fff1456bbd65576ad2dd7722c3d0a5bbd468927bd4e",
-  "releaseNotes": "0.303: Die Akkugesundheitskarte ist auf kleinen Displays optisch ausbalanciert. Die Batterie-Illustration sitzt mittiger und lange Messbasis-Texte bleiben sicher außerhalb der Illustrationsfläche."
+  "sha256": "d3c2c417f0b6ead9f76eedfaca1243bd966bd01029033c2031fc269b3adb8dc6",
+  "releaseNotes": "0.306: Die kompakte Akkugesundheitsbox ist neu ausgerichtet. Außenabstände, Gesundheitswert und Erklärung sind jetzt wirklich mittig; Statuswerte bleiben klar an den Rändern."
 }
