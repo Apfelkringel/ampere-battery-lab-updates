@@ -1,7 +1,7 @@
 {
-  "versionCode": 287,
-  "versionName": "0.287",
+  "versionCode": 288,
+  "versionName": "0.288",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "793d201c0e10920bc42a6a4329fe048f9cf175c9409ae87a267f27cb6a0bc4da",
-  "releaseNotes": "0.287: Weitere Bedienungsfehler behoben. CSV-Export und Gesundheits-Benchmark reagieren nun über ihre komplette sichtbare Buttonfläche; 7D und 30D wählen jeweils zuverlässig den angetippten Zeitraum statt zwischen beiden umzuschalten."
+  "sha256": "78a2b07097427bae1735159924375c6190ae926e315791e1978342ac9b94f9f3",
+  "releaseNotes": "0.288: Sichtbare Bedienelemente und ihre Tippflächen sind nun exakt ausgerichtet. Der Benchmark reagiert nicht mehr im Bereich der Nennkapazität; Ladeziel sowie Ladealarm und Live-Anzeige folgen ihren tatsächlich sichtbaren Flächen."
 }
