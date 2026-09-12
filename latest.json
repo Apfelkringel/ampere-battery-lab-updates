@@ -1,7 +1,7 @@
 {
-  "versionCode": 300,
-  "versionName": "0.300",
+  "versionCode": 301,
+  "versionName": "0.301",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "cf8399fd96b1939f9d2e90138071b2fb15a0e63777b5ea8d86cc67456e2bf85f",
-  "releaseNotes": "0.300: Der Update-Download nutzt jetzt einen öffentlichen CDN-Pfad statt der rate-limitierten GitHub-API. HTTP-403-Fehler beim Handy-Update sind damit behoben."
+  "sha256": "0564bf02b0f6c8020a80204e2fad439ef80523981e115ecce7489fe33c397668",
+  "releaseNotes": "0.301: Die generischen vertikalen Akzentstreifen an den Karten sind entfernt. Karten wirken jetzt ruhiger und bewusst gestaltet statt wie ein KI-Template."
 }
