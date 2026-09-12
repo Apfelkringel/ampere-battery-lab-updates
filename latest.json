@@ -1,7 +1,7 @@
 {
-  "versionCode": 298,
-  "versionName": "0.298",
-  "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "012575d63129f69f355400cd754dd5194c88b819a1bd521a5cb055507b785942",
-  "releaseNotes": "0.298: Der Hinweis „Noch keine Messreihe“ sitzt im Verlauf jetzt zwischen den Rasterlinien statt direkt auf der 50%-Linie."
+  "versionCode": 300,
+  "versionName": "0.300",
+  "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
+  "sha256": "cf8399fd96b1939f9d2e90138071b2fb15a0e63777b5ea8d86cc67456e2bf85f",
+  "releaseNotes": "0.300: Der Update-Download nutzt jetzt einen öffentlichen CDN-Pfad statt der rate-limitierten GitHub-API. HTTP-403-Fehler beim Handy-Update sind damit behoben."
 }
