@@ -1,7 +1,7 @@
 {
-  "versionCode": 314,
-  "versionName": "0.314",
+  "versionCode": 315,
+  "versionName": "0.315",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "e7c8b10d4a0cc2c327dc980fbcea33107a7dcf260b897628d63f947977bcdf62",
-  "releaseNotes": "0.314: Gesundheitsstatus und Kapazitätsmessung sprachlich vereinheitlicht, 80-%-Grenzwert konsistent dargestellt und Bildschirmzeit sauber bezeichnet."
+  "sha256": "5ff177a04f6eb11d3e1290713f9f5216778ff0938ea449c8ed4608c465a61f97",
+  "releaseNotes": "0.315: Leere Gesundheitsquellen klar formuliert und Hinweise zur Kapazitätsmessung typografisch bereinigt."
 }
