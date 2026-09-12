@@ -1,7 +1,7 @@
 {
-  "versionCode": 293,
-  "versionName": "0.293",
+  "versionCode": 294,
+  "versionName": "0.294",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6ada956db2de74a210027cea4c18a4d964cc6062f9a6df2dfdaa52cb0d13088f",
-  "releaseNotes": "0.293: Der Tiefschlaf-Wert im Verlauf bleibt jetzt innerhalb der Karte. Auch lange Minutenangaben werden sauber am rechten Rand ausgerichtet und laufen nicht mehr aus dem Bildschirm."
+  "sha256": "e69ff039f81b392fb439d6719532916d19f165ad26c1008e00d2eb40bdf5f6c4",
+  "releaseNotes": "0.294: Diagnosewerte im Verlauf werden jetzt in einem lesbaren, mehrzeiligen Block angezeigt. Lange Minuten-/Stundenangaben bleiben innerhalb der Kartenkante und wirken nicht mehr nach rechts verschoben."
 }
