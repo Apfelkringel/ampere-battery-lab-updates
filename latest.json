@@ -1,7 +1,7 @@
 {
-  "versionCode": 289,
-  "versionName": "0.289",
+  "versionCode": 290,
+  "versionName": "0.290",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "51ea2bab4f0620720058f6c670d4eefbb73174dfa7b299790a57df39118a18b3",
-  "releaseNotes": "0.289: Die Kopf-Buttons reagieren ausschließlich auf ihre sichtbaren Bildflächen. Zwischenräume lösen keine Aktion mehr aus; Touch- und Screenreader-Grenzen sind exakt an die Buttons angeglichen."
+  "sha256": "ed4f01f27153da3d50ddcfebd78c341b185b5dcd2fd70a42960c54a5b46655da",
+  "releaseNotes": "0.290: Strenge Datenherkunft für die Akkugesundheit. Eine Einzelwert-Hochrechnung aus dem Ladezähler wird nicht mehr als Messkapazität verwendet; ohne BMS-/Android-Wert oder vollständige lokale Messung bleibt der Wert ehrlich nicht verfügbar."
 }
