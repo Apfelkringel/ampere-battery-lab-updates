@@ -1,7 +1,7 @@
 {
-  "versionCode": 310,
-  "versionName": "0.310",
+  "versionCode": 312,
+  "versionName": "0.312",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "d9742b9a30a30d571d9351cf00930ba59739f44bbd230de707955008029e52e5",
-  "releaseNotes": "0.310: Akkugesundheit auf der Startseite klar getrennt dargestellt. Echte Kapazitäts- und Verschleißwerte, mittiger Messungsbutton und kompakte mobile Abstände ohne abgeschnittene Inhalte."
+  "sha256": "bb4bb410d4c26192cd46c99cedaf19dfce63a588c764cdd3fe6f10359c231902",
+  "releaseNotes": "0.312: Widget-Texte bleiben in allen Größen mittig zur Widgetfläche. Zusätzliche Font-Innenabstände und fehlerhafte Baseline-Ausrichtung entfernt."
 }
