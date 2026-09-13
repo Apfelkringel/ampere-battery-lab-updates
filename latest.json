@@ -1,7 +1,7 @@
 {
-  "versionCode": 331,
-  "versionName": "0.331",
+  "versionCode": 335,
+  "versionName": "0.335",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "220bb10c6a9434631340276b8922579e1441e6fb80444d0fcf33a38947cc42f9",
-  "releaseNotes": "0.331: Akkustand-Widget für schmale Displays überarbeitet; klare Einzeilenansicht, keine abgeschnittenen Werte und einheitliches Türkis-Design. Google-Play-Variante nutzt ausschließlich Play-Updates."
+  "sha256": "16cf55a90dc50fd3c9d9bce7edd6959dbfb3c9588853cf2166abc50da6e77144",
+  "releaseNotes": "0.335: Nativer iOS-Port vorbereitet; Akkustand-Widget und Play-Variante bleiben ohne falsche oder unzulässige Selbstupdate-Daten."
 }
