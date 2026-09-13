@@ -1,7 +1,7 @@
 {
-  "versionCode": 325,
-  "versionName": "0.325",
+  "versionCode": 326,
+  "versionName": "0.326",
   "apkUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "42a163d959b4823b85dfd2135d2820b9fba7ef0dd2ecc47ad3a089ebd4036c60",
-  "releaseNotes": "0.325: Verlauf wechselt ab 480 dp auf die lesbare mobile Zweizeilen-Anordnung; Panelhöhe und Export-Asset folgen derselben Breakpoint-Logik."
+  "sha256": "271129295fa047de144902660f55ddae5b50b4eb636db1d86bd3c06efd42870f",
+  "releaseNotes": "0.326: Ladesitzungen zeigen Akkustand als Start → Ende, separate Änderung, Dauer und Startzeit; die Gesundheitskarte bleibt auf Gesundheitsdaten fokussiert."
 }
