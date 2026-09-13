@@ -1,7 +1,7 @@
 {
-  "versionCode": 326,
-  "versionName": "0.326",
+  "versionCode": 327,
+  "versionName": "0.327",
   "apkUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "271129295fa047de144902660f55ddae5b50b4eb636db1d86bd3c06efd42870f",
-  "releaseNotes": "0.326: Ladesitzungen zeigen Akkustand als Start → Ende, separate Änderung, Dauer und Startzeit; die Gesundheitskarte bleibt auf Gesundheitsdaten fokussiert."
+  "sha256": "3ca30d1dfbd3aef6e651d1908bae0a220c8ffdf0729b2940065e9f1e84299fc2",
+  "releaseNotes": "0.327: 7-/30-Tage-Kurven sortieren Messpunkte zeitlich, nutzen das vollständige Fenster und markieren echte Messlücken statt sie als Verlauf zu verbinden."
 }
