@@ -1,7 +1,7 @@
 {
-  "versionCode": 329,
-  "versionName": "0.329",
+  "versionCode": 331,
+  "versionName": "0.331",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "26950bbdcefa702ca3170089af0102fc2f374ff48a2c301230999c2fe737f953",
-  "releaseNotes": "0.329: Kurze Messausfälle werden in der Kurve gestrichelt interpoliert; lange Ausfälle bleiben als echte Lücken markiert. Kurze Messbereiche beginnen links und nutzen echte Zeitstempel für die Achse."
+  "sha256": "220bb10c6a9434631340276b8922579e1441e6fb80444d0fcf33a38947cc42f9",
+  "releaseNotes": "0.331: Akkustand-Widget für schmale Displays überarbeitet; klare Einzeilenansicht, keine abgeschnittenen Werte und einheitliches Türkis-Design. Google-Play-Variante nutzt ausschließlich Play-Updates."
 }
