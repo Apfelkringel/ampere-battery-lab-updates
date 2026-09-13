@@ -1,7 +1,7 @@
 {
-  "versionCode": 327,
-  "versionName": "0.327",
+  "versionCode": 329,
+  "versionName": "0.329",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3ca30d1dfbd3aef6e651d1908bae0a220c8ffdf0729b2940065e9f1e84299fc2",
-  "releaseNotes": "0.327: 7-/30-Tage-Kurven sortieren Messpunkte zeitlich, nutzen das vollständige Fenster und markieren echte Messlücken statt sie als Verlauf zu verbinden."
+  "sha256": "26950bbdcefa702ca3170089af0102fc2f374ff48a2c301230999c2fe737f953",
+  "releaseNotes": "0.329: Kurze Messausfälle werden in der Kurve gestrichelt interpoliert; lange Ausfälle bleiben als echte Lücken markiert. Kurze Messbereiche beginnen links und nutzen echte Zeitstempel für die Achse."
 }
