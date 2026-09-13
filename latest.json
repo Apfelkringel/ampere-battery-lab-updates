@@ -1,7 +1,7 @@
 {
-  "versionCode": 321,
-  "versionName": "0.321",
+  "versionCode": 322,
+  "versionName": "0.322",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "0b5fd38b5c5a6841900236d5543ba0fb3956f8c861c545e256a22191918c6533",
-  "releaseNotes": "0.321: Navigation auf sehr schmalen Geräten mit gekürzten, lesbaren Labels geschützt."
+  "sha256": "c3a71caaea2bc1f5f57a8dc0071311a8cde9e1269900274d080aadc2b0d4711b",
+  "releaseNotes": "0.322: Ladezustände bei fehlenden Messwerten korrigiert, historische Werte und manuelle Kapazität gekennzeichnet, Gesundheitsbewertung und Symbole berichtigt."
 }
