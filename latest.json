@@ -1,7 +1,7 @@
 {
-  "versionCode": 323,
-  "versionName": "0.323",
+  "versionCode": 324,
+  "versionName": "0.324",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "c7dda3d40a64917f47e21014305b27226f1eb4fd5ad0f8f5540e3511325e580c",
-  "releaseNotes": "0.323: Detailkarten für Laden, Entladen und Akku mit separaten Textzeilen; Messbasis und Nennkapazität ohne konkurrierende Beschriftungen."
+  "sha256": "0f37917e15cd065d3c361a93c03d126c47632c0f16139f7545be258e6f914e25",
+  "releaseNotes": "0.324: Verlaufskarten trennen Änderungswerte und Dauer auf mittelbreiten Smartphones, damit längere Werte nicht überlappen."
 }
