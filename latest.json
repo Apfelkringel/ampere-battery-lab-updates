@@ -1,7 +1,7 @@
 {
   "versionCode": 325,
   "versionName": "0.325",
-  "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
+  "apkUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-release.apk",
   "sha256": "42a163d959b4823b85dfd2135d2820b9fba7ef0dd2ecc47ad3a089ebd4036c60",
   "releaseNotes": "0.325: Verlauf wechselt ab 480 dp auf die lesbare mobile Zweizeilen-Anordnung; Panelhöhe und Export-Asset folgen derselben Breakpoint-Logik."
 }
