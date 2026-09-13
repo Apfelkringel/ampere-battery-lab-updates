@@ -1,7 +1,7 @@
 {
-  "versionCode": 317,
-  "versionName": "0.317",
+  "versionCode": 318,
+  "versionName": "0.318",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "722368ae7c09cd81b8ab5c17f7dbb6fae39beeeaf7ce71cfa02ebb6f31444285",
-  "releaseNotes": "0.317: Systemflächen sprachlich vereinheitlicht und CPU-Anzeige im Live-Overlay präzisiert."
+  "sha256": "cd432f7f67132c53f339af089dec8fdeb16ab2cd19738bdfc953e0eeaa7e7f61",
+  "releaseNotes": "0.318: Herstellungsdatum bleibt vollständig innerhalb der Akku-Gesundheitskarte."
 }
