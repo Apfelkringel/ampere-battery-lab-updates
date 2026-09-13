@@ -1,7 +1,7 @@
 {
-  "versionCode": 337,
-  "versionName": "0.337",
+  "versionCode": 338,
+  "versionName": "0.338",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "86e12995ce3eb7c2aa78cebe7f39637b854a5bd1a405b04030d09a51c5429e59",
-  "releaseNotes": "0.337: iOS-Version und Buildnummer synchronisiert; Android-Widget und Play-Variante bleiben sauber getrennt."
+  "sha256": "3b18f123e8d7291ab756df3207919e3e4c6f52e14daa8778ed44a62a27be71cf",
+  "releaseNotes": "0.338: Akku-Widget für Standard-, Compact- und Short-Größen neu ausgerichtet; Status und echte Telemetrie bleiben lesbar."
 }
