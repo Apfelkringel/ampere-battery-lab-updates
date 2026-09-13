@@ -1,7 +1,7 @@
 {
-  "versionCode": 318,
-  "versionName": "0.318",
+  "versionCode": 319,
+  "versionName": "0.319",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "cd432f7f67132c53f339af089dec8fdeb16ab2cd19738bdfc953e0eeaa7e7f61",
-  "releaseNotes": "0.318: Herstellungsdatum bleibt vollständig innerhalb der Akku-Gesundheitskarte."
+  "sha256": "2f7f716e1993edab50439ba83b85e404439e7a42fb5cea9a3126ee2ad3821ed1",
+  "releaseNotes": "0.319: OEM-Quellen im mobilen Gesundheitsblock kurz und sicher innerhalb der Karte dargestellt."
 }
