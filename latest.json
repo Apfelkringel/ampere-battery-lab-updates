@@ -1,7 +1,7 @@
 {
-  "versionCode": 336,
-  "versionName": "0.336",
+  "versionCode": 337,
+  "versionName": "0.337",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "afcf9d6ea6d96280ede047f6d94721d1d383a4c2293965a181d093e0c14aa56a",
-  "releaseNotes": "0.336: iOS-Release-Workflow auf aktuellen Xcode-Runner umgestellt; Android-Widget und Play-Variante bleiben sauber getrennt."
+  "sha256": "86e12995ce3eb7c2aa78cebe7f39637b854a5bd1a405b04030d09a51c5429e59",
+  "releaseNotes": "0.337: iOS-Version und Buildnummer synchronisiert; Android-Widget und Play-Variante bleiben sauber getrennt."
 }
