@@ -1,7 +1,7 @@
 {
-  "versionCode": 316,
-  "versionName": "0.316",
+  "versionCode": 317,
+  "versionName": "0.317",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "f5f7c7a986aaa3f750e1fa6aa049a48bf94b85abcefe915ccf7a176162a11e39",
-  "releaseNotes": "0.316: Live-Overlay auf kleine Displays begrenzt, lange App-Namen sauber gekürzt und Beschriftungen vereinheitlicht."
+  "sha256": "722368ae7c09cd81b8ab5c17f7dbb6fae39beeeaf7ce71cfa02ebb6f31444285",
+  "releaseNotes": "0.317: Systemflächen sprachlich vereinheitlicht und CPU-Anzeige im Live-Overlay präzisiert."
 }
