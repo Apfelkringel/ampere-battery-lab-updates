@@ -1,7 +1,7 @@
 {
-  "versionCode": 320,
-  "versionName": "0.320",
+  "versionCode": 321,
+  "versionName": "0.321",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "0aa2cb930d4262bef3b86975ef66318c2a2aab1c546a82cf8b7f0a99e471eb41",
-  "releaseNotes": "0.320: Header-Badge auf sehr schmalen Geräten vor Menü-Überlappung geschützt."
+  "sha256": "0b5fd38b5c5a6841900236d5543ba0fb3956f8c861c545e256a22191918c6533",
+  "releaseNotes": "0.321: Navigation auf sehr schmalen Geräten mit gekürzten, lesbaren Labels geschützt."
 }
