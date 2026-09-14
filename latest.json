@@ -1,9 +1,9 @@
 {
-  "versionCode": 348,
-  "versionName": "0.348",
+  "versionCode": 349,
+  "versionName": "0.349",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "a3cab7b62635326baf5844b95e7650dcb221da0e4013a12f9b155f933677e45d",
+  "sha256": "ffb5b03e2a8195d54d9f9a76e0867df07bb48c1a16ee15697f31265aab459de0",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "041256bcfd36ee418da4079515c9acc91fba3dd3c3f44203e81ecd8c7eaeafc4",
-  "releaseNotes": "0.348: Sicherheits-Härtung mit TLS-only Netzwerkzugriff, optimierter signierter Release-Build, strengeren Backup-Regeln und prüfbaren Release-Checksummen."
+  "aabSha256": "3f8bcee050f13bec252347822728b3d9ea5d29318470b21dcbaee880591df2c5",
+  "releaseNotes": "0.349: Live-Akkudaten aktualisieren sich jetzt jede Sekunde – inklusive Ladestatus, Strom, Leistung, Temperatur und Spannung."
 }
