@@ -1,9 +1,9 @@
 {
-  "versionCode": 349,
-  "versionName": "0.349",
+  "versionCode": 350,
+  "versionName": "0.350",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ffb5b03e2a8195d54d9f9a76e0867df07bb48c1a16ee15697f31265aab459de0",
+  "sha256": "8fece0836e5ac7c873e479eb89da1812913cabcc3dc54c7294ba09b11257f7ed",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "3f8bcee050f13bec252347822728b3d9ea5d29318470b21dcbaee880591df2c5",
-  "releaseNotes": "0.349: Live-Akkudaten aktualisieren sich jetzt jede Sekunde – inklusive Ladestatus, Strom, Leistung, Temperatur und Spannung."
+  "aabSha256": "e575aaf20899fb09db1d21b94d25296d242a6c090d8ea004edb694d05569c530",
+  "releaseNotes": "0.350: Neue App-Detailansicht mit getrenntem Akkuverbrauch und Entladungsgeschwindigkeit pro Programm."
 }
