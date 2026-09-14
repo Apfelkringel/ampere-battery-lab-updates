@@ -1,9 +1,9 @@
 {
-  "versionCode": 342,
-  "versionName": "0.342",
+  "versionCode": 343,
+  "versionName": "0.343",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "cdf6366907eea013fa7c57a4470de5db46c47b82c685537a5c6798d1c1a3688d",
+  "sha256": "c94c200a6e05d1ff320fe952cc61a2ad3b7511bf27020572ec724fd726f3afc2",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6664c33d9e5177012f248c0ea11d9e5f93fdcd2590043cccf8727526aa3d3032",
-  "releaseNotes": "0.342: Ladeziel und Ladealarm direkt aus Einstellungen öffnen; Akkustatus kopieren oder teilen; iOS-Verlauf sicher zurücksetzen."
+  "aabSha256": "c64d90134a4a324f5c06f12441d499d3e7dd1d9cb110162996e642445933ef33",
+  "releaseNotes": "0.343: Benachrichtigungsberechtigung mit verständlichem Zweck erklärt; iOS-Verlauf kann im Leerzustand sofort gemessen werden."
 }
