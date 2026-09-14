@@ -1,9 +1,9 @@
 {
-  "versionCode": 339,
-  "versionName": "0.339",
+  "versionCode": 340,
+  "versionName": "0.340",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "4a1d9cf4d1b5319ba9fbe55363c3b301e67aa505b7b53774ed1fa481a47ebdaf",
+  "sha256": "2ee7aa00d98720dcfe50649f5544415aa609f346b626c9c66d33e508b965b578",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4df6c66eb36196461d3ac38d1729e5e24122d11fdfd26444387ea600d2ab05e9",
-  "releaseNotes": "0.339: Persistenz und Sampling robuster strukturiert; iOS erklärt Plattformgrenzen klarer; Android-Releaseprüfungen verwenden explizite Flavor-Tasks."
+  "aabSha256": "451b068dd7d1b9beb7f29691b0d80fa9ec5a6ebb3fca48ea083d59745917a6b7",
+  "releaseNotes": "0.340: Backup/Restore und Ladezustandsübergänge laufen über kleinere, testbare Module; Sampling und Telemetrie bleiben lokal und rückwärtskompatibel."
 }
