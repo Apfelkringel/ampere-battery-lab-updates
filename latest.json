@@ -1,9 +1,9 @@
 {
-  "versionCode": 350,
-  "versionName": "0.350",
+  "versionCode": 351,
+  "versionName": "0.351",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8fece0836e5ac7c873e479eb89da1812913cabcc3dc54c7294ba09b11257f7ed",
+  "sha256": "2d3d6d8ac379ef5d5b186c22a50851ffd7c693231a1f9068c9fa72c40db98a05",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "e575aaf20899fb09db1d21b94d25296d242a6c090d8ea004edb694d05569c530",
-  "releaseNotes": "0.350: Neue App-Detailansicht mit getrenntem Akkuverbrauch und Entladungsgeschwindigkeit pro Programm."
+  "aabSha256": "50f54da254ec4c48ad347c4b7bb22067862f7ae31feac51668fe26576c2a794b",
+  "releaseNotes": "0.351: Verlaufskennzahlen passen sich jetzt korrekt an Tag, Woche und Monat an."
 }
