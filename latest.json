@@ -1,9 +1,9 @@
 {
-  "versionCode": 351,
-  "versionName": "0.351",
+  "versionCode": 353,
+  "versionName": "0.353",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "2d3d6d8ac379ef5d5b186c22a50851ffd7c693231a1f9068c9fa72c40db98a05",
+  "sha256": "e579e730c65fd9a35c178c1e372027394b3b65d7610520cfc3f934b3fe433f08",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "50f54da254ec4c48ad347c4b7bb22067862f7ae31feac51668fe26576c2a794b",
-  "releaseNotes": "0.351: Verlaufskennzahlen passen sich jetzt korrekt an Tag, Woche und Monat an."
+  "aabSha256": "ce105d4a67d85e65d0c0a846e18f5ce4844b8a4482ff288c63b5e8fb06a301c6",
+  "releaseNotes": "0.353: Update-Hinweise erscheinen jetzt direkt in der App; die Android-Release-Pipeline wurde stabilisiert."
 }
