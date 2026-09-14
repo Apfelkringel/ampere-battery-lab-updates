@@ -1,9 +1,9 @@
 {
-  "versionCode": 343,
-  "versionName": "0.343",
+  "versionCode": 344,
+  "versionName": "0.344",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c94c200a6e05d1ff320fe952cc61a2ad3b7511bf27020572ec724fd726f3afc2",
+  "sha256": "7bda33175a216b3a57172c545afdf454c26f3e1bb32fbf1de97d6bac3ded36a6",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "c64d90134a4a324f5c06f12441d499d3e7dd1d9cb110162996e642445933ef33",
-  "releaseNotes": "0.343: Benachrichtigungsberechtigung mit verständlichem Zweck erklärt; iOS-Verlauf kann im Leerzustand sofort gemessen werden."
+  "aabSha256": "3dfe872e2fe29913e5470523accfc32a3462cb19e8ffd19bde6bf1ba30631fa3",
+  "releaseNotes": "0.344: Live-Energiefluss auf der Startseite mit aktueller Lade-/Entladerate, durchschnittlichem Akkuverbrauch, Temperatur und Spannung."
 }
