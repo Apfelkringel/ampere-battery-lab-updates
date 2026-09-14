@@ -1,9 +1,9 @@
 {
-  "versionCode": 353,
-  "versionName": "0.353",
+  "versionCode": 354,
+  "versionName": "0.354",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e579e730c65fd9a35c178c1e372027394b3b65d7610520cfc3f934b3fe433f08",
+  "sha256": "19754d9bf1eca8632d9bbb9de607a6f698609a1f8d1e55addbd149e98f182869",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "ce105d4a67d85e65d0c0a846e18f5ce4844b8a4482ff288c63b5e8fb06a301c6",
-  "releaseNotes": "0.353: Update-Hinweise erscheinen jetzt direkt in der App; die Android-Release-Pipeline wurde stabilisiert."
+  "aabSha256": "423db264b67871e54ecca73f4d598c72a4f38c31d612949a010d9bdf10ab5a08",
+  "releaseNotes": "0.354: Neue Restlaufzeit-Prognose für dauerhaft an, Bildschirm aus und normale Nutzung."
 }
