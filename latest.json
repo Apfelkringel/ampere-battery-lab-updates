@@ -1,9 +1,9 @@
 {
-  "versionCode": 346,
-  "versionName": "0.346",
+  "versionCode": 348,
+  "versionName": "0.348",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "4ec0b417c22c788b859ee896f4dd0318dc5d9c6627e442988b25dc8682664bf4",
+  "sha256": "a3cab7b62635326baf5844b95e7650dcb221da0e4013a12f9b155f933677e45d",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "3522481167a411818b3b1d2a59b434b4a0788ff31b1eeca91fef52261448a539",
-  "releaseNotes": "0.346: Neue Verlaufsstatistik mit täglichen, wöchentlichen und monatlichen Balkendiagrammen für Aufladung, Verbrauch, Verschleiß und Effizienz."
+  "aabSha256": "041256bcfd36ee418da4079515c9acc91fba3dd3c3f44203e81ecd8c7eaeafc4",
+  "releaseNotes": "0.348: Sicherheits-Härtung mit TLS-only Netzwerkzugriff, optimierter signierter Release-Build, strengeren Backup-Regeln und prüfbaren Release-Checksummen."
 }
