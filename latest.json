@@ -1,9 +1,9 @@
 {
-  "versionCode": 344,
-  "versionName": "0.344",
+  "versionCode": 345,
+  "versionName": "0.345",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7bda33175a216b3a57172c545afdf454c26f3e1bb32fbf1de97d6bac3ded36a6",
+  "sha256": "8a14916c9f37888adaee526916514a05227fbb93bddc839fce5146cf6f7d66d4",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "3dfe872e2fe29913e5470523accfc32a3462cb19e8ffd19bde6bf1ba30631fa3",
-  "releaseNotes": "0.344: Live-Energiefluss auf der Startseite mit aktueller Lade-/Entladerate, durchschnittlichem Akkuverbrauch, Temperatur und Spannung."
+  "aabSha256": "ef629418c15c85f453efeed862d8e56658c9e411f7ad17a69b2c43668e8a47c0",
+  "releaseNotes": "0.345: App-Verbrauchsanalyse mit geschätztem Akkuverbrauch und Entladungsgeschwindigkeit pro Vordergrund-App."
 }
