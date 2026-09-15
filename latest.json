@@ -1,9 +1,9 @@
 {
-  "versionCode": 369,
-  "versionName": "0.369",
+  "versionCode": 370,
+  "versionName": "0.370",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "54cbd76759c9a40e23cd54f5bc2f57659e05c464d8f23c4b3d9a5068aa375f0f",
+  "sha256": "3238093fd3a63c801d34b9146b2006a4eab032e24c64fa7ecb7ff75124b4eaa2",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "8b377ac82720dc6e6608e68f4e325f325591b37aff0879ecbcd073b8783e4c8d",
-  "releaseNotes": "0.369: Die App bleibt auf Handybildschirmen im Hochformat."
+  "aabSha256": "0a0efec41075787cc5d5802c253bdfbde3fb9345f98b8df17515c792fe77ef7c",
+  "releaseNotes": "0.370: App-Verbrauch jetzt als sortierte Liste mit App-Icons, Anteilsbalken, 24-Stunden-/7-Tage-Zeitraum und Verbrauchsrate."
 }
