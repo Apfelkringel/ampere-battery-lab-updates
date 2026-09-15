@@ -1,9 +1,9 @@
 {
-  "versionCode": 364,
-  "versionName": "0.364",
+  "versionCode": 365,
+  "versionName": "0.365",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "411fed362d75082ba063dc622448b71b6ce1c0ef16108c25cc792b006f8c943c",
+  "sha256": "afc53733c3642127ed6322dd90f119920929e3263eb3398fcbd926b0bcb9042f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "90b5f5fa8f5324397405c737c65bde65667055ab247551263b7bf75e0f3cfd05",
-  "releaseNotes": "0.364: Die Akkustandgrafik ist klarer und übersichtlicher; Messlücken, Schätzungen und gemessene Stufen sind besser zu unterscheiden."
+  "aabSha256": "942f3105a3cb82077c6dac3553171e6c656aba170c6d71896a8a04ac32b3266c",
+  "releaseNotes": "0.365: Einzelne Live-Messpunkte sind sichtbar, Verlaufsenergie wird an Zeitgrenzen korrekt aufgeteilt und Sitzungszeilen bleiben auf schmalen Bildschirmen lesbar."
 }
