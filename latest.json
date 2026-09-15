@@ -1,9 +1,9 @@
 {
-  "versionCode": 370,
-  "versionName": "0.370",
+  "versionCode": 371,
+  "versionName": "0.371",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3238093fd3a63c801d34b9146b2006a4eab032e24c64fa7ecb7ff75124b4eaa2",
+  "sha256": "d804b3b4b125226c755d5e1f44ad81dc798d17ad186af20205e25349c1faadc6",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "0a0efec41075787cc5d5802c253bdfbde3fb9345f98b8df17515c792fe77ef7c",
-  "releaseNotes": "0.370: App-Verbrauch jetzt als sortierte Liste mit App-Icons, Anteilsbalken, 24-Stunden-/7-Tage-Zeitraum und Verbrauchsrate."
+  "aabSha256": "54a2ae75c2a7005616150fd88c9eda2f16bf5b2be950339abd39cfda98a45757",
+  "releaseNotes": "0.371: Die Live-Akku-Benachrichtigung aktualisiert Akkustand, Lade-/Entladestatus, Strom, Temperatur und Spannung jetzt jede Sekunde auch bei geschlossener App. Hinweise zu Benachrichtigungs- und Hintergrundrechten wurden verbessert."
 }
