@@ -1,9 +1,9 @@
 {
-  "versionCode": 355,
-  "versionName": "0.355",
+  "versionCode": 356,
+  "versionName": "0.356",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "14be2b9248048b3cf552ec633c4e21b870cdba65e5945271ebe674eabb2d08ee",
+  "sha256": "676e1969a18fe088df8008eb660e0c17bf40ca78d3cd9e1568b63fd5ba82d5cd",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "02889f3952d6f8bb0cd08dff6d962b18daceea566a2f9d8df0077fc283416eec",
-  "releaseNotes": "0.355: Restlaufzeit-Schätzungen zeigen jetzt je Modus ihre Datenquelle und kennzeichnen fehlende Daten klar."
+  "aabSha256": "c75868dfca06df0cf5602606c0d391acf138ccb68d32d98e5f959674979cb6a1",
+  "releaseNotes": "0.356: Die Quelle der Restlaufzeit-Schätzung beim Laden erscheint nur bei verfügbaren Entladedaten."
 }
