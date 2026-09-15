@@ -1,9 +1,9 @@
 {
-  "versionCode": 357,
-  "versionName": "0.357",
+  "versionCode": 358,
+  "versionName": "0.358",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ba19214024e07e6ef8ab59918fd4da8587c66fdf10ce0497600fe5a26bb3a2ed",
+  "sha256": "38ee98df5364f3c5c4e81a6ab9f6519b073f5a24992b7d287e932b34277d5e01",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "fa43b627835df9ea990c92bf1f07325e3780fa7c7639f265a845f8e16e06dcb0",
-  "releaseNotes": "0.357: Die Restlaufzeit aus dem Momentanstrom wird nur bei gültiger Akkukapazität angezeigt."
+  "aabSha256": "309201806bce4e45508485d91fa605f162a288cb6df18122d946830920a8b125",
+  "releaseNotes": "0.358: TalkBack liest wichtige Live-Messwerte und alle Restlaufzeit-Modi mit Datenquelle vor."
 }
