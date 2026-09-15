@@ -1,9 +1,9 @@
 {
-  "versionCode": 368,
-  "versionName": "0.368",
+  "versionCode": 369,
+  "versionName": "0.369",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9c402ff6fb6dde96bb2ef0adcd8b59a3688a01772ec77fcb2128b2705b373460",
+  "sha256": "54cbd76759c9a40e23cd54f5bc2f57659e05c464d8f23c4b3d9a5068aa375f0f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6863240b627ca2ad7d6122a37e12adfa73bcfecd914135cc5e125fc370250534",
-  "releaseNotes": "0.368: Verlauf übersichtlicher gestaltet; Sitzungsdetails lassen sich direkt antippen und die Auswertung zeigt den gewählten Zeitraum."
+  "aabSha256": "8b377ac82720dc6e6608e68f4e325f325591b37aff0879ecbcd073b8783e4c8d",
+  "releaseNotes": "0.369: Die App bleibt auf Handybildschirmen im Hochformat."
 }
