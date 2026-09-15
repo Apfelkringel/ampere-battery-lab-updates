@@ -1,9 +1,9 @@
 {
-  "versionCode": 360,
-  "versionName": "0.360",
+  "versionCode": 361,
+  "versionName": "0.361",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "0ea77786cf69184dc0afd233ab00197ab68b352c8057cc641db02ccbcc78310a",
+  "sha256": "f4962897e7a4b2da57da2a9641ed2b0ed8f7ed712bbd20d53effd9c3d1931ccd",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "356d37acf30fd33467f35f15e607e0bc568658606016b4e588213ed3d8b273b2",
-  "releaseNotes": "0.360: TalkBack liest ausgewählte Verlaufsstatistiken und Balkenwerte vor und markiert die aktive Periode."
+  "aabSha256": "f63b09b229a927297167ab949a1a309079f9d5ccfd31455279ae5e30fe793646",
+  "releaseNotes": "0.361: Die Gesundheitsseite bietet eine vollständige TalkBack-Zusammenfassung mit Kapazität, Messquelle, Zyklen und Live-Messwerten."
 }
