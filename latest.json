@@ -1,9 +1,9 @@
 {
-  "versionCode": 365,
-  "versionName": "0.365",
+  "versionCode": 366,
+  "versionName": "0.366",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "afc53733c3642127ed6322dd90f119920929e3263eb3398fcbd926b0bcb9042f",
+  "sha256": "4d654d6a06aaa1ad0ca545a9e5d3e8063da72669aee7cbc56fd7aee9eb926e07",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "942f3105a3cb82077c6dac3553171e6c656aba170c6d71896a8a04ac32b3266c",
-  "releaseNotes": "0.365: Einzelne Live-Messpunkte sind sichtbar, Verlaufsenergie wird an Zeitgrenzen korrekt aufgeteilt und Sitzungszeilen bleiben auf schmalen Bildschirmen lesbar."
+  "aabSha256": "f7df4f3a5851d943903fd0f5c9d422b473ceeb22a35a4df285769c80a78239d5",
+  "releaseNotes": "0.366: App-Verbrauchsschätzungen bleiben durch kontrollierte Restwertverteilung innerhalb der gemessenen Akku-Gesamtenergie."
 }
