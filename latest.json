@@ -1,9 +1,9 @@
 {
-  "versionCode": 374,
-  "versionName": "0.374",
+  "versionCode": 375,
+  "versionName": "0.375",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9b4dc40293a68fe5e69d1ad2b1dce9666ba0e7810211bd8c2d100312bec9f661",
+  "sha256": "6b35c1fc56e5ceeb013b0adaaa750fd961f6d5f5a1dc7e65378bb4c49a90bbe7",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "07f8f309d7ad9d5c4f1f53ac64eed9841347d460b86763f850843ce1e13ad034",
-  "releaseNotes": "0.374: Die Balkenfarben sind deutlicher unterscheidbar: Laden bleibt Türkis, Verbrauch ist Mintgrün und Verschleiß ist Himmelblau. Legende und Beschriftungen passen dazu."
+  "aabSha256": "f9fd2b03893781844d0ef60f083fadb21e3b46459c02347e5d91d6129d8aef90",
+  "releaseNotes": "0.375: Android-Versionen unter 8 öffnen für Benachrichtigungen zuverlässig die App-Details. Die Akkuoptimierungseinstellung führt zur allgemeinen Systemliste statt direkt eine Ausnahme anzufordern."
 }

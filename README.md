@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.374.
+The application source code and user data are not stored here. The current manifest points to release 0.375.
+
+Release 0.375 fixes notification-settings navigation on Android versions below 8 and opens the general battery-optimization settings list instead of directly requesting an exemption.
 
 Release 0.374 makes the history-chart series easier to distinguish: charging remains turquoise, consumption is mint green, and battery wear is sky blue; legend and labels match.
 
