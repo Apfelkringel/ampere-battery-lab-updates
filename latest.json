@@ -1,9 +1,9 @@
 {
-  "versionCode": 372,
-  "versionName": "0.372",
+  "versionCode": 373,
+  "versionName": "0.373",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "bffca23aa7e86c7afa0ab101eab4789dfa46df0da53548f0e0b357b3555159d1",
+  "sha256": "c45a0258950545b5ab57f5fa25c0ac35b61e1d2f218bbe0e4c5c695d74191193",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "dc9a0131b15113c7e1a2888c04afb4baada65f11fdf12bc45cb9211cfb1a80aa",
-  "releaseNotes": "0.372: Die freiwillige Nutzungsanalyse ist jetzt verfügbar. Sie bleibt standardmäßig aus und startet erst nach deiner ausdrücklichen Zustimmung. Sie erfasst feste App-Bereiche und ausgewählte Funktionen sowie technische Firebase-App- und Sitzungsdaten, aber keine Akku-Messwerte, Namen aktiver Apps oder Werbe-ID. Du kannst sie jederzeit unter Einstellungen → Daten & Datenschutz ausschalten. Die Analytics-Aufbewahrung ist auf zwei Monate eingestellt. Datenschutzerklärung aktualisiert."
+  "aabSha256": "ba3bc371f55a0adc34c58d9198280e899c009eb59af85b4c6ee73d19596a45dc",
+  "releaseNotes": "0.373: Die Farben der Verlaufsbalken für Laden, Verbrauch und Akkuverschleiß sind leicht stärker voneinander abgesetzt; Legende und Beschriftungen stimmen mit den Balken überein."
 }
