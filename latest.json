@@ -1,9 +1,9 @@
 {
-  "versionCode": 367,
-  "versionName": "0.367",
+  "versionCode": 368,
+  "versionName": "0.368",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "534d58776bf347bac731450a086e382d94f376c5280629efa62bcdcb01f58098",
+  "sha256": "9c402ff6fb6dde96bb2ef0adcd8b59a3688a01772ec77fcb2128b2705b373460",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "423bd8dc2cf7988b1cbb1bfce4125274acb080ae75596f15f41aab710755f345",
-  "releaseNotes": "0.367: Mehrere Android-Nutzungsintervalle derselben App werden vor der Verbrauchsschätzung zusammengeführt, sodass die App nicht doppelt erscheint."
+  "aabSha256": "6863240b627ca2ad7d6122a37e12adfa73bcfecd914135cc5e125fc370250534",
+  "releaseNotes": "0.368: Verlauf übersichtlicher gestaltet; Sitzungsdetails lassen sich direkt antippen und die Auswertung zeigt den gewählten Zeitraum."
 }
