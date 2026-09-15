@@ -1,9 +1,9 @@
 {
-  "versionCode": 382,
-  "versionName": "0.382",
+  "versionCode": 383,
+  "versionName": "0.383",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e9be1b8eb98b0904b69888ab588dffcb276e4d82cf8f5de89b5c90acf84ac185",
+  "sha256": "941db6f322fa85ebc2a6f7338262d9c24d162998e40ca4cc913bbd1acde1657d",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "642b6cf39c953c028b6fb6b3216b2f1cf5bc51f9616d34250bb359802f54642a",
-  "releaseNotes": "0.382: Die Verlaufsstatistik benennt Kalenderzeiträume jetzt identisch in Ansicht und Screenreader. Die Balkenwerte für Ladung, Verbrauch, Verschleiß und Effizienz werden vollständig vorgelesen und ihre getrennte Skalierung wird erklärt."
+  "aabSha256": "125b8b72f1bef2f3a0593cb5408ea01e402354d397a0b20eb437b70904f6975e",
+  "releaseNotes": "0.383: Die Live-Anzeige verdeckt Ampere nicht mehr, solange die App sichtbar ist. Außerhalb der App nutzt sie jetzt die Petrol-Türkis-Farben von Ampere."
 }
