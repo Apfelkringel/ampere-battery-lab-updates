@@ -1,9 +1,9 @@
 {
-  "versionCode": 373,
-  "versionName": "0.373",
+  "versionCode": 374,
+  "versionName": "0.374",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c45a0258950545b5ab57f5fa25c0ac35b61e1d2f218bbe0e4c5c695d74191193",
+  "sha256": "9b4dc40293a68fe5e69d1ad2b1dce9666ba0e7810211bd8c2d100312bec9f661",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "ba3bc371f55a0adc34c58d9198280e899c009eb59af85b4c6ee73d19596a45dc",
-  "releaseNotes": "0.373: Die Farben der Verlaufsbalken für Laden, Verbrauch und Akkuverschleiß sind leicht stärker voneinander abgesetzt; Legende und Beschriftungen stimmen mit den Balken überein."
+  "aabSha256": "07f8f309d7ad9d5c4f1f53ac64eed9841347d460b86763f850843ce1e13ad034",
+  "releaseNotes": "0.374: Die Balkenfarben sind deutlicher unterscheidbar: Laden bleibt Türkis, Verbrauch ist Mintgrün und Verschleiß ist Himmelblau. Legende und Beschriftungen passen dazu."
 }

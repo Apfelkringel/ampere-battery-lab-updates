@@ -1,9 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.373.
+The application source code and user data are not stored here. The current manifest points to release 0.374.
 
-Release 0.373 subtly separates the history-chart colors for charging, consumption and wear; matching legend labels use the same colors.
+Release 0.374 makes the history-chart series easier to distinguish: charging remains turquoise, consumption is mint green, and battery wear is sky blue; legend and labels match.
 
 Release 0.372 adds optional usage analytics, disabled by default until the user explicitly consents. Release 0.371 refreshes the persistent local battery notification every second with the current level, charging/discharging state, current, temperature and voltage, and clarifies Android background permission requirements.
 
