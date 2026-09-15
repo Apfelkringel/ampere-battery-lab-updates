@@ -1,9 +1,9 @@
 {
-  "versionCode": 375,
-  "versionName": "0.375",
+  "versionCode": 382,
+  "versionName": "0.382",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6b35c1fc56e5ceeb013b0adaaa750fd961f6d5f5a1dc7e65378bb4c49a90bbe7",
+  "sha256": "e9be1b8eb98b0904b69888ab588dffcb276e4d82cf8f5de89b5c90acf84ac185",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "f9fd2b03893781844d0ef60f083fadb21e3b46459c02347e5d91d6129d8aef90",
-  "releaseNotes": "0.375: Android-Versionen unter 8 öffnen für Benachrichtigungen zuverlässig die App-Details. Die Akkuoptimierungseinstellung führt zur allgemeinen Systemliste statt direkt eine Ausnahme anzufordern."
+  "aabSha256": "642b6cf39c953c028b6fb6b3216b2f1cf5bc51f9616d34250bb359802f54642a",
+  "releaseNotes": "0.382: Die Verlaufsstatistik benennt Kalenderzeiträume jetzt identisch in Ansicht und Screenreader. Die Balkenwerte für Ladung, Verbrauch, Verschleiß und Effizienz werden vollständig vorgelesen und ihre getrennte Skalierung wird erklärt."
 }
