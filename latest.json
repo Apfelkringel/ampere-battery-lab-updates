@@ -1,9 +1,9 @@
 {
-  "versionCode": 358,
-  "versionName": "0.358",
+  "versionCode": 359,
+  "versionName": "0.359",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "38ee98df5364f3c5c4e81a6ab9f6519b073f5a24992b7d287e932b34277d5e01",
+  "sha256": "7c922f2621b6f38714603eda1ede3df268d65dd0ff9ff828735f10e25e04c0b8",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "309201806bce4e45508485d91fa605f162a288cb6df18122d946830920a8b125",
-  "releaseNotes": "0.358: TalkBack liest wichtige Live-Messwerte und alle Restlaufzeit-Modi mit Datenquelle vor."
+  "aabSha256": "12e9f8768cb86e3895e55b433e088c8ac4c1b39c891f64f0e4de81924fb55e47",
+  "releaseNotes": "0.359: TalkBack liest in der Ladeansicht Ladeziel, Prognose, Bildschirm-Laderaten und Sitzungswerte vor."
 }
