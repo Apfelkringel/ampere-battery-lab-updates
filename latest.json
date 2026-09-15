@@ -1,9 +1,9 @@
 {
-  "versionCode": 361,
-  "versionName": "0.361",
+  "versionCode": 362,
+  "versionName": "0.362",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f4962897e7a4b2da57da2a9641ed2b0ed8f7ed712bbd20d53effd9c3d1931ccd",
+  "sha256": "c94600972b72f0dc280e776ef0212b525fd57232c4ea9cc86c163dfe30a559a5",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "f63b09b229a927297167ab949a1a309079f9d5ccfd31455279ae5e30fe793646",
-  "releaseNotes": "0.361: Die Gesundheitsseite bietet eine vollständige TalkBack-Zusammenfassung mit Kapazität, Messquelle, Zyklen und Live-Messwerten."
+  "aabSha256": "4c03b4d7caafa635e124359675681fa97512b21224f575d770075f347ee1a567",
+  "releaseNotes": "0.362: Verbrauchswerte pro App zeigen jetzt ihre Datenquelle und sind eindeutig als Schätzungen gekennzeichnet."
 }
