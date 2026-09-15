@@ -1,10 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here.
+The application source code and user data are not stored here. The current manifest points to release 0.355.
 
-The current manifest points to release 0.338. The signed Play bundle for the
-same release is available at
+The signed Play bundle for the current release is available at
 `Ampere-Battery-Lab-play-release.aab` in this public repository; use the
 `aabUrl` field in `latest.json` for a stable download URL. Release 0.221 uses Android 12+
 responsive `RemoteViews` cutoffs for short, compact and wide widget sizes,

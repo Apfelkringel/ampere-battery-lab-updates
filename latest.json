@@ -1,9 +1,9 @@
 {
-  "versionCode": 354,
-  "versionName": "0.354",
+  "versionCode": 355,
+  "versionName": "0.355",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "19754d9bf1eca8632d9bbb9de607a6f698609a1f8d1e55addbd149e98f182869",
+  "sha256": "14be2b9248048b3cf552ec633c4e21b870cdba65e5945271ebe674eabb2d08ee",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "423db264b67871e54ecca73f4d598c72a4f38c31d612949a010d9bdf10ab5a08",
-  "releaseNotes": "0.354: Neue Restlaufzeit-Prognose für dauerhaft an, Bildschirm aus und normale Nutzung."
+  "aabSha256": "02889f3952d6f8bb0cd08dff6d962b18daceea566a2f9d8df0077fc283416eec",
+  "releaseNotes": "0.355: Restlaufzeit-Schätzungen zeigen jetzt je Modus ihre Datenquelle und kennzeichnen fehlende Daten klar."
 }
