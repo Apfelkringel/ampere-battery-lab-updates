@@ -1,9 +1,9 @@
 {
-  "versionCode": 371,
-  "versionName": "0.371",
+  "versionCode": 372,
+  "versionName": "0.372",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "d804b3b4b125226c755d5e1f44ad81dc798d17ad186af20205e25349c1faadc6",
+  "sha256": "bffca23aa7e86c7afa0ab101eab4789dfa46df0da53548f0e0b357b3555159d1",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "54a2ae75c2a7005616150fd88c9eda2f16bf5b2be950339abd39cfda98a45757",
-  "releaseNotes": "0.371: Die Live-Akku-Benachrichtigung aktualisiert Akkustand, Lade-/Entladestatus, Strom, Temperatur und Spannung jetzt jede Sekunde auch bei geschlossener App. Hinweise zu Benachrichtigungs- und Hintergrundrechten wurden verbessert."
+  "aabSha256": "dc9a0131b15113c7e1a2888c04afb4baada65f11fdf12bc45cb9211cfb1a80aa",
+  "releaseNotes": "0.372: Die freiwillige Nutzungsanalyse ist jetzt verfügbar. Sie bleibt standardmäßig aus und startet erst nach deiner ausdrücklichen Zustimmung. Sie erfasst feste App-Bereiche und ausgewählte Funktionen sowie technische Firebase-App- und Sitzungsdaten, aber keine Akku-Messwerte, Namen aktiver Apps oder Werbe-ID. Du kannst sie jederzeit unter Einstellungen → Daten & Datenschutz ausschalten. Die Analytics-Aufbewahrung ist auf zwei Monate eingestellt. Datenschutzerklärung aktualisiert."
 }
