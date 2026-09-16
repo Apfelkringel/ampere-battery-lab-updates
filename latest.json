@@ -1,9 +1,9 @@
 {
-  "versionCode": 383,
-  "versionName": "0.383",
+  "versionCode": 384,
+  "versionName": "0.384",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "941db6f322fa85ebc2a6f7338262d9c24d162998e40ca4cc913bbd1acde1657d",
+  "sha256": "ab00070dc6768fc26e08bff0d637208a807f0022b8985ceebc863ac1a23fe76e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "125b8b72f1bef2f3a0593cb5408ea01e402354d397a0b20eb437b70904f6975e",
-  "releaseNotes": "0.383: Die Live-Anzeige verdeckt Ampere nicht mehr, solange die App sichtbar ist. Außerhalb der App nutzt sie jetzt die Petrol-Türkis-Farben von Ampere."
+  "aabSha256": "82d54a9a479a54e582afa15cb1e1a7f4fdc47e69ce33876d08c988066396f6a1",
+  "releaseNotes": "0.384: Die Verlaufsquote zeigt jetzt transparent das Verhältnis von geladener zu verbrauchter Energie statt eines irreführenden Wirkungsgrads. Ein echter Wert von 0 % bleibt sichtbar. Außerdem reagieren die Zeitbereich-Schaltflächen auf breiten Displays zuverlässiger und ihre Touch- und Screenreader-Ziele stimmen überein."
 }
