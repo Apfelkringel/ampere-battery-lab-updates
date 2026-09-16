@@ -1,9 +1,9 @@
 {
-  "versionCode": 390,
-  "versionName": "0.390",
+  "versionCode": 391,
+  "versionName": "0.391",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "74d1ac4ec060fb06e0783fb2010919973d73c4fca81ed198cf2bec61c0f7603c",
+  "sha256": "ac94803f5b684664c1371bb9bee6d8cbcf62a7b6ea0cb7f95d13736763e9c8ed",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "9ebc94974d5e9732f5acc9e62d01a56d933c7c6558481616aec1628c90e9e10d",
-  "releaseNotes": "0.390: Neue Nutzer erhalten beim ersten Start eine Einführung in die App-Bereiche und ihre Funktionen. Ampere prüft Benachrichtigungs-, App-Nutzungs- und Overlay-Zugriff selbstständig, erklärt fehlende Berechtigungen und erinnert nach Ablehnung höchstens wöchentlich; entzogene Zugriffe werden beim nächsten Öffnen erkannt."
+  "aabSha256": "964dc4dc51d310b11e8eb49e1159e3053051b2ea50e4e4a47b0769e6e64e27eb",
+  "releaseNotes": "0.391: Neuer, zweistufiger App-Einstieg ohne blockierenden Analyse-Dialog; fehlende Berechtigungen werden monatlich statt wöchentlich erinnert. Verlaufssäulen sind antippbar und zeigen genaue Werte; fehlende Messungen werden klar von 0 unterschieden."
 }
