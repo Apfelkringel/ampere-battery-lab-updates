@@ -1,9 +1,11 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.391.
+The application source code and user data are not stored here. The current manifest points to release 0.392.
 
-Release 0.391 improves the first-open guide, keeps analytics opt-in out of the startup path, and reduces missing-permission reminders to at most monthly (detected revocations remain immediate). History-chart bars can be tapped to inspect exact values; missing measurements are distinguished from zero.
+Release 0.392 makes unavailable runtime forecasts actionable: the three use modes now explain whether an initial discharge or more measurements are needed instead of only showing a dash and “Keine Daten”. Estimates remain unavailable until there is a trustworthy data basis.
+
+Release 0.391 improved the first-open guide, kept analytics opt-in out of the startup path, and reduced missing-permission reminders to at most monthly (detected revocations remain immediate). History-chart bars can be tapped to inspect exact values; missing measurements are distinguished from zero.
 
 Release 0.390 added a first-open guide to the app sections and a permission checklist. Ampere checks notification, app-usage and overlay access on app resume, with weekly reminders for declined requested access and immediate notice after a detected revocation.
 

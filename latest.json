@@ -1,9 +1,9 @@
 {
-  "versionCode": 391,
-  "versionName": "0.391",
+  "versionCode": 392,
+  "versionName": "0.392",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ac94803f5b684664c1371bb9bee6d8cbcf62a7b6ea0cb7f95d13736763e9c8ed",
+  "sha256": "f464ed9210831736c327af9b6e575a1abffaf0ab53dbd549d5cfcc3cf1643ef4",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "964dc4dc51d310b11e8eb49e1159e3053051b2ea50e4e4a47b0769e6e64e27eb",
-  "releaseNotes": "0.391: Neuer, zweistufiger App-Einstieg ohne blockierenden Analyse-Dialog; fehlende Berechtigungen werden monatlich statt wöchentlich erinnert. Verlaufssäulen sind antippbar und zeigen genaue Werte; fehlende Messungen werden klar von 0 unterschieden."
+  "aabSha256": "7a31803e382f4f08eb8959fa08bc887bceed38b54d9467b7e4ac42e2256558f6",
+  "releaseNotes": "0.392: Die Laufzeitprognose erklärt jetzt, wenn noch keine passende Entladehistorie vorliegt oder weitere Messdaten nötig sind. Es werden weiterhin keine Laufzeiten ohne belastbare Grundlage erfunden."
 }
