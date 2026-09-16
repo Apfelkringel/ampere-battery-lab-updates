@@ -1,9 +1,9 @@
 {
-  "versionCode": 385,
-  "versionName": "0.385",
+  "versionCode": 386,
+  "versionName": "0.386",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e777d35875b8b7ac48477e46bcd83a500feeb3fef23a742e801a1c67a54a5a3f",
+  "sha256": "413f8999eefbd5c73091067d623681e36734e427e8628575dbfe4a19624f0897",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "120e46c7dae29ae742b9242d8a21e9718a4d43f42b6bf281ff72b96106b9975f",
-  "releaseNotes": "0.385: Die Akku-Bilanz im Verlauf ist jetzt auch auf schmalen Displays besser lesbar: Die vier Kennzahlen stehen in einer übersichtlichen, zweizeiligen Legende mit klareren Bezeichnungen."
+  "aabSha256": "716eed51afed1086b7bcb00fa98cbd465a387fdcb27963601c1992cb6a17ebda",
+  "releaseNotes": "0.386: Lade- und Entladeprognosen ignorieren jetzt Messwerte mit Zeitstempeln in der Zukunft. Das verhindert irreführende Raten nach einer Uhrkorrektur oder dem Wiederherstellen eines Verlaufs."
 }
