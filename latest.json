@@ -1,9 +1,9 @@
 {
-  "versionCode": 393,
-  "versionName": "0.393",
+  "versionCode": 394,
+  "versionName": "0.394",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "56b312b5b7c0487e8049547ea9f64560e6e0130b55f3da16d7befe22af08e98d",
+  "sha256": "9b80338807ed524bb0c5175150850549646295e007e5c963655fcbbf39b8a967",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "10cc406f903f30a5ffc08db96a3b5da0b7179da2b2580751d34a3b01b7a130ed",
-  "releaseNotes": "0.393: Die Laufzeitprognosen sind auf kleinen Displays klarer gegliedert und besser lesbar. Screenreader können jeden Nutzungsmodus getrennt vorlesen und nennen auch bei fehlenden Messwerten den nächsten sinnvollen Schritt."
+  "aabSha256": "b6f536e037be74b88e1ac840c4206fb1f1dc6c561de858a9a1f9dfac2fa8f32e",
+  "releaseNotes": "0.394: Die Berechtigungsübersicht zeigt wieder alle Status und öffnet die passenden Android-Einstellungen. Auf kleinen Displays und bei großer Schrift bleiben die drei Zugriffszeilen erreichbar."
 }
