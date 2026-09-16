@@ -1,9 +1,9 @@
 {
-  "versionCode": 392,
-  "versionName": "0.392",
+  "versionCode": 393,
+  "versionName": "0.393",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f464ed9210831736c327af9b6e575a1abffaf0ab53dbd549d5cfcc3cf1643ef4",
+  "sha256": "56b312b5b7c0487e8049547ea9f64560e6e0130b55f3da16d7befe22af08e98d",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "7a31803e382f4f08eb8959fa08bc887bceed38b54d9467b7e4ac42e2256558f6",
-  "releaseNotes": "0.392: Die Laufzeitprognose erklärt jetzt, wenn noch keine passende Entladehistorie vorliegt oder weitere Messdaten nötig sind. Es werden weiterhin keine Laufzeiten ohne belastbare Grundlage erfunden."
+  "aabSha256": "10cc406f903f30a5ffc08db96a3b5da0b7179da2b2580751d34a3b01b7a130ed",
+  "releaseNotes": "0.393: Die Laufzeitprognosen sind auf kleinen Displays klarer gegliedert und besser lesbar. Screenreader können jeden Nutzungsmodus getrennt vorlesen und nennen auch bei fehlenden Messwerten den nächsten sinnvollen Schritt."
 }
