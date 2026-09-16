@@ -1,9 +1,9 @@
 {
-  "versionCode": 387,
-  "versionName": "0.387",
+  "versionCode": 388,
+  "versionName": "0.388",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "3539120943d6a7f7d294bf6310635d4fa6995813daacd78201ae9dfc5d94ae4a",
+  "sha256": "b7b8ae11502be6cbceca8e3fb9df037db0530d90906ca26f72b969997e08672d",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "782824123378aec4c24bb4735881cd5230b15aafb78fb19feec0d30299e3a3db",
-  "releaseNotes": "0.387: Der App-Verbrauch ist jetzt klarer als Schätzung gekennzeichnet. Fehlende Akku-Messwerte werden von Verbrauch unterschieden, der keiner App zugeordnet werden kann. Außerdem ist die Zurück-Schaltfläche in den App-Details leichter zu treffen."
+  "aabSha256": "2e22b71ebad02ca10deca4597978f163c77789a64f171314c9e1250d89cd253f",
+  "releaseNotes": "0.388: Die Hintergrundüberwachung zeigt jetzt, wann der Dienst zuletzt bestätigt wurde. Bei veralteten Signalen erklärt Ampere direkt, wie du die Überwachung durch erneutes Öffnen der App wieder startest."
 }
