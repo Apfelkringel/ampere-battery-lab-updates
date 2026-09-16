@@ -1,9 +1,9 @@
 {
-  "versionCode": 395,
-  "versionName": "0.395",
+  "versionCode": 396,
+  "versionName": "0.396",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c3d6e33975db1e6da4a0eeb7b2f407133742e4214bb80404c737aa1e752f9e32",
+  "sha256": "51f01c7fd57a2a8df7ae642c956f12dae7c049bb326c8fff1c63c003458f950f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "941244e3034c1065a3b9a7f761249cc3b0685d2b06964228cb492f0ce5451cab",
-  "releaseNotes": "0.395: Die Akku-Bilanz zeigt jetzt das tatsächliche Skalenmaximum jeder Datenreihe. So lassen sich die normalisierten Balken besser einordnen; Antippen zeigt weiterhin die genauen Werte."
+  "aabSha256": "e73e75def9944a9c15d91add50ddcd55506936a1caad29445a0e77f4c3a9cef1",
+  "releaseNotes": "0.396: Die einzelnen Balken im Verlauf sind jetzt auch mit TalkBack erreichbar und lesen Zeitraum sowie geladene, verbrauchte und verfügbare Verschleißwerte vor. Fehlende Messungen werden klar von null unterschieden."
 }

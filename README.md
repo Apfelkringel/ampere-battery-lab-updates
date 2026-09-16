@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.395.
+The application source code and user data are not stored here. The current manifest points to release 0.396.
+
+Release 0.396 makes each history chart bucket reachable as an individual TalkBack item, including its date and exact metrics. Missing measurements are announced as unavailable rather than zero.
 
 Release 0.395 shows the actual scale maximum for every history-chart series, so normalized bars can be compared meaningfully while tapping still reveals exact values.
 
