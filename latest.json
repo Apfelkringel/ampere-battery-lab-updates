@@ -1,9 +1,9 @@
 {
-  "versionCode": 388,
-  "versionName": "0.388",
+  "versionCode": 389,
+  "versionName": "0.389",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "b7b8ae11502be6cbceca8e3fb9df037db0530d90906ca26f72b969997e08672d",
+  "sha256": "694f52bd9e9f37d7b1643a92f8c34260c959cb20648fca5f467ef7c19c29d827",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "2e22b71ebad02ca10deca4597978f163c77789a64f171314c9e1250d89cd253f",
-  "releaseNotes": "0.388: Die Hintergrundüberwachung zeigt jetzt, wann der Dienst zuletzt bestätigt wurde. Bei veralteten Signalen erklärt Ampere direkt, wie du die Überwachung durch erneutes Öffnen der App wieder startest."
+  "aabSha256": "bf1edb66c8d424d215a9196176e32b063168ec7f35cb3ba053248569dbbaf7d9",
+  "releaseNotes": "0.389: Die 30-Tage-Akkustandskurve zeigt jetzt den letzten echten Messwert jedes Tages statt einer unübersichtlichen Punktwolke. Tage ohne Messung bleiben als Lücke sichtbar. Durchschnitt und Spannweite werden weiterhin aus allen Messpunkten berechnet."
 }
