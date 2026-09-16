@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.375.
+The application source code and user data are not stored here. The current manifest points to release 0.390.
+
+Release 0.390 adds a first-open guide to the app sections and a permission checklist. Ampere checks notification, app-usage and overlay access on app resume, with weekly reminders for declined requested access and immediate notice after a detected revocation.
 
 Release 0.375 fixes notification-settings navigation on Android versions below 8 and opens the general battery-optimization settings list instead of directly requesting an exemption.
 

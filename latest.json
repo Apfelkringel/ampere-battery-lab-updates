@@ -1,9 +1,9 @@
 {
-  "versionCode": 389,
-  "versionName": "0.389",
+  "versionCode": 390,
+  "versionName": "0.390",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "694f52bd9e9f37d7b1643a92f8c34260c959cb20648fca5f467ef7c19c29d827",
+  "sha256": "74d1ac4ec060fb06e0783fb2010919973d73c4fca81ed198cf2bec61c0f7603c",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "bf1edb66c8d424d215a9196176e32b063168ec7f35cb3ba053248569dbbaf7d9",
-  "releaseNotes": "0.389: Die 30-Tage-Akkustandskurve zeigt jetzt den letzten echten Messwert jedes Tages statt einer unübersichtlichen Punktwolke. Tage ohne Messung bleiben als Lücke sichtbar. Durchschnitt und Spannweite werden weiterhin aus allen Messpunkten berechnet."
+  "aabSha256": "9ebc94974d5e9732f5acc9e62d01a56d933c7c6558481616aec1628c90e9e10d",
+  "releaseNotes": "0.390: Neue Nutzer erhalten beim ersten Start eine Einführung in die App-Bereiche und ihre Funktionen. Ampere prüft Benachrichtigungs-, App-Nutzungs- und Overlay-Zugriff selbstständig, erklärt fehlende Berechtigungen und erinnert nach Ablehnung höchstens wöchentlich; entzogene Zugriffe werden beim nächsten Öffnen erkannt."
 }
