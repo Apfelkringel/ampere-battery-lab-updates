@@ -1,9 +1,9 @@
 {
-  "versionCode": 384,
-  "versionName": "0.384",
+  "versionCode": 385,
+  "versionName": "0.385",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "ab00070dc6768fc26e08bff0d637208a807f0022b8985ceebc863ac1a23fe76e",
+  "sha256": "e777d35875b8b7ac48477e46bcd83a500feeb3fef23a742e801a1c67a54a5a3f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "82d54a9a479a54e582afa15cb1e1a7f4fdc47e69ce33876d08c988066396f6a1",
-  "releaseNotes": "0.384: Die Verlaufsquote zeigt jetzt transparent das Verhältnis von geladener zu verbrauchter Energie statt eines irreführenden Wirkungsgrads. Ein echter Wert von 0 % bleibt sichtbar. Außerdem reagieren die Zeitbereich-Schaltflächen auf breiten Displays zuverlässiger und ihre Touch- und Screenreader-Ziele stimmen überein."
+  "aabSha256": "120e46c7dae29ae742b9242d8a21e9718a4d43f42b6bf281ff72b96106b9975f",
+  "releaseNotes": "0.385: Die Akku-Bilanz im Verlauf ist jetzt auch auf schmalen Displays besser lesbar: Die vier Kennzahlen stehen in einer übersichtlichen, zweizeiligen Legende mit klareren Bezeichnungen."
 }
