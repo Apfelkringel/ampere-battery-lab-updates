@@ -1,9 +1,9 @@
 {
-  "versionCode": 396,
-  "versionName": "0.396",
+  "versionCode": 397,
+  "versionName": "0.397",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "51f01c7fd57a2a8df7ae642c956f12dae7c049bb326c8fff1c63c003458f950f",
+  "sha256": "bf4781f66880fbaeba8efcfd0cbe180171df600c7a3b16841edfa818dda950a0",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "e73e75def9944a9c15d91add50ddcd55506936a1caad29445a0e77f4c3a9cef1",
-  "releaseNotes": "0.396: Die einzelnen Balken im Verlauf sind jetzt auch mit TalkBack erreichbar und lesen Zeitraum sowie geladene, verbrauchte und verfügbare Verschleißwerte vor. Fehlende Messungen werden klar von null unterschieden."
+  "aabSha256": "4ef329638305d20a10b282b92b11a00cf3deb1ae109ee8f99cd53e171b4d1eff",
+  "releaseNotes": "0.397: Die App passt sich jetzt besser an große und vergrößerte Systemschrift an: Inhalte umbrechen, bleiben scrollbar und wichtige Aktionen erreichbar. Der ausgewählte Bereich bleibt auch nach einer Android-Neuerstellung der App erhalten."
 }
