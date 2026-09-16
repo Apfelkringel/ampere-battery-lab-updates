@@ -1,9 +1,9 @@
 {
-  "versionCode": 386,
-  "versionName": "0.386",
+  "versionCode": 387,
+  "versionName": "0.387",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "413f8999eefbd5c73091067d623681e36734e427e8628575dbfe4a19624f0897",
+  "sha256": "3539120943d6a7f7d294bf6310635d4fa6995813daacd78201ae9dfc5d94ae4a",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "716eed51afed1086b7bcb00fa98cbd465a387fdcb27963601c1992cb6a17ebda",
-  "releaseNotes": "0.386: Lade- und Entladeprognosen ignorieren jetzt Messwerte mit Zeitstempeln in der Zukunft. Das verhindert irreführende Raten nach einer Uhrkorrektur oder dem Wiederherstellen eines Verlaufs."
+  "aabSha256": "782824123378aec4c24bb4735881cd5230b15aafb78fb19feec0d30299e3a3db",
+  "releaseNotes": "0.387: Der App-Verbrauch ist jetzt klarer als Schätzung gekennzeichnet. Fehlende Akku-Messwerte werden von Verbrauch unterschieden, der keiner App zugeordnet werden kann. Außerdem ist die Zurück-Schaltfläche in den App-Details leichter zu treffen."
 }
