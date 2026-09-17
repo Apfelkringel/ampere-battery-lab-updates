@@ -1,9 +1,9 @@
 {
-  "versionCode": 409,
-  "versionName": "0.409",
+  "versionCode": 410,
+  "versionName": "0.410",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "164dff6c3a77b1509cfbfc961319e5ef1982eee3f05cedd907406fb3e5ce7c0f",
+  "sha256": "caa9617322f4b0866c98f9e72d5ff9761c908eeacb21a40e194e7c5dcb99eca6",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6af290d2c7a0f71f689e23fa0164ff0c29162bd742a0ec0c5d359013aba8dca7",
-  "releaseNotes": "0.409: Das Live-Energiefluss-Widget zeigt jetzt, wie frisch der aktuelle Sensorwert ist."
+  "aabSha256": "f90c916c95ee0bb90b0075134fa1da49cfbc3e21c6998e33f04c3f048958d7bc",
+  "releaseNotes": "0.410: Lange Zeitangaben im Tagesrhythmus bleiben vollständig sichtbar und werden nicht mehr mit Auslassungspunkten abgeschnitten."
 }
