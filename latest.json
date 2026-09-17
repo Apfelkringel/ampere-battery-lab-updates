@@ -1,9 +1,9 @@
 {
-  "versionCode": 427,
-  "versionName": "0.427",
+  "versionCode": 428,
+  "versionName": "0.428",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5d791e33623f44c67de35ca20fd96e99f064b8a17cc81ef3742029831da3b239",
+  "sha256": "ae7da761b7f53e38c7fbbd5f747d0d58f705669ca5c12c70890db53cd24ee904",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6ec5b3b0ad7ac2bc22f650e89edbda03cc32f0f87834015d4871eb8fc23b8b6c",
-  "releaseNotes": "0.427: Gesundheitsseite und aktive Navigation vollständig englisch lokalisiert; Ladefortschritt und Health-Labels verbessert."
+  "aabSha256": "a22cb2d0973fb8c71fcee5820ce2d4dcce6b588a308ee694179e93cd488e584d",
+  "releaseNotes": "0.428: Kennzahl im Verlauf eindeutig als Charge/usage ratio benannt."
 }
