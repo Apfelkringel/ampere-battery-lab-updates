@@ -1,9 +1,9 @@
 {
-  "versionCode": 398,
-  "versionName": "0.398",
+  "versionCode": 399,
+  "versionName": "0.399",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "df00fd3bd8a8633ebf0b973c297de2eadf40ea4eff4431343b762d31ebf71bed",
+  "sha256": "450ea62d8d7214776966700e45d4e08f05b3cb231d832ff844848ae360b20afe",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "0b0e6d16309b10845303e4cb3b48ed711e396e8657fbe86e47ae52d1b61889bf",
-  "releaseNotes": "0.398: Die Navigation ist auf schmalen Displays leichter zu treffen. Prognosen während des Ladens erklären jetzt klarer, wann sie verfügbar werden."
+  "aabSha256": "e1c73be9056b296ab6013c71a123eca5f6cbcd26b0a8204ded3bc1f8fd31c004",
+  "releaseNotes": "0.399: Die Berechtigungsprüfung ist jetzt direkt unter Benachrichtigungen in den Einstellungen zu finden."
 }

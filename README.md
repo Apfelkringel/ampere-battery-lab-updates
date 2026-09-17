@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.398.
+The application source code and user data are not stored here. The current manifest points to release 0.399.
+
+Release 0.399 makes the permission-status checklist visible near the top of Settings, directly after Notifications, on compact screens and with enlarged system text.
 
 Release 0.398 improves usability on narrow screens: navigation targets are at least 48 × 48 dp, page titles remain readable, decorative illustrations no longer collide with key copy, and unavailable charging forecasts explain when an estimate can be made.
 
