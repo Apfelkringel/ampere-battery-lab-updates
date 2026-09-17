@@ -1,9 +1,9 @@
 {
-  "versionCode": 429,
-  "versionName": "0.429",
+  "versionCode": 430,
+  "versionName": "0.430",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "39b2ea00e46d737eded4046e18825d269bd15bccbed33eea795462fd6af08f5d",
+  "sha256": "cacb9c73f7ef7d9e611abec0901f9d51ae2a4f92c5b3254855a3da9f097974f6",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4832f52abc5ea4c7a83ed9015ef12f1badf23dfc0404648066259d2bd3bf7c4b",
-  "releaseNotes": "0.429: App-Verbrauchsansicht mit verständlichen englischen App-, Start- und Statusbezeichnungen verbessert."
+  "aabSha256": "b62d30070ce4bd9a603c9d5d89ffbaacc060eb6d0bc0d88eb01cc1f59ce0875c",
+  "releaseNotes": "0.430: Englische UI vervollständigt, inklusive Toasts, Dialogen, Statuskopie und Kapazitätsmessung."
 }
