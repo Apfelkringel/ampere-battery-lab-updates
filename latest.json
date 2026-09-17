@@ -1,9 +1,9 @@
 {
-  "versionCode": 460,
-  "versionName": "0.460",
+  "versionCode": 461,
+  "versionName": "0.461",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "59da2c596d890113db85577495bbe5d5a9f42088e850e830ec0b5eecedbd7407",
+  "sha256": "6dc658f3706d8fc9bf59a5967097f332ee5c023eea82596ed69e434d722f64ac",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "ee50620677944809ce7b083d33162a926898fc6f1f09f86d57d4010eb794c213",
-  "releaseNotes": "0.460: Kompaktes Widget liest sich besser: gr\u00f6\u00dfere Prozentanzeige, stabilere Breiten, lange Werte mit Auslassungspunkten."
+  "aabSha256": "583d5717343472d11b8e8912cfbbf75dd563748ab0b5844b9e9961a7dd252a59",
+  "releaseNotes": "0.461: Das Widget zeigt bei vollem Akku „Voll geladen“ statt eines irreführenden Ladezustands und verwendet dafür die neutrale Statusfarbe."
 }
