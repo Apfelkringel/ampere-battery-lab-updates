@@ -1,9 +1,9 @@
 {
-  "versionCode": 406,
-  "versionName": "0.406",
+  "versionCode": 407,
+  "versionName": "0.407",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "d675c2a2b676323148ee27f3b130b63adb2ff730ec28ff29045bd49cf0f447d9",
+  "sha256": "9a7cb2757ac88b46eb03a815f5ecb674580280f25cec86c14541edcd31bd8568",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "7316c2b23abaa42f83d365d8494e4f38d85f1c28486944a32c61d1f3f11a0fc8",
-  "releaseNotes": "0.406: Zeitangaben und andere Beschriftungen werden nicht mehr mit drei Punkten abgeschnitten."
+  "aabSha256": "a5a691f9a546e384a1f72ef2661d0e2668d91d21e6cb29a72b620b351415f486",
+  "releaseNotes": "0.407: Monatswerte im Akkuverlauf besser lesbar, Balkenskalierung erklärt und Navigation im Großschriftmodus leichter auffindbar."
 }
