@@ -1,9 +1,9 @@
 {
-  "versionCode": 421,
-  "versionName": "0.421",
+  "versionCode": 422,
+  "versionName": "0.422",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "de3ed6302d68f253fee6c8cbd2b208726b95e3c3bb716c900f11af7b498edeec",
+  "sha256": "543451bee3b38f7408c06b533dd8dbeff6005fc5816b2d7b89999f900522b16c",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "eee79c933dfc67e4d52ad0abd6482dc55c304dc7311733d44facb6eb29ed92ce",
-  "releaseNotes": "0.421: Live-Benachrichtigungen und technische Statusangaben vollständig lokalisiert; Benachrichtigungskanäle verbessert."
+  "aabSha256": "ddb94056809289c9082dfcb4cbef00b2f4e60d5ce3a90e9b8c14e0462dac73bc",
+  "releaseNotes": "0.422: Vollständige englische Lokalisierung für Systemkanäle, Updates, Quick Settings und Hintergrundüberwachung."
 }
