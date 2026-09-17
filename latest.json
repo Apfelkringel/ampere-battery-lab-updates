@@ -1,9 +1,9 @@
 {
-  "versionCode": 439,
-  "versionName": "0.439",
+  "versionCode": 440,
+  "versionName": "0.440",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6cc72c80a3b5e70788ce40b77c08f1a9a316c80dacbee2d5011349e8856598dd",
+  "sha256": "277b6854b05e36b39385f2a9d347d474b2cc9f23e328777eab19d83c82e06d6e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "806f935a887f51b7306b12fb214429870e60fe10f3b923c383a85b4032a58514",
-  "releaseNotes": "0.439: App-Sprache kann jetzt direkt in den Einstellungen zwischen Deutsch und Englisch gewechselt werden."
+  "aabSha256": "96e343e3b590c39ab1eab9bf4caed3b08b0a3c6f9628b7c4d05ee4ef32df29d9",
+  "releaseNotes": "0.440: Sprachumschalter in den Einstellungen besser auffindbar; aktive Sprache wird direkt angezeigt."
 }
