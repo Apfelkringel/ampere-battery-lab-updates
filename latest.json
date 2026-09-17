@@ -1,9 +1,9 @@
 {
-  "versionCode": 436,
-  "versionName": "0.436",
+  "versionCode": 437,
+  "versionName": "0.437",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "18e8288c0066ae96d911718e2f337e672e6a4aeea7593ac7a6d330bdfaec3cb8",
+  "sha256": "441071b6b63c9134da1ed0241228a02f542f918ba53a0d19dc68af2d90411e00",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4f0d2aa1aef4b8cdae5bb3fde1f34fe0d8401e389ee3397a2e4e2d2cb19b275c",
-  "releaseNotes": "0.436: Englische Verlaufstexte für Screenreader und verständlichere englische Bedienhinweise in der Großschrift-Navigation."
+  "aabSha256": "54288ddb1381c7b5e2a182fc323a446fd99fce9ffc5ac89476dae41302e273b5",
+  "releaseNotes": "0.437: Letzte gemischte deutsche Einträge im englischen Einstellungsdialog korrigiert."
 }
