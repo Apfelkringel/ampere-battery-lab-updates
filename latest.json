@@ -1,9 +1,9 @@
 {
-  "versionCode": 452,
-  "versionName": "0.452",
+  "versionCode": 455,
+  "versionName": "0.455",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e0998c1b828230f23cdd4911c490984dbc9734a0c259d35cd6c130f9a2af95fb",
+  "sha256": "8b9f1579b8c75d90af137b50683f83d920e60ad0652517f04aa2ee7689934083",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "d96fc5f99516905b780f1c44ac6f9723473c9657eedde3f4e52f02601e74346b",
-  "releaseNotes": "0.452: Live-Energiefluss und Akkugesundheitsstatus vollständig auf Englisch übersetzt."
+  "aabSha256": "99fcecbf25891f23ff4077dc270995521de5979bdd139312b40a2c36878e4d16",
+  "releaseNotes": "0.455: Weitere gemischte Status-, Lade- und Verlaufsübersetzungen korrigiert."
 }
