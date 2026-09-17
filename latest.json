@@ -1,9 +1,9 @@
 {
-  "versionCode": 432,
-  "versionName": "0.432",
+  "versionCode": 433,
+  "versionName": "0.433",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "f32fc7d00dca3d8a80e1d314d4e926cf85aabf00dacc8f9f0b886bf7cda254bb",
+  "sha256": "61bc31919868bd96aecc82d4622d3779b9bec4f99a805b367d0252a786177c2a",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "146eba2bd84a20a0688c7f25851640a493c7ca5aebf7f88026944e4cc39d1539",
-  "releaseNotes": "0.432: Leere Entladeprognosen zeigen jetzt eine klare nächste Aktion statt einer irreführenden Quellenangabe."
+  "aabSha256": "91b51c80dcbcf1ee98108118f25c5afdc86f3e77706fd6dacc6bfefb19771ada",
+  "releaseNotes": "0.433: Live-Overlay sowie Lade-, Temperatur- und Tiefstandalarme verwenden jetzt die aktive Sprache."
 }
