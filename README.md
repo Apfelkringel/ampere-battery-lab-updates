@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.402.
+The application source code and user data are not stored here. The current manifest points to release 0.403.
+
+Release 0.403 aligns the dashboard's 7D/30D touch targets with the visible chart buttons, including on compact layouts.
 
 Release 0.402 fixes the home dashboard screen-time tile so the full duration is visible instead of being cut off with an ellipsis.
 

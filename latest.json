@@ -1,9 +1,9 @@
 {
-  "versionCode": 402,
-  "versionName": "0.402",
+  "versionCode": 403,
+  "versionName": "0.403",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5c116f1bd22163fdcbaeecde6335b75d6aa00efde8a259fd022b190e29677969",
+  "sha256": "80064c4da41d94bd186c21d732762200cf61b7e3b08a6ec15611ee893377e59e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "40e6f0474578bebc8db769fa548dcb1bdc92b713dc50789348915572448dee91",
-  "releaseNotes": "0.402: Bildschirmzeit auf der Startseite wird vollständig ohne Auslassungspunkte angezeigt."
+  "aabSha256": "321ab8e24adb65ddb7a7cd535114c8b6e1d4e626c967f78f3f18922395d314f5",
+  "releaseNotes": "0.403: Die 7D/30D-Zeitraumschaltflächen im Akkustandsdiagramm reagieren jetzt an ihrer sichtbaren Position zuverlässig."
 }
