@@ -1,9 +1,9 @@
 {
-  "versionCode": 411,
-  "versionName": "0.411",
+  "versionCode": 412,
+  "versionName": "0.412",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8224102e22f12603b7a0ae15e587a5c40acc54bf7e97b6b8f57078ed47dc00c6",
+  "sha256": "1091b4015e8dde16084062c5f372ebf7fb00bcbba64de811657c099ccb473c9f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "dc0d3488b4846eb22572846f0659301261c3d61193b58036cafa0ce50cad1cbf",
-  "releaseNotes": "0.411: Kurze Zeitverläufe zeigen jetzt Uhrzeiten statt wiederholter Wochentage an der Diagrammachse."
+  "aabSha256": "d005deb50e91feab448ea78819533794fa12dcd8a52d32070d7071a6786df18c",
+  "releaseNotes": "0.412: Der App-Akkuverbrauch zeigt jetzt die echten App-Symbole zur schnelleren Orientierung."
 }
