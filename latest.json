@@ -1,9 +1,9 @@
 {
-  "versionCode": 441,
-  "versionName": "0.441",
+  "versionCode": 443,
+  "versionName": "0.443",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "0f5dc33de1aee4647797eeb3504db918adb66bec96692c2a8a0c865a1f825668",
+  "sha256": "f8b357187c576730a12e2844bcbe2476602bfe2b222448752d009a0ebfec03ce",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "29c03cac38544d279625d4059daabd9970da4a31ba8f4318cad4a52846258ad0",
-  "releaseNotes": "0.441: Live-Aktualisierungsfeedback wird jetzt auch in der englischen App korrekt übersetzt."
+  "aabSha256": "2c14951ed690acd42a58c5b84c45a16f10bdc69ddd64f8b869bc8ca6a6b1c8da",
+  "releaseNotes": "0.443: Englische Detaildialoge vervollständigt und Monatsnamen in der Verlaufansicht korrigiert."
 }
