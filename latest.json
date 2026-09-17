@@ -1,9 +1,9 @@
 {
-  "versionCode": 449,
-  "versionName": "0.449",
+  "versionCode": 450,
+  "versionName": "0.450",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "8c14292769bae88e220d0fbe79c39c8d7bc4eaf1ebf4596129027ccf742729f1",
+  "sha256": "1963ec1ae885f48c848cc0fbf047638eb60c69e5b7082bed6a78ad925e52180e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "ac526c70fc31c0234514ab7b2a7566b61c2ae86bc47850ebaee0c916a2be9019",
-  "releaseNotes": "0.449: Weitere gemischte deutsche/englische Status- und Verlaufsangaben vollständig korrigiert."
+  "aabSha256": "fc41c8de91b7811d8b65f645c2e93f0755efb0be880335550ffe140233e7f8cf",
+  "releaseNotes": "0.450: Letzte gemischte Übersetzung im Live-Nutzungsstatus korrigiert."
 }
