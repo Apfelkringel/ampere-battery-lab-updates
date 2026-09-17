@@ -1,9 +1,9 @@
 {
-  "versionCode": 424,
-  "versionName": "0.424",
+  "versionCode": 425,
+  "versionName": "0.425",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "5dc8141145c8aeb7e25c7d172f1ac5eca05e5c9c385952dcae0f26aa23a9ca47",
+  "sha256": "001d7bb0b25113ae9a3f3f0792d4e160cc720827b95810f5f05f66bec795440b",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "77657349a618453c1daad5552d58958c449629466b983b13f20ab6557a1a33b7",
-  "releaseNotes": "0.424: Englische Monatsgrafik vervollständigt und Überlappung im Verlauf behoben."
+  "aabSha256": "a7798e937c09b646a19df2a126f538eb1fde03a5d6ba4e8483a0e866ec214231",
+  "releaseNotes": "0.425: Entladestatus klarer benannt und App-Verbrauchsdetails vollständig englisch lokalisiert."
 }
