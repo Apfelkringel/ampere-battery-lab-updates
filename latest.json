@@ -1,9 +1,9 @@
 {
-  "versionCode": 407,
-  "versionName": "0.407",
+  "versionCode": 408,
+  "versionName": "0.408",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "9a7cb2757ac88b46eb03a815f5ecb674580280f25cec86c14541edcd31bd8568",
+  "sha256": "898b0b807343d0d6c04bb1c894a5bfccc891520db8da4a5eed729e26669a6c0e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "a5a691f9a546e384a1f72ef2661d0e2668d91d21e6cb29a72b620b351415f486",
-  "releaseNotes": "0.407: Monatswerte im Akkuverlauf besser lesbar, Balkenskalierung erklärt und Navigation im Großschriftmodus leichter auffindbar."
+  "aabSha256": "1723ae7a56a0726f8c85d52ef458a687cbeda11858eb23b7a0dc7c34eda94156",
+  "releaseNotes": "0.408: App-Namen und Verbrauchsdetails werden vollständig zweizeilig angezeigt statt abgeschnitten."
 }
