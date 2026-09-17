@@ -1,9 +1,9 @@
 {
-  "versionCode": 430,
-  "versionName": "0.430",
+  "versionCode": 431,
+  "versionName": "0.431",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "cacb9c73f7ef7d9e611abec0901f9d51ae2a4f92c5b3254855a3da9f097974f6",
+  "sha256": "1c672d3dc85a1a294f13b3e88eda986c5afdb44dba09531c7b2da5b2719d4ed0",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "b62d30070ce4bd9a603c9d5d89ffbaacc060eb6d0bc0d88eb01cc1f59ce0875c",
-  "releaseNotes": "0.430: Englische UI vervollständigt, inklusive Toasts, Dialogen, Statuskopie und Kapazitätsmessung."
+  "aabSha256": "640559437875830211c3b798d841365e907c3ee3c64d9bd0cdb1fb07f8798dcc",
+  "releaseNotes": "0.431: Verlaufskarten zeigen jetzt die Gesamtsumme des sichtbaren Zeitfensters mit passender Bereichsbezeichnung."
 }
