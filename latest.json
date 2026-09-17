@@ -1,9 +1,9 @@
 {
-  "versionCode": 437,
-  "versionName": "0.437",
+  "versionCode": 438,
+  "versionName": "0.438",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "441071b6b63c9134da1ed0241228a02f542f918ba53a0d19dc68af2d90411e00",
+  "sha256": "1c160c843cb577889e2ba3e2370bd9718770dbad4a2992970142de9fea7cef76",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "54288ddb1381c7b5e2a182fc323a446fd99fce9ffc5ac89476dae41302e273b5",
-  "releaseNotes": "0.437: Letzte gemischte deutsche Einträge im englischen Einstellungsdialog korrigiert."
+  "aabSha256": "16411bc210bdd4d1a36af8b79dd95c951d77cdf07e10d68fbb7adb161446d1d4",
+  "releaseNotes": "0.438: Englische Zeitverlaufs-Überschriften und Kalenderzeiträume in der Monatsansicht korrigiert."
 }
