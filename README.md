@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.400.
+The application source code and user data are not stored here. The current manifest points to release 0.401.
+
+Release 0.401 requests notification access after the first-run guide explains its purpose, tracks revoked access granted outside the app, and avoids immediately repeating a permission reminder after dismissal.
 
 Release 0.400 prints the exact charge, consumption, wear and charge-ratio values beneath each daily, weekly and monthly battery-balance chart group.
 

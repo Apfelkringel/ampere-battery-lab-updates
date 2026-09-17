@@ -1,9 +1,9 @@
 {
-  "versionCode": 400,
-  "versionName": "0.400",
+  "versionCode": 401,
+  "versionName": "0.401",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "084fdbaed5682e6ca08bb7a7468faffea1a77ee31d149e8faeef745290417a0e",
+  "sha256": "616c22dfbb18b55a9f8988222e24fc2488ac0cd29f9d5bea655d11fc6957418d",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "81be18e97d0ca8935ab7b2ac2a7f1715d830c11410d4f6574f20e7ebb540da22",
-  "releaseNotes": "0.400: Die Akkubilanz zeigt die exakten Werte direkt unter jedem Balken."
+  "aabSha256": "a183beca374fa3fbaa63d163e5a45c275b082c4ca912fcc86a56cf2ea3f24fcc",
+  "releaseNotes": "0.401: Der Erststart erklärt die App und fragt Benachrichtigungen nachvollziehbar ab; widerrufene Zugriffe werden erkannt."
 }
