@@ -1,9 +1,9 @@
 {
-  "versionCode": 459,
-  "versionName": "0.459",
+  "versionCode": 460,
+  "versionName": "0.460",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "846e6a184e11a7be6062d24743fef671e1350a99e747228eade6153344bdc7e7",
+  "sha256": "59da2c596d890113db85577495bbe5d5a9f42088e850e830ec0b5eecedbd7407",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "5bd3b02d83533664938007367f3d7e2bca8958966e330b30112664eb93d05a7b",
-  "releaseNotes": "0.459: Tiefer Sprachscan mit stabiler Übersetzung vollständiger UI-Sätze und Schutz vor gemischten Sprachfragmenten."
+  "aabSha256": "ee50620677944809ce7b083d33162a926898fc6f1f09f86d57d4010eb794c213",
+  "releaseNotes": "0.460: Kompaktes Widget liest sich besser: gr\u00f6\u00dfere Prozentanzeige, stabilere Breiten, lange Werte mit Auslassungspunkten."
 }
