@@ -1,9 +1,9 @@
 {
-  "versionCode": 412,
-  "versionName": "0.412",
+  "versionCode": 413,
+  "versionName": "0.413",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1091b4015e8dde16084062c5f372ebf7fb00bcbba64de811657c099ccb473c9f",
+  "sha256": "8daeb7e9c3eb19f8b4b82885b9c1fc7b7b31c96fec4b296223e81632dd8e8053",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "d005deb50e91feab448ea78819533794fa12dcd8a52d32070d7071a6786df18c",
-  "releaseNotes": "0.412: Der App-Akkuverbrauch zeigt jetzt die echten App-Symbole zur schnelleren Orientierung."
+  "aabSha256": "fab3df6094662209823d98dbd6e7be78d6c45d29c9a04ab7d79a2092fee1872f",
+  "releaseNotes": "0.413: Vollständige englische Benutzeroberfläche für Dashboard, Verlauf, App-Verbrauch, Widgets und Live-Benachrichtigungen."
 }
