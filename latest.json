@@ -1,9 +1,9 @@
 {
-  "versionCode": 410,
-  "versionName": "0.410",
+  "versionCode": 411,
+  "versionName": "0.411",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "caa9617322f4b0866c98f9e72d5ff9761c908eeacb21a40e194e7c5dcb99eca6",
+  "sha256": "8224102e22f12603b7a0ae15e587a5c40acc54bf7e97b6b8f57078ed47dc00c6",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "f90c916c95ee0bb90b0075134fa1da49cfbc3e21c6998e33f04c3f048958d7bc",
-  "releaseNotes": "0.410: Lange Zeitangaben im Tagesrhythmus bleiben vollständig sichtbar und werden nicht mehr mit Auslassungspunkten abgeschnitten."
+  "aabSha256": "dc0d3488b4846eb22572846f0659301261c3d61193b58036cafa0ce50cad1cbf",
+  "releaseNotes": "0.411: Kurze Zeitverläufe zeigen jetzt Uhrzeiten statt wiederholter Wochentage an der Diagrammachse."
 }
