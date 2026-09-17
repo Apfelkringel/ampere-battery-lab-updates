@@ -1,9 +1,9 @@
 {
-  "versionCode": 405,
-  "versionName": "0.405",
+  "versionCode": 406,
+  "versionName": "0.406",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7bea6fd37da65ca4448620a48e87b71d2a3c4d1ca1005a0d3d200e870f9b1a02",
+  "sha256": "d675c2a2b676323148ee27f3b130b63adb2ff730ec28ff29045bd49cf0f447d9",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "2a850ddb9bcffcd420418899f5848686b4328db4a0ca959b03a4f92981c1871f",
-  "releaseNotes": "0.405: Das Entladestromdiagramm zeigt den genauen Zeitraum, die Dauer und die Anzahl der dargestellten Messwerte."
+  "aabSha256": "7316c2b23abaa42f83d365d8494e4f38d85f1c28486944a32c61d1f3f11a0fc8",
+  "releaseNotes": "0.406: Zeitangaben und andere Beschriftungen werden nicht mehr mit drei Punkten abgeschnitten."
 }
