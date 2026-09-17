@@ -1,9 +1,9 @@
 {
-  "versionCode": 433,
-  "versionName": "0.433",
+  "versionCode": 434,
+  "versionName": "0.434",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "61bc31919868bd96aecc82d4622d3779b9bec4f99a805b367d0252a786177c2a",
+  "sha256": "83d9397f3e6277228accc45894622c363b6cf18ca8c5e5425a884f3c1ea28150",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "91b51c80dcbcf1ee98108118f25c5afdc86f3e77706fd6dacc6bfefb19771ada",
-  "releaseNotes": "0.433: Live-Overlay sowie Lade-, Temperatur- und Tiefstandalarme verwenden jetzt die aktive Sprache."
+  "aabSha256": "6ca36da5710f122db742ac032b5d1a5c6e0c51e5ec5079bf681c2e63a970825b",
+  "releaseNotes": "0.434: Englische Zahlen-, Dezimal- und Datumsformate in Verlauf und Statusansichten an die App-Sprache angepasst."
 }
