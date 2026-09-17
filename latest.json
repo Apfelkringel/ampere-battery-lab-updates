@@ -1,9 +1,9 @@
 {
-  "versionCode": 408,
-  "versionName": "0.408",
+  "versionCode": 409,
+  "versionName": "0.409",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "898b0b807343d0d6c04bb1c894a5bfccc891520db8da4a5eed729e26669a6c0e",
+  "sha256": "164dff6c3a77b1509cfbfc961319e5ef1982eee3f05cedd907406fb3e5ce7c0f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "1723ae7a56a0726f8c85d52ef458a687cbeda11858eb23b7a0dc7c34eda94156",
-  "releaseNotes": "0.408: App-Namen und Verbrauchsdetails werden vollständig zweizeilig angezeigt statt abgeschnitten."
+  "aabSha256": "6af290d2c7a0f71f689e23fa0164ff0c29162bd742a0ec0c5d359013aba8dca7",
+  "releaseNotes": "0.409: Das Live-Energiefluss-Widget zeigt jetzt, wie frisch der aktuelle Sensorwert ist."
 }
