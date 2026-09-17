@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.397.
+The application source code and user data are not stored here. The current manifest points to release 0.398.
+
+Release 0.398 improves usability on narrow screens: navigation targets are at least 48 × 48 dp, page titles remain readable, decorative illustrations no longer collide with key copy, and unavailable charging forecasts explain when an estimate can be made.
 
 Release 0.397 adapts the dashboard for enlarged system text with reflowable, scrollable content and reachable actions, while preserving the selected section when Android recreates the app.
 

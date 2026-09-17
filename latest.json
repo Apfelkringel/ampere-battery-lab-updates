@@ -1,9 +1,9 @@
 {
-  "versionCode": 397,
-  "versionName": "0.397",
+  "versionCode": 398,
+  "versionName": "0.398",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "bf4781f66880fbaeba8efcfd0cbe180171df600c7a3b16841edfa818dda950a0",
+  "sha256": "df00fd3bd8a8633ebf0b973c297de2eadf40ea4eff4431343b762d31ebf71bed",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4ef329638305d20a10b282b92b11a00cf3deb1ae109ee8f99cd53e171b4d1eff",
-  "releaseNotes": "0.397: Die App passt sich jetzt besser an große und vergrößerte Systemschrift an: Inhalte umbrechen, bleiben scrollbar und wichtige Aktionen erreichbar. Der ausgewählte Bereich bleibt auch nach einer Android-Neuerstellung der App erhalten."
+  "aabSha256": "0b0e6d16309b10845303e4cb3b48ed711e396e8657fbe86e47ae52d1b61889bf",
+  "releaseNotes": "0.398: Die Navigation ist auf schmalen Displays leichter zu treffen. Prognosen während des Ladens erklären jetzt klarer, wann sie verfügbar werden."
 }
