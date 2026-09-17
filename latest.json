@@ -1,9 +1,9 @@
 {
-  "versionCode": 404,
-  "versionName": "0.404",
+  "versionCode": 405,
+  "versionName": "0.405",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "2e3896ea994df746e4925412d9a3b1958c6e5e137451d7cb264dc95d7a101135",
+  "sha256": "7bea6fd37da65ca4448620a48e87b71d2a3c4d1ca1005a0d3d200e870f9b1a02",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "5bec4bcce68a636be92e7cc4f1ffc0e7fdfc1b76b26c4a3a26e06aebc663f9a4",
-  "releaseNotes": "0.404: Die App-Verbrauchskarte zeigt Top-Apps mit geschätztem Akkuverbrauch, Vergleichsbalken, Nutzungszeit und verfügbarer Rate."
+  "aabSha256": "2a850ddb9bcffcd420418899f5848686b4328db4a0ca959b03a4f92981c1871f",
+  "releaseNotes": "0.405: Das Entladestromdiagramm zeigt den genauen Zeitraum, die Dauer und die Anzahl der dargestellten Messwerte."
 }
