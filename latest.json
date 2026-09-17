@@ -1,9 +1,9 @@
 {
-  "versionCode": 416,
-  "versionName": "0.416",
+  "versionCode": 417,
+  "versionName": "0.417",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "62e2a57600f07544250ebe49794af1e8cbb77032a06c7e0fee5ee80700aee091",
+  "sha256": "ede98fb37e59dd614162036b9cd26207c85454d7e03d778cd4e0962a7bfbfa1b",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "249a5f182bcf2f6a8791af3ed930836ec15f48b0ff4126b656700d7588448719",
-  "releaseNotes": "0.416: Englische Lade-, Gesundheits- und technische Dashboard-Beschriftungen vervollständigt."
+  "aabSha256": "37692cc3a3f989fe6dd54cdc290d68b6b97946b56a16726c63ff9c0550b2f64e",
+  "releaseNotes": "0.417: Englische Einstellungen, Berechtigungsprüfung und Hintergrundüberwachung vervollständigt."
 }
