@@ -1,9 +1,9 @@
 {
-  "versionCode": 423,
-  "versionName": "0.423",
+  "versionCode": 424,
+  "versionName": "0.424",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "66620abfde1704ff204a7f61dd805cd7eb4585c17e351cbcbda4ddb47c933a7d",
+  "sha256": "5dc8141145c8aeb7e25c7d172f1ac5eca05e5c9c385952dcae0f26aa23a9ca47",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "87acb0c3ede9179ee3fa22b38ffbcce45b2150926c80ee92d8422e3a2538aea5",
-  "releaseNotes": "0.423: Zustandsabhängige Startseite und robustere Übersetzung bei app-spezifischer Spracheinstellung."
+  "aabSha256": "77657349a618453c1daad5552d58958c449629466b983b13f20ab6557a1a33b7",
+  "releaseNotes": "0.424: Englische Monatsgrafik vervollständigt und Überlappung im Verlauf behoben."
 }
