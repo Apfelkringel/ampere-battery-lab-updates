@@ -1,9 +1,9 @@
 {
-  "versionCode": 399,
-  "versionName": "0.399",
+  "versionCode": 400,
+  "versionName": "0.400",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "450ea62d8d7214776966700e45d4e08f05b3cb231d832ff844848ae360b20afe",
+  "sha256": "084fdbaed5682e6ca08bb7a7468faffea1a77ee31d149e8faeef745290417a0e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "e1c73be9056b296ab6013c71a123eca5f6cbcd26b0a8204ded3bc1f8fd31c004",
-  "releaseNotes": "0.399: Die Berechtigungsprüfung ist jetzt direkt unter Benachrichtigungen in den Einstellungen zu finden."
+  "aabSha256": "81be18e97d0ca8935ab7b2ac2a7f1715d830c11410d4f6574f20e7ebb540da22",
+  "releaseNotes": "0.400: Die Akkubilanz zeigt die exakten Werte direkt unter jedem Balken."
 }
