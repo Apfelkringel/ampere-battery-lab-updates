@@ -1,9 +1,9 @@
 {
-  "versionCode": 414,
-  "versionName": "0.414",
+  "versionCode": 415,
+  "versionName": "0.415",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1db0a788dc64edb6fb6cc56ce11fb848f8d1454c5deabb36e4ce49d1756fa5f5",
+  "sha256": "8a7f08b54bf134db7b00dcde782c79bf97b71038bb2c00fac62e221981684586",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "12d89d3146e0b0925953a76b46bc464002faca37e18d727fc017210850175e01",
-  "releaseNotes": "0.414: Englische Empty States und Lade-/Gesundheitsstatus auf dem Dashboard vervollständigt."
+  "aabSha256": "8c823946382bedd9c8e7fcec2b35d5d13a5a700f233a65e90122e70f0e923d55",
+  "releaseNotes": "0.415: Englische Beschriftungen auf Entladen-, Verlauf-, App-Verbrauch- und Accessibility-Seiten vervollständigt."
 }
