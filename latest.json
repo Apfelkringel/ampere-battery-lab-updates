@@ -1,9 +1,9 @@
 {
-  "versionCode": 462,
-  "versionName": "0.462",
+  "versionCode": 463,
+  "versionName": "0.463",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7efc8f1d8487cf9fdbc99ce780d39185ca7a6f82ecb0962fb1694b3d2ce43963",
+  "sha256": "c6c3feb849084cd4254b1c1866d5f4e3e5f9215f386b82cb8d90f73696106495",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "881d3c50d6d619bed23f0b0ab8e5760059d73388f7b8712601eb8d9bcca37792",
-  "releaseNotes": "0.462: „Rate n/v“ und „EFC n/v“ werden jetzt ausgeschrieben („nicht verfügbar“), und das Verlaufsdiagramm stürzt nicht mehr ab, wenn keine auswertbaren Messwerte vorliegen."
+  "aabSha256": "c013bb823bed739dfb5b36d88188c2d36acc65078915bf200699baf642ae6eed",
+  "releaseNotes": "0.463: Statusmeldungen (Backup, CSV-Export, Diagnose, Live-Aktualisierung) decken sich jetzt nicht mehr stapelweise, und das App-Symbol in der Entlade-Ansicht wird vom Screenreader nicht mehr doppelt vorgelesen."
 }
