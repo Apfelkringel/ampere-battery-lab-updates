@@ -1,9 +1,9 @@
 {
-  "versionCode": 463,
-  "versionName": "0.463",
+  "versionCode": 464,
+  "versionName": "0.464",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "c6c3feb849084cd4254b1c1866d5f4e3e5f9215f386b82cb8d90f73696106495",
+  "sha256": "cb16537ec6e106e88f09033e8c8e673054f168edad99f1b7ea7f9cdc062e71dc",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "c013bb823bed739dfb5b36d88188c2d36acc65078915bf200699baf642ae6eed",
-  "releaseNotes": "0.463: Statusmeldungen (Backup, CSV-Export, Diagnose, Live-Aktualisierung) decken sich jetzt nicht mehr stapelweise, und das App-Symbol in der Entlade-Ansicht wird vom Screenreader nicht mehr doppelt vorgelesen."
+  "aabSha256": "eaed05f1c0eddf51b7ec20e26d7106505aad5cc0f5ed63fe818b4c46ef5ef422",
+  "releaseNotes": "0.464: Das App-Verbrauchs-Diagramm ruft Paketmanager und Launcher-Icons nicht mehr bei jedem Frame neu auf, und die Schlie\u00dfen-Buttons im Einstellungs- und App-Verbrauchs-Dialog reagieren jetzt zuverl\u00e4ssig auf Klicks."
 }
