@@ -1,9 +1,9 @@
 {
-  "versionCode": 461,
-  "versionName": "0.461",
+  "versionCode": 462,
+  "versionName": "0.462",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6dc658f3706d8fc9bf59a5967097f332ee5c023eea82596ed69e434d722f64ac",
+  "sha256": "7efc8f1d8487cf9fdbc99ce780d39185ca7a6f82ecb0962fb1694b3d2ce43963",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "583d5717343472d11b8e8912cfbbf75dd563748ab0b5844b9e9961a7dd252a59",
-  "releaseNotes": "0.461: Das Widget zeigt bei vollem Akku „Voll geladen“ statt eines irreführenden Ladezustands und verwendet dafür die neutrale Statusfarbe."
+  "aabSha256": "881d3c50d6d619bed23f0b0ab8e5760059d73388f7b8712601eb8d9bcca37792",
+  "releaseNotes": "0.462: „Rate n/v“ und „EFC n/v“ werden jetzt ausgeschrieben („nicht verfügbar“), und das Verlaufsdiagramm stürzt nicht mehr ab, wenn keine auswertbaren Messwerte vorliegen."
 }
