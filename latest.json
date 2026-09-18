@@ -1,9 +1,9 @@
 {
-  "versionCode": 464,
-  "versionName": "0.464",
+  "versionCode": 465,
+  "versionName": "0.465",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "cb16537ec6e106e88f09033e8c8e673054f168edad99f1b7ea7f9cdc062e71dc",
+  "sha256": "400be4b5a1542e785226f819b52bd9efd4cc16831b250840f5705889330b188f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "eaed05f1c0eddf51b7ec20e26d7106505aad5cc0f5ed63fe818b4c46ef5ef422",
-  "releaseNotes": "0.464: Das App-Verbrauchs-Diagramm ruft Paketmanager und Launcher-Icons nicht mehr bei jedem Frame neu auf, und die Schlie\u00dfen-Buttons im Einstellungs- und App-Verbrauchs-Dialog reagieren jetzt zuverl\u00e4ssig auf Klicks."
+  "aabSha256": "9cea1505cc0ad14d2893750e4ef07c0a293f78e320e9ccc29174702e6837a656",
+  "releaseNotes": "0.465: Update-Hinweise nutzen jetzt denselben Toast-Dedup-Mechanismus wie Backup und Export, und neue Regressionstests sch\u00fctzen die Chart-Hit-Test-, Datums- und Tagesgruppierungs-Logik."
 }
