@@ -1,9 +1,9 @@
 {
-  "versionCode": 466,
-  "versionName": "0.466",
+  "versionCode": 467,
+  "versionName": "0.467",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "b6d11c06eefe0cba8666164280a3c4544a2cd4f6bb6dcd075f3d74ef2c10b825",
+  "sha256": "e5a6ced3d5e4173b1472508449042e03e85907482002978548bf6236e3126fbc",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "f470e791eca1ec19473806511445b4255fe7a66f1741f87eaa23e7199b11ce78",
-  "releaseNotes": "0.466: Neue Regressionstests sch\u00fctzen die Telemetrie-Validierung beim Backup-Restore sowie die Edge-Trigger-Logik der Ladeziel- und Tiefstand-Alarme."
+  "aabSha256": "c4e8759cee3f5821a4801247d8ef4276868e0bf3707716f23916efe89dd21b73",
+  "releaseNotes": "0.467: Das App-Symbol im App-Verbrauchs-Dialog nutzt jetzt denselben Cache wie das Diagramm, und neue Tests sichern die Foreground/Background-Sitzungslogik sowie die App-Attribution-Mathematik."
 }
