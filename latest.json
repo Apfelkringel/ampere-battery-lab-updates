@@ -1,9 +1,9 @@
 {
-  "versionCode": 467,
-  "versionName": "0.467",
+  "versionCode": 468,
+  "versionName": "0.468",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "e5a6ced3d5e4173b1472508449042e03e85907482002978548bf6236e3126fbc",
+  "sha256": "6ada4ecfaff4dead3b2cc86a61232518cebc4df157530f710eb7f1eb210a2f86",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "c4e8759cee3f5821a4801247d8ef4276868e0bf3707716f23916efe89dd21b73",
-  "releaseNotes": "0.467: Das App-Symbol im App-Verbrauchs-Dialog nutzt jetzt denselben Cache wie das Diagramm, und neue Tests sichern die Foreground/Background-Sitzungslogik sowie die App-Attribution-Mathematik."
+  "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
+  "releaseNotes": "0.468: Neue Regressionstests sichern die Dauerformatierung, die Fuel-Gauge-Normalisierung und die Time-to-Target-Sch\u00e4tzung gegen Off-by-One-Regressionen."
 }
