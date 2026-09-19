@@ -1,9 +1,9 @@
 {
-  "versionCode": 465,
-  "versionName": "0.465",
+  "versionCode": 466,
+  "versionName": "0.466",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "400be4b5a1542e785226f819b52bd9efd4cc16831b250840f5705889330b188f",
+  "sha256": "b6d11c06eefe0cba8666164280a3c4544a2cd4f6bb6dcd075f3d74ef2c10b825",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "9cea1505cc0ad14d2893750e4ef07c0a293f78e320e9ccc29174702e6837a656",
-  "releaseNotes": "0.465: Update-Hinweise nutzen jetzt denselben Toast-Dedup-Mechanismus wie Backup und Export, und neue Regressionstests sch\u00fctzen die Chart-Hit-Test-, Datums- und Tagesgruppierungs-Logik."
+  "aabSha256": "f470e791eca1ec19473806511445b4255fe7a66f1741f87eaa23e7199b11ce78",
+  "releaseNotes": "0.466: Neue Regressionstests sch\u00fctzen die Telemetrie-Validierung beim Backup-Restore sowie die Edge-Trigger-Logik der Ladeziel- und Tiefstand-Alarme."
 }
