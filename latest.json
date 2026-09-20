@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "versionCode": 468,
   "versionName": "0.468",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
@@ -8,13 +7,3 @@
   "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
   "releaseNotes": "0.468: Neue Regressionstests sichern die Dauerformatierung, die Fuel-Gauge-Normalisierung und die Time-to-Target-Sch\u00e4tzung gegen Off-by-One-Regressionen."
 }
-=======
-  "versionCode": 471,
-  "versionName": "0.471",
-  "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6480fa3059197dbeb2cf2bec5e89a886b090fcd2d10060cbf0faadaff7b088f0",
-  "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
-  "releaseNotes": "0.471: Neues Update-Banner im Header (Antippen pr\u00fcft sofort auf Updates), Kollisions-Fix bei Benachrichtigungs-IDs und \u00dcbersetzungen f\u00fcr Update-Dialoge erg\u00e4nzt. Hinweis: Dieses Release ist neu signiert \u2014 bitte manuell installieren; zuk\u00fcnftige In-App-Updates funktionieren wieder normal."
-}
->>>>>>> 0dbaf04 (Release 0.471: update banner, notification fix, i18n)
