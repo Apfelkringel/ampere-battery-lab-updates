@@ -2,7 +2,7 @@
   "versionCode": 471,
   "versionName": "0.471",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "6480fa3059197dbeb2cf2bec5e89a886b090fcd2d10060cbf0faadaff7b088f0",
+  "sha256": "d4b702c6fb9fbcad7cc95a9a6821973694ceb6cfad5cf5dce45c53faefe1d154",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
   "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
   "releaseNotes": "0.471: Neues Update-Banner im Header (Antippen pr\u00fcft sofort auf Updates), Kollisions-Fix bei Benachrichtigungs-IDs und \u00dcbersetzungen f\u00fcr Update-Dialoge erg\u00e4nzt."
