@@ -1,9 +1,9 @@
 {
-  "versionCode": 472,
-  "versionName": "0.472",
+  "versionCode": 473,
+  "versionName": "0.473",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "7215599c4a56e098bd71c5afa73524a9e2d7cff9226c78f7670a82fa7d007026",
+  "sha256": "6f750f39057be824d08615f4effbc2106e0a9055b97adf5c05f1645be651fde3",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
   "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
-  "releaseNotes": "0.472: \u00dcbersetzte Update-Fehlermeldungen und \u201eErneut pr\u00fcfen\u201c erg\u00e4nzt \u2014 der Update-Check zeigt jetzt auf englischen Ger\u00e4ten durchg\u00e4ngig Englisch."
+  "releaseNotes": "0.473: Fix f\u00fcr den verworfenen Update-Download \u2014 der gepinnte Release-Zertifikat-Hash stimmt jetzt mit dem tats\u00e4chlichen Signer \u00fcberein, sodass die APK-Pr\u00fcfung die eigene Signatur wieder akzeptiert."
 }
