@@ -1,9 +1,9 @@
 {
-  "versionCode": 481,
-  "versionName": "0.481",
+  "versionCode": 482,
+  "versionName": "0.482",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "e6b403de83fe0e7b6df5c0edd348ed97eac453545de754a81125fbdf73d8f6dd",
+  "sha256": "a88ae41c16d5a0d822c7102c515552b68e1910c57f6c1dd1ebadeb26e8c36ba8",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4d069e8b09056fda2081ea358bbae1d07f3d78b2a7f06c71bf0930fbb17894fc",
-  "releaseNotes": "0.481 Brücke: ältere App-Versionen (vor 0.473) lehnen rotierte APKs ab. Diese Version öffnet den Pin-Check temporär, damit auch 0.471/0.472-Tester das Update automatisch erhalten. Sicherheits-Fix in einer späteren Version (0.482+)."
+  "aabSha256": "75d6177e069b68bdd3f4fc2b2232ff33741979e65b46eedf36b33e35d74b0aaf",
+  "releaseNotes": "0.482 setzt den Fail-Open-Pin-Check aus 0.481 fort und ergänzt Logging für die Fehlersuche. Auf API < 28 in 0.475-0.478 schlägt der V1-Pin fehl (info.signatures = [eabc1c], Pin = fa29b8)."
 }
