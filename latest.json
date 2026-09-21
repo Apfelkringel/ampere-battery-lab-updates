@@ -4,6 +4,6 @@
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
   "sha256": "d8f86bb45f6b945737f41e6014c6977a030dc871038a898ccd76768c7e27bccf",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "220dfd36860decd2d99272942a946a5af9a4997e1aba4937063d4b080a8e1e15",
+  "aabSha256": "7073f90f625d506b5aacf71e921ed19176c038a69aedce4ff7365bfafcc9b6f7",
   "releaseNotes": "0.479 repariert den Update-Banner: ältere persistierte Banner mit veralteter apkUrl/sha256 werden beim App-Start verworfen und ein frischer Check gegen latest.json ausgeführt. Damit übernimmt die App nach jedem Start garantiert die aktuellen Update-Daten."
 }
