@@ -1,9 +1,9 @@
 {
-  "versionCode": 479,
-  "versionName": "0.479",
+  "versionCode": 480,
+  "versionName": "0.480",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "d8f86bb45f6b945737f41e6014c6977a030dc871038a898ccd76768c7e27bccf",
+  "sha256": "57713cf9e18f7f4869b59c819f29a20c94ceb2f54db2ed02ec38066bb4fbd5fa",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "7073f90f625d506b5aacf71e921ed19176c038a69aedce4ff7365bfafcc9b6f7",
-  "releaseNotes": "0.479 repariert den Update-Banner: ältere persistierte Banner mit veralteter apkUrl/sha256 werden beim App-Start verworfen und ein frischer Check gegen latest.json ausgeführt. Damit übernimmt die App nach jedem Start garantiert die aktuellen Update-Daten."
+  "aabSha256": "4652199de72de661b06ab30bbdde80c8e3628e455b9073baae3102d43c140ded",
+  "releaseNotes": "0.480 ist die neue In-App-Update-Verteilung: alle Tester auf 0.475-0.479 erhalten das Update automatisch über den normalen In-App-Update. Tester auf älteren Versionen (vor 0.475) müssen einmalig die APK manuell herunterladen."
 }
