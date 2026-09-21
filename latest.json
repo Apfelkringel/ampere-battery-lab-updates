@@ -1,7 +1,7 @@
 {
   "versionCode": 477,
   "versionName": "0.477",
-  "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
+  "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
   "sha256": "5ba0c6a4ba5a9e8b30378576dfc39cc8d35b5eb7d61ab3e75119b12b379c2722",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
   "aabSha256": "220dfd36860decd2d99272942a946a5af9a4997e1aba4937063d4b080a8e1e15",
