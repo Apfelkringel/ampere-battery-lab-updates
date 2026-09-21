@@ -1,9 +1,9 @@
 {
-  "versionCode": 476,
-  "versionName": "0.476",
+  "versionCode": 477,
+  "versionName": "0.477",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "cfa6a5ff56e43f4f48aa4a2c46fd4f853ab516e4697b50eb853a6c1f3eea2603",
+  "sha256": "5ba0c6a4ba5a9e8b30378576dfc39cc8d35b5eb7d61ab3e75119b12b379c2722",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4c34d2f4034a07d034a871c5ccbcb86cf7b4f595636605d64dcf27ac13070889",
-  "releaseNotes": "0.476: Signatur-Gate repariert — die direkte APK akzeptiert jetzt die vollständige Debug→Ampere-Lineage und verifiziert den aktuellen Release-Pin fa29b8… vor dem Build."
+  "aabSha256": "220dfd36860decd2d99272942a946a5af9a4997e1aba4937063d4b080a8e1e15",
+  "releaseNotes": "0.477 ergänzt die Update-Verifikation: Der Prüfcode berücksichtigt jetzt neben der Signaturhistorie auch den aktuellen Ampere-Signer. Damit nimmt die App rotierte APK-Releases wieder an und verwirft das Update nicht mehr."
 }
