@@ -1,9 +1,9 @@
 {
-  "versionCode": 480,
-  "versionName": "0.480",
+  "versionCode": 481,
+  "versionName": "0.481",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "57713cf9e18f7f4869b59c819f29a20c94ceb2f54db2ed02ec38066bb4fbd5fa",
+  "sha256": "e6b403de83fe0e7b6df5c0edd348ed97eac453545de754a81125fbdf73d8f6dd",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "4652199de72de661b06ab30bbdde80c8e3628e455b9073baae3102d43c140ded",
-  "releaseNotes": "0.480 ist die neue In-App-Update-Verteilung: alle Tester auf 0.475-0.479 erhalten das Update automatisch über den normalen In-App-Update. Tester auf älteren Versionen (vor 0.475) müssen einmalig die APK manuell herunterladen."
+  "aabSha256": "4d069e8b09056fda2081ea358bbae1d07f3d78b2a7f06c71bf0930fbb17894fc",
+  "releaseNotes": "0.481 Brücke: ältere App-Versionen (vor 0.473) lehnen rotierte APKs ab. Diese Version öffnet den Pin-Check temporär, damit auch 0.471/0.472-Tester das Update automatisch erhalten. Sicherheits-Fix in einer späteren Version (0.482+)."
 }
