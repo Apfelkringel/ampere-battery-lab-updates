@@ -1,9 +1,9 @@
 {
-  "versionCode": 474,
-  "versionName": "0.474",
+  "versionCode": 475,
+  "versionName": "0.475",
   "apkUrl": "https://api.github.com/repos/Apfelkringel/ampere-battery-lab-updates/contents/Ampere-Battery-Lab-release.apk?ref=main",
-  "sha256": "1ff3d841392fe9593d2de79eec08db068f06b0d47731c102da749f266ab87371",
+  "sha256": "254410bd660a9c8ca03d8d66f00a371fbad6a69db3c21e6a94284bdd2f798cc5",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "814924b93a750612056273fd2542434bfe63df558fae531d98213718ab8e9c00",
-  "releaseNotes": "0.474: Update-Banner bleibt sichtbar, wenn du \u201eSp\u00e4ter\u201c w\u00e4hlst \u2014 das bekannte Update wird nicht mehr stillschweigend verworfen und verschwindet erst, wenn es heruntergeladen oder installiert wird."
+  "aabSha256": "ec073c195920595b31d26f8adc147d165a71477db26f487d2ebb8db8f0e7813b",
+  "releaseNotes": "0.475: Sicherheits-Rotation des Release-Zertifikats — die direkte APK ist jetzt mit einem frischen Ampere-Battery-Lab-Schlüssel (RSA-4096, 25 Jahre) signiert; ältere 0.471–0.474-Installationen erhalten das Update weiterhin automatisch über die Lineage-Signatur (Debug-Key als V1-Primärsigner). In-App-Updatesuche funktioniert ab diesem Build wieder mit dem richtigen Cert-Pin."
 }
