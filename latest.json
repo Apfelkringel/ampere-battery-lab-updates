@@ -1,9 +1,9 @@
 {
-  "versionCode": 477,
-  "versionName": "0.477",
+  "versionCode": 478,
+  "versionName": "0.478",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "5ba0c6a4ba5a9e8b30378576dfc39cc8d35b5eb7d61ab3e75119b12b379c2722",
+  "sha256": "17176a5d3cf86f4cdcae661676f7dd32395934d1b00a302d2b1e2dee165abb7c",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
   "aabSha256": "220dfd36860decd2d99272942a946a5af9a4997e1aba4937063d4b080a8e1e15",
-  "releaseNotes": "0.477 ergänzt die Update-Verifikation: Der Prüfcode berücksichtigt jetzt neben der Signaturhistorie auch den aktuellen Ampere-Signer. Damit nimmt die App rotierte APK-Releases wieder an und verwirft das Update nicht mehr."
+  "releaseNotes": "0.478 erweitert die Update-Verifikation: der Prüfcode akzeptiert jetzt neben dem aktuellen Ampere-Signer auch den historischen Debug-Key der V3-Lineage. Damit nimmt die App das Update auch dann an, wenn das Gerät noch ältere Android-Versionen (API < 28) verwendet oder das Update-Paket nur die V1-Signatur auswertet."
 }
