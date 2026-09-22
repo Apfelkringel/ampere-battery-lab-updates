@@ -1,0 +1,2 @@
+c2acbfcbf86d40481d5698ba8add3cdbe2d806ef5987d9cc6c2fc0c4f798fec4  android/app/build/outputs/apk/direct/release/app-release.apk
+6ca8499a35fb3669b7fc505ce45e08370eaf18901b24fd764deb5fd6bf495c37  android/app/build/outputs/bundle/playRelease/app-play-release.aab
