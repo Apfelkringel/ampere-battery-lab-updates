@@ -1,9 +1,9 @@
 {
-  "versionCode": 482,
-  "versionName": "0.482",
+  "versionCode": 486,
+  "versionName": "0.486",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "a88ae41c16d5a0d822c7102c515552b68e1910c57f6c1dd1ebadeb26e8c36ba8",
+  "sha256": "6cb6d08396707d880fa15ae403e0cba4a2a3ac74e24e80971e5ec8e498867efa",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "75d6177e069b68bdd3f4fc2b2232ff33741979e65b46eedf36b33e35d74b0aaf",
-  "releaseNotes": "0.482 setzt den Fail-Open-Pin-Check aus 0.481 fort und ergänzt Logging für die Fehlersuche. Auf API < 28 in 0.475-0.478 schlägt der V1-Pin fehl (info.signatures = [eabc1c], Pin = fa29b8)."
+  "aabSha256": "b7a0ff14157685d1c779a61418d1d3d14ec8e35b23d9a6f3b8ef858a1aec2ebd",
+  "releaseNotes": "0.486 führt beim ersten Start sauber durch Benachrichtigungen, App-Nutzungszugriff und Overlay-Berechtigung und stabilisiert die Live-Schätzung für Bildschirm an/aus."
 }
