@@ -1,10 +1,10 @@
 {
-  "versionCode": 491,
-  "versionName": "0.491",
+  "versionCode": 492,
+  "versionName": "0.492",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "1405182a01309977f999e4871f4c25aff97412c921535ddfd4e3a18521e99781",
+  "sha256": "f4a803af943f4f5e6fbbeed7956d9d00ea2286259620ffd5aa00e6e745ee1fca",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "cfe6d96059489febcd54b1b22561a0df034cba7223f697380012b6605684fd2a",
-  "releaseNotes": "Die Startmessung reagiert jetzt sofort, zeigt den aktiven Messstatus und lässt sich direkt auf der Startseite stoppen.",
-  "releaseNotes_en": "The Home measurement button now responds immediately, shows its active state, and can be stopped from the same screen."
+  "aabSha256": "9f87c80029c26dff3ce287c9a3ae0ba2fb91fd63be47b3bb2c230d9a98fce4c6",
+  "releaseNotes": "Die App-Verbrauchsliste zeigt jetzt die richtigen App-Namen und passenden Android-Symbole.",
+  "releaseNotes_en": "The app-usage list now shows the correct app names and matching Android icons."
 }

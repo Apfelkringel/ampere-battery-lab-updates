@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.491.
+The application source code and user data are not stored here. The current manifest points to release 0.492.
+
+Release 0.492 makes the app-usage list show the proper app names and matching Android icons.
 
 Release 0.491 makes the Home capacity-measurement button respond immediately, shows when measurement is running, and lets users stop it from the same screen.
 
