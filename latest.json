@@ -1,10 +1,10 @@
 {
-  "versionCode": 490,
-  "versionName": "0.490",
+  "versionCode": 491,
+  "versionName": "0.491",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "e8664973e7b86dc42bdc17c6f39c17b3427d726b83832dc56ec8c0b34f0ccbf9",
+  "sha256": "1405182a01309977f999e4871f4c25aff97412c921535ddfd4e3a18521e99781",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "92a0229f92f77f67a7d8256ca06940ca7142982b216e74fd2c57f5a91a9abc9c",
-  "releaseNotes": "Englische Sitzungen verschwinden nicht mehr aus dem Verlauf: Datum und Dauer werden korrekt gespeichert, und ältere Einträge werden beim Laden repariert. Verlaufs- und Diagrammwerte bleiben in der gewählten Sprache.",
-  "releaseNotes_en": "English sessions now remain in history: dates and durations are stored correctly, and older entries are repaired on load. History and chart values stay in the selected language."
+  "aabSha256": "cfe6d96059489febcd54b1b22561a0df034cba7223f697380012b6605684fd2a",
+  "releaseNotes": "Die Startmessung reagiert jetzt sofort, zeigt den aktiven Messstatus und lässt sich direkt auf der Startseite stoppen.",
+  "releaseNotes_en": "The Home measurement button now responds immediately, shows its active state, and can be stopped from the same screen."
 }

@@ -1,7 +1,9 @@
 # Ampere Battery Lab updates
 
 This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.405.
+The application source code and user data are not stored here. The current manifest points to release 0.491.
+
+Release 0.491 makes the Home capacity-measurement button respond immediately, shows when measurement is running, and lets users stop it from the same screen.
 
 Release 0.405 labels the discharge-current chart with its exact time range, elapsed duration, and number of plotted samples.
 
