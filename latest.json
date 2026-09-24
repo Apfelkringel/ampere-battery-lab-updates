@@ -1,9 +1,10 @@
 {
-  "versionCode": 488,
-  "versionName": "0.488",
+  "versionCode": 489,
+  "versionName": "0.489",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "c2acbfcbf86d40481d5698ba8add3cdbe2d806ef5987d9cc6c2fc0c4f798fec4",
+  "sha256": "239b054cc1ae4d613ebc14cc6508e1de9112e8adc94de8a70f96a44fa7b7d29e",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6ca8499a35fb3669b7fc505ce45e08370eaf18901b24fd764deb5fd6bf495c37",
-  "releaseNotes": "0.488 behebt veraltete AndroidX-Fragment-Abhängigkeiten und modernisiert die Android-15-Edge-to-Edge-Systemleistenbehandlung für eine robustere Darstellung."
+  "aabSha256": "6c658e554788aa6bc75041f2f79a355bcc5293def03472b38dfc4cca27a5f69a",
+  "releaseNotes": "Englische Übersetzungen für Akku-, Verlaufs- und Hilfetexte verbessert. Die Hintergrundüberwachung zeigt korrekte Zeitangaben und führt direkt zu den passenden Android-Einstellungen.",
+  "releaseNotes_en": "Improved English translations across battery, history, and help screens. Background monitoring now uses correct time wording and links directly to the relevant Android settings."
 }
