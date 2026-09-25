@@ -1,10 +1,10 @@
 {
-  "versionCode": 493,
-  "versionName": "0.493",
+  "versionCode": 494,
+  "versionName": "0.494",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "459d9af63f10250e431d3595117b93d94405cf2f0093b3bfdbcbf08598d46faa",
+  "sha256": "7934bee40e471110b1fd52a4c01f3982904614f16aeb63a101c2f29b93489860",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "f226f6990668a5187c5e083dc1f719364bbda2586b315351e0901bb49b65d383",
-  "releaseNotes": "App-Namen und passende Symbole erscheinen jetzt auch in den App-Verbrauchsdetails. Die Kapazitätsmessung gibt klares Feedback und nennt die Startgrenze genau.",
-  "releaseNotes_en": "App-usage details now show app names with their matching icons. Capacity measurement gives clear feedback with the exact start threshold."
+  "aabSha256": "6ce3fc9ffd9c382fbea7916a901e2ed0fce13dd2048c888a5108484711088bed",
+  "releaseNotes": "Neuer Name: AkkuTakt. Texte und Symbole sind in sieben Sprachen klarer und konsistenter.",
+  "releaseNotes_en": "New name: AkkuTakt. Text and icons are clearer and more consistent in seven languages."
 }
