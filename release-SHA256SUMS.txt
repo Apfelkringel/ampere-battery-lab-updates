@@ -1,2 +1,2 @@
-f4a803af943f4f5e6fbbeed7956d9d00ea2286259620ffd5aa00e6e745ee1fca  Ampere-Battery-Lab-release.apk
-9f87c80029c26dff3ce287c9a3ae0ba2fb91fd63be47b3bb2c230d9a98fce4c6  Ampere-Battery-Lab-play-release.aab
+459d9af63f10250e431d3595117b93d94405cf2f0093b3bfdbcbf08598d46faa  Ampere-Battery-Lab-release.apk
+f226f6990668a5187c5e083dc1f719364bbda2586b315351e0901bb49b65d383  Ampere-Battery-Lab-play-release.aab

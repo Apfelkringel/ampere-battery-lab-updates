@@ -1,10 +1,10 @@
 {
-  "versionCode": 492,
-  "versionName": "0.492",
+  "versionCode": 493,
+  "versionName": "0.493",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "f4a803af943f4f5e6fbbeed7956d9d00ea2286259620ffd5aa00e6e745ee1fca",
+  "sha256": "459d9af63f10250e431d3595117b93d94405cf2f0093b3bfdbcbf08598d46faa",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "9f87c80029c26dff3ce287c9a3ae0ba2fb91fd63be47b3bb2c230d9a98fce4c6",
-  "releaseNotes": "Die App-Verbrauchsliste zeigt jetzt die richtigen App-Namen und passenden Android-Symbole.",
-  "releaseNotes_en": "The app-usage list now shows the correct app names and matching Android icons."
+  "aabSha256": "f226f6990668a5187c5e083dc1f719364bbda2586b315351e0901bb49b65d383",
+  "releaseNotes": "App-Namen und passende Symbole erscheinen jetzt auch in den App-Verbrauchsdetails. Die Kapazitätsmessung gibt klares Feedback und nennt die Startgrenze genau.",
+  "releaseNotes_en": "App-usage details now show app names with their matching icons. Capacity measurement gives clear feedback with the exact start threshold."
 }
