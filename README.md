@@ -1,7 +1,9 @@
-# Ampere Battery Lab updates
+# AkkuTakt updates
 
-This repository contains public release binaries and the update manifest for Ampere Battery Lab.
-The application source code and user data are not stored here. The current manifest points to release 0.492.
+This repository contains public release binaries and the update manifest for AkkuTakt (formerly Ampere Battery Lab).
+The application source code and user data are not stored here. The current manifest points to release 0.496.
+
+Release 0.496 adds automatic on-device battery health estimates after qualifying full charge sessions. Estimates remain local; incomplete or unsupported readings stay unavailable. It also improves app-language selection and battery displays.
 
 Release 0.492 makes the app-usage list show the proper app names and matching Android icons.
 

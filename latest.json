@@ -1,10 +1,10 @@
 {
-  "versionCode": 494,
-  "versionName": "0.494",
+  "versionCode": 496,
+  "versionName": "0.496",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "7934bee40e471110b1fd52a4c01f3982904614f16aeb63a101c2f29b93489860",
+  "sha256": "f2d2a47436d0ce89dc936cde518bf47f28e641f83ea5b6386c08db7b5f89c7e0",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "6ce3fc9ffd9c382fbea7916a901e2ed0fce13dd2048c888a5108484711088bed",
-  "releaseNotes": "Neuer Name: AkkuTakt. Texte und Symbole sind in sieben Sprachen klarer und konsistenter.",
-  "releaseNotes_en": "New name: AkkuTakt. Text and icons are clearer and more consistent in seven languages."
+  "aabSha256": "69fa6b0d301e61b1605cbbba478c1e4a50bf101bc62beddc8d7a4dab7c8aaaa6",
+  "releaseNotes": "Automatische lokale Akkugesundheits-Schätzung nach geeigneten vollständigen Ladevorgängen. App-Sprache und Batterieanzeigen wurden verbessert.",
+  "releaseNotes_en": "Automatic on-device battery health estimates after qualifying full charge sessions. App language selection and battery displays are improved."
 }
