@@ -1,10 +1,10 @@
 {
-  "versionCode": 496,
-  "versionName": "0.496",
+  "versionCode": 497,
+  "versionName": "0.497",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "f2d2a47436d0ce89dc936cde518bf47f28e641f83ea5b6386c08db7b5f89c7e0",
+  "sha256": "6219aea58d3bf53e9afb83072dedf19ac5faa9549bbd472b2f19e45f017df3f4",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "69fa6b0d301e61b1605cbbba478c1e4a50bf101bc62beddc8d7a4dab7c8aaaa6",
-  "releaseNotes": "Automatische lokale Akkugesundheits-Schätzung nach geeigneten vollständigen Ladevorgängen. App-Sprache und Batterieanzeigen wurden verbessert.",
-  "releaseNotes_en": "Automatic on-device battery health estimates after qualifying full charge sessions. App language selection and battery displays are improved."
+  "aabSha256": "be933aa15b4ad51cc145f9bb76066fe35129addd4c57d3910298127968d2d2ec",
+  "releaseNotes": "Die Gesundheitskarte erklärt jetzt die automatische Schätzung nach geeigneten vollen Ladevorgängen und kennzeichnet die manuelle Messung klarer.",
+  "releaseNotes_en": "The health card now explains automatic estimates after qualifying full-charge sessions and labels manual measurement clearly."
 }
