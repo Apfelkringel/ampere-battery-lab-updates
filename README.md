@@ -1,7 +1,9 @@
 # AkkuTakt updates
 
 This repository contains public release binaries and the update manifest for AkkuTakt (formerly Ampere Battery Lab).
-The application source code and user data are not stored here. The current manifest points to release 0.498.
+The application source code and user data are not stored here. The current manifest points to release 0.499.
+
+Release 0.499 avoids repeating optional vendor-battery checks when a device does not provide those readings. Supported live values continue to refresh. The Direct APK is published; the Play AAB is only an artifact and has not been uploaded to Google Play.
 
 Release 0.498 makes battery-health progress match the real capture gates, confirms a value only after it has been stored, and retains qualifying estimates even when the charge interval is too short for a history row. The Direct APK is published; the Play AAB is only an artifact and has not been uploaded to Google Play.
 

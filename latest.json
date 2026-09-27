@@ -1,10 +1,10 @@
 {
-  "versionCode": 498,
-  "versionName": "0.498",
+  "versionCode": 499,
+  "versionName": "0.499",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "aaa4c034bda630ad3e17ec40fb10942c4c49524e9a5e128cfc0f46729580c10a",
+  "sha256": "26c37fec0ca319a78549272669a8e22b2adbf9f76ce66988249780906cf30f7b",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "0c932f4532895fa8c244e32b4432b9db918412666087be93a39a3b5954274731",
-  "releaseNotes": "Der Status zur Akku-Gesundheit zeigt jetzt die tatsächlich fehlenden Voraussetzungen und bestätigt Messwerte erst nach dem Speichern. Gültige Schätzungen gehen auch dann nicht verloren, wenn ein Ladevorgang zu kurz für einen Verlaufseintrag ist.",
-  "releaseNotes_en": "Battery-health status now shows the actual remaining capture requirements and confirms values only after they are saved. Qualifying estimates are retained even when a charge interval is too short for a history entry."
+  "aabSha256": "38839819be6228fd545f6b383535d303f9732651373c899a3e4a2a48ff49eedb",
+  "releaseNotes": "Die Akkuüberwachung prüft optionale Herstellerwerte effizienter. Unterstützte Livewerte werden weiterhin aktualisiert.",
+  "releaseNotes_en": "Battery monitoring checks optional vendor readings more efficiently. Supported live readings continue to refresh."
 }
