@@ -1,10 +1,10 @@
 {
-  "versionCode": 501,
-  "versionName": "0.501",
+  "versionCode": 502,
+  "versionName": "0.502",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "18535ad6ead1a8352a046d27b496202b9059a3d80571d825196e28465ceb1009",
+  "sha256": "0a9fe14c4217ec468a70af90fd8cd5cbd3b53cee8d0c4b2e17436d6caf009de0",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "8165500a00fb1cf43128fb69cc94ad2b3970aebd279752bfc82730000dafb853",
-  "releaseNotes": "Ladealgorithmus und Ladeverhalten werden jetzt mit vollständigen, lokalisierten Bezeichnungen angezeigt.",
-  "releaseNotes_en": "Charging algorithm and behavior now use complete localized labels."
+  "aabSha256": "c0b8f9de4f24593cb0abf8f0c8117a676863ef06cc1cd24b7a95a56503e756ba",
+  "releaseNotes": "Die Live-Anzeige wird bei ausgeschaltetem Bildschirm seltener aktualisiert und reduziert so Hintergrundarbeit.",
+  "releaseNotes_en": "The live notification refreshes less often while the screen is off, reducing background work."
 }
