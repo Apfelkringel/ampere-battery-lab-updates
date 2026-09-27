@@ -1,10 +1,10 @@
 {
-  "versionCode": 503,
-  "versionName": "0.503",
+  "versionCode": 504,
+  "versionName": "0.504",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "0a15ab3dc2746a323a9e3f7bfd951fa3683a9ba981bdaefda2d51684fcf64f2b",
+  "sha256": "4cf0a8fb18310451b39383124678fb581d3cbe2188aacee61ed0d9396ca5e97f",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "ee43d00173fe3d2f3128dfb6ce89278d34968012cb113c1e12da53a672183256",
-  "releaseNotes": "Großschriftansicht: Übersetzungen und Akku-Statusanzeige korrigiert.",
-  "releaseNotes_en": "Fixed translations and battery-status wording in large-text view."
+  "aabSha256": "a363e9d9dcf1a507a330e0f5c165378a8f0b13c75c411cbbe57bf5b4c7bc7c12",
+  "releaseNotes": "Ladeverlauf: Übersetzungen der Lade- und Laufzeitangaben verbessert.",
+  "releaseNotes_en": "Improved charging-history and runtime-estimate translations."
 }
