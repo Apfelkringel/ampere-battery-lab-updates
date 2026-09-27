@@ -1,10 +1,10 @@
 {
-  "versionCode": 497,
-  "versionName": "0.497",
+  "versionCode": 498,
+  "versionName": "0.498",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "6219aea58d3bf53e9afb83072dedf19ac5faa9549bbd472b2f19e45f017df3f4",
+  "sha256": "aaa4c034bda630ad3e17ec40fb10942c4c49524e9a5e128cfc0f46729580c10a",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "be933aa15b4ad51cc145f9bb76066fe35129addd4c57d3910298127968d2d2ec",
-  "releaseNotes": "Die Gesundheitskarte erklärt jetzt die automatische Schätzung nach geeigneten vollen Ladevorgängen und kennzeichnet die manuelle Messung klarer.",
-  "releaseNotes_en": "The health card now explains automatic estimates after qualifying full-charge sessions and labels manual measurement clearly."
+  "aabSha256": "0c932f4532895fa8c244e32b4432b9db918412666087be93a39a3b5954274731",
+  "releaseNotes": "Der Status zur Akku-Gesundheit zeigt jetzt die tatsächlich fehlenden Voraussetzungen und bestätigt Messwerte erst nach dem Speichern. Gültige Schätzungen gehen auch dann nicht verloren, wenn ein Ladevorgang zu kurz für einen Verlaufseintrag ist.",
+  "releaseNotes_en": "Battery-health status now shows the actual remaining capture requirements and confirms values only after they are saved. Qualifying estimates are retained even when a charge interval is too short for a history entry."
 }
