@@ -1,10 +1,10 @@
 {
-  "versionCode": 499,
-  "versionName": "0.499",
+  "versionCode": 500,
+  "versionName": "0.500",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "26c37fec0ca319a78549272669a8e22b2adbf9f76ce66988249780906cf30f7b",
+  "sha256": "69c7b4b31cd0fcb90c5cfbabb9f2133bc28f31bdb83d30773886f3769900e391",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "38839819be6228fd545f6b383535d303f9732651373c899a3e4a2a48ff49eedb",
-  "releaseNotes": "Die Akkuüberwachung prüft optionale Herstellerwerte effizienter. Unterstützte Livewerte werden weiterhin aktualisiert.",
-  "releaseNotes_en": "Battery monitoring checks optional vendor readings more efficiently. Supported live readings continue to refresh."
+  "aabSha256": "eac2360bfa4f5b408f5ee1707c5613ce79de19b61ea52372a197b4614ba84526",
+  "releaseNotes": "Automatische Akku-Gesundheitsschätzungen werden getrennt von manuellen Kapazitätstests gespeichert. Vorhandene Messwerte bleiben erhalten und werden bei unbekannter Quelle entsprechend gekennzeichnet.",
+  "releaseNotes_en": "Automatic battery-health estimates are now stored separately from manual capacity tests. Existing readings are preserved and labeled when their source is unknown."
 }
