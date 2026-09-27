@@ -1,10 +1,10 @@
 {
-  "versionCode": 500,
-  "versionName": "0.500",
+  "versionCode": 501,
+  "versionName": "0.501",
   "apkUrl": "https://raw.githubusercontent.com/Apfelkringel/ampere-battery-lab-updates/main/Ampere-Battery-Lab-release.apk",
-  "sha256": "69c7b4b31cd0fcb90c5cfbabb9f2133bc28f31bdb83d30773886f3769900e391",
+  "sha256": "18535ad6ead1a8352a046d27b496202b9059a3d80571d825196e28465ceb1009",
   "aabUrl": "https://github.com/Apfelkringel/ampere-battery-lab-updates/raw/refs/heads/main/Ampere-Battery-Lab-play-release.aab",
-  "aabSha256": "eac2360bfa4f5b408f5ee1707c5613ce79de19b61ea52372a197b4614ba84526",
-  "releaseNotes": "Automatische Akku-Gesundheitsschätzungen werden getrennt von manuellen Kapazitätstests gespeichert. Vorhandene Messwerte bleiben erhalten und werden bei unbekannter Quelle entsprechend gekennzeichnet.",
-  "releaseNotes_en": "Automatic battery-health estimates are now stored separately from manual capacity tests. Existing readings are preserved and labeled when their source is unknown."
+  "aabSha256": "8165500a00fb1cf43128fb69cc94ad2b3970aebd279752bfc82730000dafb853",
+  "releaseNotes": "Ladealgorithmus und Ladeverhalten werden jetzt mit vollständigen, lokalisierten Bezeichnungen angezeigt.",
+  "releaseNotes_en": "Charging algorithm and behavior now use complete localized labels."
 }
