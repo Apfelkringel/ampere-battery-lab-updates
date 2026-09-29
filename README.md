@@ -1,9 +1,11 @@
 # AkkuTakt updates
 
 This repository contains public release binaries and the update manifest for AkkuTakt (formerly Ampere Battery Lab).
-The application source code and user data are not stored here. The current manifest points to release 0.504.
+The application source code and user data are not stored here. As of 30 September 2026, `latest.json` points to version 0.504 for the public Direct APK. Its Play AAB field also points to 0.504. The latest Play Closed Alpha is version 0.527 (version codes 527 and 459), available to selected testers; Production is inactive. The manifest's AAB link is not the current Alpha bundle.
 
-Release 0.504 improves translations in charging history and runtime estimates. The Direct APK is published; its Play AAB is available to opted-in testers through Google Play Closed testing (Alpha), not Production.
+Release 0.527 was published to Closed Alpha for selected testers on 29 September 2026. It adds a user-triggered analytics deletion request: the app opens a prefilled email draft, disables Analytics after the draft opens, and does not send the message automatically.
+
+Release 0.504 improves translations in charging history and runtime estimates. The Direct APK is the version named by `latest.json`. Its Play AAB was published to Closed Alpha on 27 September and was superseded in the active track by 0.527 on 29 September.
 
 Release 0.503 fixes incomplete and double-translated labels in the large-text view. Automatic battery-health estimation from qualified full-charge sessions remains available and unchanged. The Direct APK is published. Its Play AAB was uploaded to Google Play, but its review submission was withdrawn before it became available to testers.
 
@@ -63,11 +65,11 @@ Release 0.374 makes the history-chart series easier to distinguish: charging rem
 
 Release 0.372 adds optional usage analytics, disabled by default until the user explicitly consents. Release 0.371 refreshes the persistent local battery notification every second with the current level, charging/discharging state, current, temperature and voltage, and clarifies Android background permission requirements.
 
-The signed Play bundle for the current release is available at
-`Ampere-Battery-Lab-play-release.aab` in this public repository; use the
-`aabUrl` field in `latest.json` for a stable download URL. Release 0.221 uses Android 12+
-responsive `RemoteViews` cutoffs for short, compact and wide widget sizes,
-while older launchers keep the measured-size fallback.
+The public `Ampere-Battery-Lab-play-release.aab` file and the manifest's `aabUrl`
+both refer to bundle version 0.504; they are not the current Play Alpha bundle.
+The latest 0.527 Alpha bundle is distributed through Google Play Closed testing.
+Release 0.221 uses Android 12+ responsive `RemoteViews` cutoffs for short,
+compact and wide widget sizes, while older launchers keep the measured-size fallback.
 
 Release 0.100 adds outside-tap and visible-X dismissal for Settings and blocks overlapping update checks, downloads and installer launches. Release 0.101 keeps the colored card rails inside the same rounded shape as their cards and keeps live mA values inside their status surface. Release 0.102 centers every navigation button on its cell with symmetric insets and centers icon/label groups on wide layouts as well. Release 0.103 constrains dashboard text and units to their owning cards and columns so long values cannot cross borders on narrow, wide or landscape layouts. Release 0.104 defines the standard navigation layout, release 0.105 publishes it in the signed APK with a normalized 24-dp icon language, release 0.106 unifies phone layouts using the adaptive 600dp window class and separates the wide gauge from neighboring status content, release 0.107 aligns header control bounds, release 0.108 keeps the live card above system navigation in short landscape windows, release 0.109 uses window orientation for landscape selection, release 0.110 measures the visible display frame for reliable responsive breakpoints, release 0.111 consolidates the top actions into one toolbar rail and removes the redundant navigation divider, and release 0.112 bounds the narrow charging metrics, filters directional session noise and removes web demo data/placeholders.
 
