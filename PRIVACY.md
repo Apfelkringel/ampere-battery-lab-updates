@@ -5,6 +5,10 @@ Diese Richtlinie gilt für AkkuTakt (ehemals Ampere Battery Lab), Android (`com.
 
 ## Deutsch
 
+### Verantwortlicher und Datenschutzkontakt
+
+Verantwortlicher für die Verarbeitung personenbezogener Daten im Zusammenhang mit AkkuTakt ist Julian Dominic Altmann, handelnd unter der Geschäftsbezeichnung Altmann Digital Studio. Altmann Digital Studio ist die Geschäftsbezeichnung des nicht eingetragenen Einzelunternehmens von Julian Dominic Altmann. Anschrift: Amselweg 5, 14513 Teltow, Deutschland. Für Datenschutzanfragen: [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). Das [Impressum](https://ai-on-mac.com/impressum/) enthält die Anbieterangaben.
+
 ### Geltungsbereich und lokale Daten
 
 AkkuTakt benötigt kein Benutzerkonto, zeigt keine Werbung und betreibt keinen eigenen Anwendungsserver. Akku-Messwerte wie Zeitstempel, Akkustand, Ladezustand, Strom, Temperatur, Spannung, Bildschirmstatus, Sitzungen und Gesundheitsmessungen werden lokal auf dem Gerät verarbeitet und gespeichert.
@@ -40,6 +44,10 @@ Soweit das anwendbare Datenschutzrecht diese Rechte vorsieht, kannst du Auskunft
 Für Datenschutzanfragen nutze bitte den Kontakt im jeweiligen App-Store-Eintrag. Weitere Informationen zur Datenverarbeitung durch Google findest du in der [Google-Datenschutzerklärung](https://policies.google.com/privacy) und bei [Firebase Datenschutz und Sicherheit](https://firebase.google.com/support/privacy). Für GitHub gelten die oben verlinkten Datenschutzbestimmungen.
 
 ## English
+
+### Controller and privacy contact
+
+The controller for personal data processing in connection with AkkuTakt is Julian Dominic Altmann, trading as Altmann Digital Studio. Altmann Digital Studio is the business name of Julian Dominic Altmann's unregistered sole proprietorship. Address: Amselweg 5, 14513 Teltow, Germany. For privacy requests, contact [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). The [German legal notice](https://ai-on-mac.com/impressum/) provides the operator details.
 
 ### Scope and data stored locally
 
@@ -77,6 +85,10 @@ For privacy questions, use the contact shown in the relevant app-store listing. 
 
 ## Español
 
+### Responsable y contacto de privacidad
+
+El responsable del tratamiento de los datos personales relacionados con AkkuTakt es Julian Dominic Altmann, que opera bajo el nombre comercial Altmann Digital Studio. Altmann Digital Studio es el nombre comercial de la empresa individual no inscrita de Julian Dominic Altmann. Dirección: Amselweg 5, 14513 Teltow, Alemania. Para consultas de privacidad, escribe a [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). El [aviso legal en alemán](https://ai-on-mac.com/impressum/) contiene los datos del operador.
+
 ### Alcance y datos almacenados localmente
 
 AkkuTakt (antes Ampere Battery Lab) no requiere una cuenta de usuario, no muestra anuncios y no opera un servidor propio. Las lecturas de batería, como marcas de tiempo, nivel, estado de carga, corriente, temperatura, voltaje, estado de pantalla, sesiones y mediciones de salud, se procesan y almacenan en el dispositivo.
@@ -112,6 +124,10 @@ Cuando la legislación de protección de datos aplicable reconozca estos derecho
 Para consultas de privacidad, utiliza el contacto que aparece en la ficha de la app correspondiente. Consulta la [Política de privacidad de Google](https://policies.google.com/privacy) y [Privacidad y seguridad de Firebase](https://firebase.google.com/support/privacy) para conocer las prácticas de Google. La declaración de privacidad de GitHub está enlazada arriba.
 
 ## Français
+
+### Responsable du traitement et contact relatif à la confidentialité
+
+Le responsable du traitement des données personnelles liées à AkkuTakt est Julian Dominic Altmann, exerçant sous le nom commercial Altmann Digital Studio. Altmann Digital Studio est le nom commercial de l’entreprise individuelle non immatriculée de Julian Dominic Altmann. Adresse : Amselweg 5, 14513 Teltow, Allemagne. Pour toute demande relative à la confidentialité, écrivez à [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). Les [mentions légales allemandes](https://ai-on-mac.com/impressum/) indiquent les coordonnées de l’exploitant.
 
 ### Portée et données stockées localement
 
@@ -149,6 +165,10 @@ Pour toute question relative à la confidentialité, utilisez le contact indiqu�
 
 ## Italiano
 
+### Titolare del trattamento e contatto privacy
+
+Il titolare del trattamento dei dati personali relativi ad AkkuTakt è Julian Dominic Altmann, che opera con il nome commerciale Altmann Digital Studio. Altmann Digital Studio è il nome commerciale dell’impresa individuale non iscritta di Julian Dominic Altmann. Indirizzo: Amselweg 5, 14513 Teltow, Germania. Per richieste relative alla privacy, scrivi a [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). Le [informazioni legali in tedesco](https://ai-on-mac.com/impressum/) riportano i dati del gestore.
+
 ### Ambito e dati archiviati localmente
 
 AkkuTakt (in precedenza Ampere Battery Lab) non richiede un account utente, non mostra pubblicità e non gestisce un proprio server applicativo. Le letture della batteria — data e ora, livello, stato di carica, corrente, temperatura, tensione, stato dello schermo, sessioni e misurazioni dello stato della batteria — vengono elaborate e archiviate sul dispositivo.
@@ -185,6 +205,10 @@ Per domande sulla privacy, usa il contatto indicato nella scheda dello store per
 
 ## Português (Brasil)
 
+### Controlador e contato de privacidade
+
+O controlador do tratamento de dados pessoais relacionados ao AkkuTakt é Julian Dominic Altmann, que atua sob o nome comercial Altmann Digital Studio. Altmann Digital Studio é o nome comercial da empresa individual não registrada de Julian Dominic Altmann. Endereço: Amselweg 5, 14513 Teltow, Alemanha. Para solicitações sobre privacidade, escreva para [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). O [aviso legal em alemão](https://ai-on-mac.com/impressum/) informa os dados do responsável pelo site.
+
 ### Escopo e dados armazenados localmente
 
 O AkkuTakt (antigo Ampere Battery Lab) não exige conta de usuário, não exibe anúncios e não opera um servidor próprio. Leituras da bateria — data e hora, nível, estado da carga, corrente, temperatura, tensão, estado da tela, sessões e medições de saúde — são processadas e armazenadas no dispositivo.
@@ -220,6 +244,10 @@ Quando a legislação de proteção de dados aplicável reconhecer esses direito
 Para dúvidas sobre privacidade, use o contato indicado na listagem da loja correspondente. Consulte a [Política de Privacidade do Google](https://policies.google.com/privacy) e [Privacidade e segurança do Firebase](https://firebase.google.com/support/privacy) para saber mais sobre as práticas do Google. A declaração de privacidade do GitHub está vinculada acima.
 
 ## Nederlands
+
+### Verwerkingsverantwoordelijke en privacycontact
+
+De verwerkingsverantwoordelijke voor persoonsgegevens in verband met AkkuTakt is Julian Dominic Altmann, handelend onder de handelsnaam Altmann Digital Studio. Altmann Digital Studio is de handelsnaam van de niet-ingeschreven eenmanszaak van Julian Dominic Altmann. Adres: Amselweg 5, 14513 Teltow, Duitsland. Voor privacyverzoeken kun je mailen naar [macmini-ai.lifter912@silomails.com](mailto:macmini-ai.lifter912@silomails.com). De [Duitse juridische kennisgeving](https://ai-on-mac.com/impressum/) bevat de gegevens van de exploitant.
 
 ### Reikwijdte en lokaal opgeslagen gegevens
 
