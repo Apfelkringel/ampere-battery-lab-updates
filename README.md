@@ -3,6 +3,8 @@
 This repository contains public release binaries and the update manifest for AkkuTakt (formerly Ampere Battery Lab).
 The application source code and user data are not stored here. As of 30 September 2026, `latest.json` points to version 0.504 for the public Direct APK. Its Play AAB field also points to 0.504. The latest Play Closed Alpha is version 0.527 (version codes 527 and 459), available to selected testers; Production is inactive. The manifest's AAB link is not the current Alpha bundle.
 
+For current privacy and Analytics details, including the 0.527 email-draft deletion-request flow, see [PRIVACY.md](PRIVACY.md).
+
 Release 0.527 was published to Closed Alpha for selected testers on 29 September 2026. It adds a user-triggered analytics deletion request: the app opens a prefilled email draft, disables Analytics after the draft opens, and does not send the message automatically.
 
 Release 0.504 improves translations in charging history and runtime estimates. The Direct APK is the version named by `latest.json`. Its Play AAB was published to Closed Alpha on 27 September and was superseded in the active track by 0.527 on 29 September.
