@@ -3,7 +3,13 @@
 This repository contains public release binaries and the update manifest for AkkuTakt (formerly Ampere Battery Lab).
 The application source code and user data are not stored here. The current manifest points to release 0.556.
 
-Release 0.503 fixes incomplete and double-translated labels in the large-text view. Automatic battery-health estimation from qualified full-charge sessions remains available and unchanged. The Direct APK is published; the Play AAB is only an artifact and has not been uploaded to Google Play.
+For current privacy and Analytics details, including the 0.527 email-draft deletion-request flow, see [PRIVACY.md](PRIVACY.md).
+
+Release 0.527 was published to Closed Alpha for selected testers on 29 September 2026. It adds a user-triggered analytics deletion request: the app opens a prefilled email draft, disables Analytics after the draft opens, and does not send the message automatically. No Direct APK was published here for this release.
+
+Release 0.504 improves translations in charging history and runtime estimates. The Direct APK is published. Its Play AAB was published to Closed Alpha on 27 September and was superseded in the active track by 0.527 on 29 September.
+
+Release 0.503 fixes incomplete and double-translated labels in the large-text view. Automatic battery-health estimation from qualified full-charge sessions remains available and unchanged. The Direct APK is published. Its Play AAB was uploaded to Google Play, but its review submission was withdrawn before it became available to testers.
 
 Release 0.502 reduces background work by refreshing the live battery notification every 60 seconds while the screen is off; waking the screen restores one-second updates. The Direct APK is published; the Play AAB is only an artifact and has not been uploaded to Google Play.
 
