@@ -5,6 +5,10 @@ The application source code and user data are not stored here. The current manif
 
 For current privacy and Analytics details, including the 0.527 email-draft deletion-request flow, see [PRIVACY.md](PRIVACY.md).
 
+Release 0.556 makes the charging-current chart show gaps in readings correctly, translates the charging page and dates in every language, aligns tablet layouts, and makes update checks and battery status more reliable. The Direct APK is published; its Play AAB was published to Closed Alpha on 30 October 2026.
+
+Release 0.551 improves Play update handling, battery measurements, tablet layout and translations. It is the first Direct release after 0.504 and includes the changes of the Closed Alpha releases in between. The Direct APK is published; its Play AAB was published to Closed Alpha on 29 October 2026.
+
 Release 0.527 was published to Closed Alpha for selected testers on 29 September 2026. It adds a user-triggered analytics deletion request: the app opens a prefilled email draft, disables Analytics after the draft opens, and does not send the message automatically. No Direct APK was published here for this release.
 
 Release 0.504 improves translations in charging history and runtime estimates. The Direct APK is published. Its Play AAB was published to Closed Alpha on 27 September and was superseded in the active track by 0.527 on 29 September.
